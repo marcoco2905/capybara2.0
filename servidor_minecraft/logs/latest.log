@@ -1091,3 +1091,54 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [27Dec2024 19:36:37.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> :o zicierto
 [27Dec2024 19:44:15.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> chamo
 [27Dec2024 19:44:28.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> ladra
+[27Dec2024 19:44:47.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> ira
+[27Dec2024 19:44:53.057] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiri080 moved wrongly!
+[27Dec2024 19:44:56.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> LA PUCAT
+[27Dec2024 19:45:00.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> JAAJA JULIO Q HAS HECHO
+[27Dec2024 19:45:08.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> el buque de guerra
+[27Dec2024 19:45:13.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> ponle armas
+[27Dec2024 19:45:16.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> es mas rapido?
+[27Dec2024 19:45:18.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> y juimonos
+[27Dec2024 19:45:18.418] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[27Dec2024 19:45:20.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> ni idea
+[27Dec2024 19:45:23.172] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[27Dec2024 19:45:26.607] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiri080 moved wrongly!
+[27Dec2024 19:45:29.155] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[27Dec2024 19:45:40.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> podemos ponerle propulsor
+[27Dec2024 19:45:45.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> :0
+[27Dec2024 19:45:49.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> pero con cohetes
+[27Dec2024 19:45:53.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> osea esos q explotan
+[27Dec2024 19:45:57.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> creo que tengo polvora
+[27Dec2024 19:46:02.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> que mas ocupas?
+[27Dec2024 19:46:16.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> comos ehacen los fuegos artidicailes ?
+[27Dec2024 19:46:39.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> perrito
+[27Dec2024 19:46:43.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> xq no sale el crafteo
+[27Dec2024 19:46:48.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> esas wbdas tienen crafteo
+[27Dec2024 19:46:48.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> no sale
+[27Dec2024 19:46:52.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> se supone
+[27Dec2024 19:46:56.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> a menos q lo hayan quitado
+[27Dec2024 19:47:14.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> a ver subete
+[27Dec2024 19:47:41.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> asumecha
+[27Dec2024 19:47:43.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> duerma chabito
+[27Dec2024 19:47:46.166] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! 6.981356076750217,-0.5554414626278827,-7.151809025091097
+[27Dec2024 19:47:58.662] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiri080 moved wrongly!
+[27Dec2024 19:48:30.255] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiri080 lost connection: Disconnected
+[27Dec2024 19:48:30.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 left the game
+[27Dec2024 19:50:26.757] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kiri080[/127.184.139.169:44905] logged in with entity id 33914 at (-1953.5240172113724, 84.0, 4167.791694518765)
+[27Dec2024 19:50:26.758] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Kiri080
+[27Dec2024 19:50:26.758] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Kiri080
+[27Dec2024 19:50:26.759] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Kiri080
+[27Dec2024 19:50:26.759] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Kiri080
+[27Dec2024 19:50:26.762] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Kiri080
+[27Dec2024 19:50:26.765] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Kiri080
+[27Dec2024 19:50:26.765] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Kiri080
+[27Dec2024 19:50:26.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 joined the game
+[27Dec2024 19:50:26.933] [Server thread/INFO] [Jade/]: Syncing config to Kiri080 (1a5df4eb-57a7-3a18-b41f-1bd2c4729cf5)
+[27Dec2024 19:50:32.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> TAS BIE PERRITO
+[27Dec2024 19:51:02.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> bien lageado todo
+[27Dec2024 19:51:26.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> SUBASE PERRITO
+[27Dec2024 19:51:44.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> Te deja disparar?
+[27Dec2024 19:51:56.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> se mueve
+[27Dec2024 19:51:57.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> nohay municion perrito
+[27Dec2024 19:51:59.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> pero no disparada
+[27Dec2024 19:52:19.112] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!

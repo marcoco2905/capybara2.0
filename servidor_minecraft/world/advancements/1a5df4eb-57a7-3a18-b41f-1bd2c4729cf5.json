@@ -8620,6 +8620,13 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2024-12-27 19:30:43 +0000",
+      "has_the_recipe": "2024-12-27 19:30:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_light_gray_wool": {
     "criteria": {
       "has_needed_dye": "2024-12-27 19:30:53 +0000"
@@ -8631,32 +8638,6 @@
       "has_light_gray_dye": "2024-12-27 19:30:53 +0000"
     },
     "done": false
-  },
-  "minecraft:recipes/building_blocks/smooth_stone_slab": {
-    "criteria": {
-      "has_smooth_stone": "2024-12-27 19:36:53 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
-    "criteria": {
-      "has_white_tulip": "2024-12-27 19:30:43 +0000",
-      "has_the_recipe": "2024-12-27 19:30:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_white_carpet": {
-    "criteria": {
-      "has_the_recipe": "2024-12-27 19:32:05 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/blast_furnace": {
-    "criteria": {
-      "has_smooth_stone": "2024-12-27 19:36:53 +0000",
-      "has_the_recipe": "2024-12-27 19:37:04 +0000"
-    },
-    "done": true
   },
   "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
@@ -8688,18 +8669,6 @@
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
-    "criteria": {
-      "has_smooth_stone": "2024-12-27 19:36:53 +0000"
-    },
-    "done": false
-  },
-  "croptopia:recipes/misc/food_press": {
-    "criteria": {
-      "has_piston": "2024-12-27 19:37:29 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/dye_light_gray_carpet": {
     "criteria": {
       "has_needed_dye": "2024-12-27 19:30:53 +0000"
@@ -8709,6 +8678,37 @@
   "minecraft:recipes/building_blocks/dye_white_wool": {
     "criteria": {
       "has_the_recipe": "2024-12-27 19:32:02 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/dye_white_carpet": {
+    "criteria": {
+      "has_the_recipe": "2024-12-27 19:32:05 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-27 19:36:53 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-27 19:36:53 +0000",
+      "has_the_recipe": "2024-12-27 19:37:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-27 19:36:53 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/misc/food_press": {
+    "criteria": {
+      "has_piston": "2024-12-27 19:37:29 +0000"
     },
     "done": false
   },
