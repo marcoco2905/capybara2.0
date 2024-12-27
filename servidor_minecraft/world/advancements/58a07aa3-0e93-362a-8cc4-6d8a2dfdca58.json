@@ -9341,5 +9341,11 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2024-12-27 17:33:03 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }
