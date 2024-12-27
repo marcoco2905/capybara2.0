@@ -8459,12 +8459,6 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/decorations/birch_shrub": {
-    "criteria": {
-      "has_birch_sapling": "2024-12-27 07:35:23 +0000"
-    },
-    "done": false
-  },
   "croptopia:recipes/misc/blackbean_seed": {
     "criteria": {
       "has_blackbean": "2024-12-27 07:33:55 +0000"
@@ -8510,6 +8504,12 @@
   "croptopia:recipes/food/baked_beans_from_smoking_blackbean": {
     "criteria": {
       "has_blackbean": "2024-12-27 07:33:55 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:recipes/decorations/birch_shrub": {
+    "criteria": {
+      "has_birch_sapling": "2024-12-27 07:35:23 +0000"
     },
     "done": false
   },
