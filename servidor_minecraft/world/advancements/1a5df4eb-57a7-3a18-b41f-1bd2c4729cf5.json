@@ -4682,7 +4682,8 @@
   },
   "knightquest:recipes/misc/evoker_leggings": {
     "criteria": {
-      "has_lapis_lazuli": "2024-12-19 06:36:41 +0000"
+      "has_lapis_lazuli": "2024-12-19 06:36:41 +0000",
+      "has_totem_of_undying": "2024-12-27 07:53:09 +0000"
     },
     "done": false
   },
@@ -4731,7 +4732,8 @@
   },
   "knightquest:recipes/misc/evoker_boots": {
     "criteria": {
-      "has_lapis_lazuli": "2024-12-19 06:36:41 +0000"
+      "has_lapis_lazuli": "2024-12-19 06:36:41 +0000",
+      "has_totem_of_undying": "2024-12-27 07:53:09 +0000"
     },
     "done": false
   },
@@ -4743,13 +4745,15 @@
   },
   "knightquest:recipes/misc/evoker_chestplate": {
     "criteria": {
-      "has_lapis_lazuli": "2024-12-19 06:36:41 +0000"
+      "has_lapis_lazuli": "2024-12-19 06:36:41 +0000",
+      "has_totem_of_undying": "2024-12-27 07:53:09 +0000"
     },
     "done": false
   },
   "knightquest:recipes/misc/evoker_helmet": {
     "criteria": {
-      "has_lapis_lazuli": "2024-12-19 06:36:41 +0000"
+      "has_lapis_lazuli": "2024-12-19 06:36:41 +0000",
+      "has_totem_of_undying": "2024-12-27 07:53:09 +0000"
     },
     "done": false
   },
@@ -5989,6 +5993,7 @@
   },
   "minecraft:recipes/redstone/target": {
     "criteria": {
+      "has_hay_block": "2024-12-27 07:52:51 +0000",
       "has_redstone": "2024-12-20 07:47:14 +0000"
     },
     "done": false
@@ -8516,6 +8521,42 @@
   "croptopia:recipes/misc/ginger_seed": {
     "criteria": {
       "has_ginger": "2024-12-27 07:35:23 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/misc/craft/totem_of_undying": {
+    "criteria": {
+      "has_totem_of_undying": "2024-12-27 07:53:09 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/serenade_of_health": {
+    "criteria": {
+      "has_totem": "2024-12-27 07:53:09 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/burnt/burnt/totem_of_undying": {
+    "criteria": {
+      "has_totem_of_undying": "2024-12-27 07:53:09 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/fodder": {
+    "criteria": {
+      "has_hay_block": "2024-12-27 07:52:51 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate_slab": "2024-12-27 07:52:31 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2024-12-27 07:52:51 +0000"
     },
     "done": false
   },
