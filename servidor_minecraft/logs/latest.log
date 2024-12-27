@@ -1059,3 +1059,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [27Dec2024 19:09:12.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> chasa
 [27Dec2024 19:09:15.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> todo un cheneto
 [27Dec2024 19:09:21.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> KJASDJKASKJD
+[27Dec2024 19:20:56.456] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiri080 moved wrongly!
+[27Dec2024 19:23:52.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> chasumare
+[27Dec2024 19:23:59.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> ASKKASJ

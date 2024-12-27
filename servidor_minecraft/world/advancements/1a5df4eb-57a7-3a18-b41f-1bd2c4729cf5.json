@@ -1206,9 +1206,10 @@
   },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
-      "has_gold_nugget": "2024-12-19 04:03:35 +0000"
+      "has_gold_nugget": "2024-12-19 04:03:35 +0000",
+      "has_the_recipe": "2024-12-27 19:12:20 +0000"
     },
-    "done": false
+    "done": true
   },
   "knightquest:recipes/misc/zombie_boots": {
     "criteria": {
@@ -1225,9 +1226,10 @@
   },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
-      "has_gold_nugget": "2024-12-19 04:03:35 +0000"
+      "has_gold_nugget": "2024-12-19 04:03:35 +0000",
+      "has_the_recipe": "2024-12-27 19:15:51 +0000"
     },
-    "done": false
+    "done": true
   },
   "divinerpg:recipes/shaped/zombie_pumpkin": {
     "criteria": {
