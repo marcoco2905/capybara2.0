@@ -8529,9 +8529,44 @@
     },
     "done": false
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-27 08:38:39 +0000"
+    },
+    "done": false
+  },
   "l2complements:recipes/misc/craft/totem_of_undying": {
     "criteria": {
       "has_totem_of_undying": "2024-12-27 07:53:09 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "direct": "2024-12-27 08:38:55 +0000",
+      "!bit13": "2024-12-27 08:38:55 +0000",
+      "!bit14": "2024-12-27 08:38:55 +0000",
+      "!bit11": "2024-12-27 08:38:55 +0000",
+      "!bit12": "2024-12-27 08:38:55 +0000",
+      "not_target": "2024-12-27 08:38:55 +0000",
+      "!bit10": "2024-12-27 08:38:55 +0000",
+      "!bit9": "2024-12-27 08:38:55 +0000",
+      "!bit8": "2024-12-27 08:38:55 +0000",
+      "!bit7": "2024-12-27 08:38:55 +0000",
+      "!bit6": "2024-12-27 08:38:55 +0000",
+      "!bit5": "2024-12-27 08:38:55 +0000",
+      "!bit4": "2024-12-27 08:38:55 +0000",
+      "!bit3": "2024-12-27 08:38:55 +0000",
+      "!bit2": "2024-12-27 08:38:55 +0000",
+      "!bit1": "2024-12-27 08:38:55 +0000",
+      "!bit0": "2024-12-27 08:38:55 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "direct": "2024-12-27 08:38:57 +0000",
+      "log_spam_fixer": "2024-12-27 08:38:39 +0000"
     },
     "done": false
   },
@@ -8541,9 +8576,51 @@
     },
     "done": false
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-27 08:38:39 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-27 08:38:39 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-27 08:38:39 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-27 08:38:39 +0000"
+    },
+    "done": false
+  },
   "sophisticatedbackpacks:recipes/misc/auto_smoking_upgrade": {
     "criteria": {
       "has_smoking_upgrade": "2024-12-27 08:10:52 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-27 08:38:39 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-27 08:38:39 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-27 08:38:39 +0000"
     },
     "done": false
   },
@@ -8571,6 +8648,13 @@
     },
     "done": true
   },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2024-12-27 08:38:55 +0000",
+      "log_spam_fixer": "2024-12-27 08:38:39 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/fodder": {
     "criteria": {
       "has_hay_block": "2024-12-27 07:52:51 +0000"
@@ -8589,9 +8673,21 @@
     },
     "done": false
   },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-27 08:38:39 +0000"
+    },
+    "done": false
+  },
   "sophisticatedbackpacks:recipes/misc/auto_smelting_upgrade": {
     "criteria": {
       "has_smelting_upgrade": "2024-12-27 08:10:08 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-27 08:38:39 +0000"
     },
     "done": false
   },
