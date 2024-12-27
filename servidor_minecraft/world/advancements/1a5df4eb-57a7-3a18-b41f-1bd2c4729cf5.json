@@ -3041,6 +3041,7 @@
   },
   "croptopia:recipes/pork_and_beans": {
     "criteria": {
+      "has_beans": "2024-12-27 07:33:55 +0000",
       "has_pork": "2024-12-19 04:40:58 +0000"
     },
     "done": false
@@ -8457,6 +8458,66 @@
       "wechuge_killed_0": "2024-12-27 05:09:20 +0000"
     },
     "done": true
+  },
+  "regions_unexplored:recipes/decorations/birch_shrub": {
+    "criteria": {
+      "has_birch_sapling": "2024-12-27 07:35:23 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/misc/blackbean_seed": {
+    "criteria": {
+      "has_blackbean": "2024-12-27 07:33:55 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/campfire_baked_beans": {
+    "criteria": {
+      "has_beans": "2024-12-27 07:33:55 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/refried_beans": {
+    "criteria": {
+      "has_beans": "2024-12-27 07:33:55 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/burrito": {
+    "criteria": {
+      "has_beans": "2024-12-27 07:33:55 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/food/baked_beans_from_blackbean": {
+    "criteria": {
+      "has_blackbean": "2024-12-27 07:33:55 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/stuffed_poblanos": {
+    "criteria": {
+      "has_beans": "2024-12-27 07:33:55 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/tostada": {
+    "criteria": {
+      "has_beans": "2024-12-27 07:33:55 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/food/baked_beans_from_smoking_blackbean": {
+    "criteria": {
+      "has_blackbean": "2024-12-27 07:33:55 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/misc/ginger_seed": {
+    "criteria": {
+      "has_ginger": "2024-12-27 07:35:23 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
