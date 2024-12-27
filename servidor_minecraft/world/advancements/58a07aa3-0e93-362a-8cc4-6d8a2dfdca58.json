@@ -9476,9 +9476,33 @@
     },
     "done": true
   },
+  "divinerpg:recipes/blasting/rupee_ingot_from_raw_rupee": {
+    "criteria": {
+      "has_raw_rupee": "2024-12-27 19:21:10 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/smelting/rupee_ingot_from_raw_rupee": {
+    "criteria": {
+      "has_raw_rupee": "2024-12-27 19:21:10 +0000"
+    },
+    "done": false
+  },
   "supplementaries:recipes/building_blocks/eternal_tales/sign_post_petrified": {
     "criteria": {
       "has_planks": "2024-12-27 18:56:12 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/raw_rupee_block": {
+    "criteria": {
+      "has_raw_rupee": "2024-12-27 19:21:10 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/terran_stone": {
+    "criteria": {
+      "has_shards": "2024-12-27 19:21:17 +0000"
     },
     "done": false
   },

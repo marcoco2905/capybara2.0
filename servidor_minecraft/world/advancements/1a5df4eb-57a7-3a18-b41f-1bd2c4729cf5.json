@@ -5580,9 +5580,10 @@
   },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
+      "has_the_recipe": "2024-12-27 19:28:59 +0000",
       "has_water_bucket": "2024-12-20 05:59:10 +0000"
     },
-    "done": false
+    "done": true
   },
   "divinerpg:recipes/shaped/aqua_lamp": {
     "criteria": {
@@ -8608,6 +8609,61 @@
   "ad_astra:recipes/compressing/compressing/steel_plate_from_compressing_steel_ingots": {
     "criteria": {
       "has_item": "2024-12-27 08:19:43 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/dye_light_gray_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-12-27 19:30:53 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/light_gray_candle": {
+    "criteria": {
+      "has_light_gray_dye": "2024-12-27 19:30:53 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2024-12-27 19:30:43 +0000",
+      "has_the_recipe": "2024-12-27 19:30:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_light_gray_dye": "2024-12-27 19:30:53 +0000"
+    },
+    "done": false
+  },
+  "ad_astra:recipes/misc/small_light_gray_industrial_lamp": {
+    "criteria": {
+      "has_small_light_gray_industrial_lamp": "2024-12-27 19:30:53 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_light_gray_dye": {
+    "criteria": {
+      "forge:dyes/light_gray": "2024-12-27 19:30:53 +0000"
+    },
+    "done": false
+  },
+  "ad_astra:recipes/misc/light_gray_industrial_lamp": {
+    "criteria": {
+      "has_light_gray_industrial_lamp": "2024-12-27 19:30:53 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/dye_light_gray_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-12-27 19:30:53 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/dye_light_gray_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-12-27 19:30:53 +0000"
     },
     "done": false
   },
