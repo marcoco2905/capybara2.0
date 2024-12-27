@@ -8835,3 +8835,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [27Dec2024 20:20:57.522] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiri080 moved wrongly!
 [27Dec2024 20:23:06.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 has completed the challenge [Deception!]
 [27Dec2024 20:23:16.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 has completed the challenge [Home on The Ranch]
+[27Dec2024 20:25:52.238] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[27Dec2024 20:25:57.365] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 20:25:57.412] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 20:30:57.358] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 20:30:57.405] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

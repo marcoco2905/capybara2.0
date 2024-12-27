@@ -7103,9 +7103,10 @@
   },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
-      "has_book": "2024-12-24 19:53:28 +0000"
+      "has_book": "2024-12-24 19:53:28 +0000",
+      "has_the_recipe": "2024-12-27 20:22:30 +0000"
     },
-    "done": false
+    "done": true
   },
   "l2complements:recipes/enchantments/enchantments/safeguard": {
     "criteria": {
@@ -7278,9 +7279,10 @@
   },
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
+      "has_the_recipe": "2024-12-27 20:21:52 +0000",
       "has_obsidian": "2024-12-24 20:36:45 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
@@ -8712,6 +8714,18 @@
       "has_piston": "2024-12-27 19:37:29 +0000"
     },
     "done": false
+  },
+  "cnc:skinwalkeradvancement": {
+    "criteria": {
+      "skinwalkeradvancement_0": "2024-12-27 20:23:16 +0000"
+    },
+    "done": true
+  },
+  "cnc:bewitched_grey_wolf_advancement": {
+    "criteria": {
+      "bewitched_grey_wolf_advancement_0": "2024-12-27 20:23:06 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
