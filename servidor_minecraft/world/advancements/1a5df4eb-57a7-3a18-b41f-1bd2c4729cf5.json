@@ -3170,9 +3170,10 @@
   },
   "minecraft:recipes/misc/paper": {
     "criteria": {
-      "has_reeds": "2024-12-19 04:49:20 +0000"
+      "has_reeds": "2024-12-19 04:49:20 +0000",
+      "has_the_recipe": "2024-12-27 19:55:04 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
