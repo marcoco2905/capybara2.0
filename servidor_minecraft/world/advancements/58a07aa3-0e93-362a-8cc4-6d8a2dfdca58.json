@@ -787,6 +787,7 @@
       "golden_apple": "2024-12-20 20:21:51 +0000",
       "cookie": "2024-12-19 03:57:06 +0000",
       "suspicious_stew": "2024-12-23 08:47:48 +0000",
+      "melon_slice": "2024-12-27 18:40:29 +0000",
       "beetroot": "2024-12-20 07:13:25 +0000",
       "carrot": "2024-12-20 06:32:16 +0000"
     },
@@ -1227,6 +1228,7 @@
   },
   "supplementaries:recipes/slingshot": {
     "criteria": {
+      "has_rabbit_hide": "2024-12-27 18:16:48 +0000",
       "has_string": "2024-12-19 05:36:23 +0000",
       "has_slime_ball": "2024-12-20 08:07:52 +0000",
       "forge:rods/wooden": "2024-12-19 03:57:43 +0000"
@@ -1798,6 +1800,7 @@
       "autumnal_maple_forest": "2024-12-20 22:03:54 +0000",
       "prismachasm": "2024-12-26 08:03:49 +0000",
       "marsh": "2024-12-26 07:28:17 +0000",
+      "redstone_caves": "2024-12-27 18:10:57 +0000",
       "grassy_beach": "2024-12-20 21:28:59 +0000",
       "blackwood_taiga": "2024-12-19 04:28:02 +0000",
       "rocky_meadow": "2024-12-27 17:55:41 +0000",
@@ -2507,6 +2510,7 @@
       "minecraft:slime": "2024-12-23 18:04:38 +0000",
       "minecraft:enderman": "2024-12-20 22:49:30 +0000",
       "minecraft:stray": "2024-12-23 08:47:08 +0000",
+      "minecraft:silverfish": "2024-12-27 18:36:10 +0000",
       "minecraft:zombie": "2024-12-20 05:28:55 +0000",
       "minecraft:zombie_villager": "2024-12-26 03:33:08 +0000"
     },
@@ -2522,6 +2526,7 @@
       "minecraft:slime": "2024-12-23 18:04:38 +0000",
       "minecraft:enderman": "2024-12-20 22:49:30 +0000",
       "minecraft:stray": "2024-12-23 08:47:08 +0000",
+      "minecraft:silverfish": "2024-12-27 18:36:10 +0000",
       "minecraft:zombie": "2024-12-20 05:28:55 +0000",
       "minecraft:zombie_villager": "2024-12-26 03:33:08 +0000"
     },
@@ -9051,6 +9056,7 @@
   },
   "regions_unexplored:spelunker": {
     "criteria": {
+      "redstone_caves": "2024-12-27 18:10:57 +0000",
       "prismachasm": "2024-12-26 08:03:49 +0000"
     },
     "done": false
@@ -9352,6 +9358,114 @@
   "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
     "criteria": {
       "has_white_tulip": "2024-12-27 17:33:03 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
+    "criteria": {
+      "has_wild_armor_trim_smithing_template": "2024-12-27 18:03:58 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-27 18:03:58 +0000"
+    },
+    "done": false
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_rotten": {
+    "criteria": {
+      "requirement": "2024-12-27 18:13:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2024-12-27 18:16:48 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-27 18:38:42 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-12-27 18:41:09 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/burnt/burnt/soul_sand": {
+    "criteria": {
+      "has_soul_sand": "2024-12-27 18:40:33 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-27 18:38:42 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-27 18:38:42 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-27 18:38:42 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2024-12-27 18:40:33 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-27 18:38:42 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2024-12-27 18:40:33 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-27 18:38:42 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-27 18:38:42 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-27 18:38:42 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-27 18:38:42 +0000"
+    },
+    "done": false
+  },
+  "soulsweapons:recipes/misc/lost_soul": {
+    "criteria": {
+      "has_item": "2024-12-27 18:40:33 +0000"
     },
     "done": false
   },
