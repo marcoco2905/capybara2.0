@@ -782,6 +782,8 @@
       "sweet_berries": "2024-12-19 05:33:56 +0000",
       "cooked_beef": "2024-12-27 19:50:21 +0000",
       "baked_potato": "2024-12-19 04:05:29 +0000",
+      "beef": "2024-12-28 06:47:56 +0000",
+      "porkchop": "2024-12-28 06:51:52 +0000",
       "apple": "2024-12-19 05:00:43 +0000",
       "potato": "2024-12-19 03:56:55 +0000",
       "bread": "2024-12-19 05:10:21 +0000",
@@ -1319,6 +1321,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2024-12-28 06:56:42 +0000",
       "minecraft:eroded_badlands": "2024-12-26 08:15:50 +0000",
       "minecraft:frozen_river": "2024-12-26 04:21:58 +0000",
       "minecraft:badlands": "2024-12-26 08:14:35 +0000",
@@ -2511,6 +2514,7 @@
     "criteria": {
       "minecraft:pillager": "2024-12-23 17:38:14 +0000",
       "minecraft:skeleton": "2024-12-20 21:39:16 +0000",
+      "minecraft:hoglin": "2024-12-28 06:33:21 +0000",
       "minecraft:vindicator": "2024-12-28 06:06:42 +0000",
       "minecraft:spider": "2024-12-19 05:36:20 +0000",
       "minecraft:piglin_brute": "2024-12-23 17:20:33 +0000",
@@ -2530,6 +2534,7 @@
     "criteria": {
       "minecraft:pillager": "2024-12-23 17:38:14 +0000",
       "minecraft:skeleton": "2024-12-20 21:39:16 +0000",
+      "minecraft:hoglin": "2024-12-28 06:33:21 +0000",
       "minecraft:vindicator": "2024-12-28 06:06:42 +0000",
       "minecraft:spider": "2024-12-19 05:36:20 +0000",
       "minecraft:piglin_brute": "2024-12-23 17:20:33 +0000",
@@ -2559,6 +2564,7 @@
   },
   "minecraft:recipes/decorations/candle": {
     "criteria": {
+      "has_honeycomb": "2024-12-28 06:48:26 +0000",
       "has_string": "2024-12-19 05:36:23 +0000"
     },
     "done": false
@@ -9774,6 +9780,84 @@
   "l2complements:recipes/burnt/burnt/totem_of_undying": {
     "criteria": {
       "has_totem_of_undying": "2024-12-28 06:09:17 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2024-12-28 06:45:32 +0000"
+    },
+    "done": false
+  },
+  "blue_skies:recipes/building_blocks/moonstone_block_from_moonstone": {
+    "criteria": {
+      "has_item": "2024-12-28 06:28:49 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2024-12-28 06:45:32 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/decorations/sign_post_spruce": {
+    "criteria": {
+      "has_planks": "2024-12-28 06:45:32 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-28 06:45:32 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2024-12-28 06:45:32 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-28 06:45:32 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2024-12-28 06:48:26 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2024-12-28 06:45:32 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2024-12-28 06:45:32 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-28 06:45:32 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-28 06:45:32 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2024-12-28 06:48:26 +0000"
     },
     "done": false
   },

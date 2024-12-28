@@ -938,6 +938,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2024-12-28 06:56:43 +0000",
       "minecraft:eroded_badlands": "2024-12-26 08:15:50 +0000",
       "minecraft:badlands": "2024-12-26 08:14:35 +0000",
       "minecraft:beach": "2024-12-27 04:34:04 +0000",
@@ -2707,6 +2708,8 @@
       "minecraft:pillager": "2024-12-26 07:03:26 +0000",
       "minecraft:skeleton": "2024-12-19 04:29:31 +0000",
       "minecraft:ravager": "2024-12-28 06:07:06 +0000",
+      "minecraft:hoglin": "2024-12-28 06:30:32 +0000",
+      "minecraft:vindicator": "2024-12-28 06:33:10 +0000",
       "minecraft:spider": "2024-12-20 08:27:21 +0000",
       "minecraft:creeper": "2024-12-23 09:20:58 +0000",
       "minecraft:slime": "2024-12-20 05:51:50 +0000",
@@ -2726,6 +2729,8 @@
       "minecraft:pillager": "2024-12-26 07:03:26 +0000",
       "minecraft:skeleton": "2024-12-19 04:29:31 +0000",
       "minecraft:ravager": "2024-12-28 06:07:06 +0000",
+      "minecraft:hoglin": "2024-12-28 06:30:32 +0000",
+      "minecraft:vindicator": "2024-12-28 06:33:10 +0000",
       "minecraft:spider": "2024-12-20 08:27:21 +0000",
       "minecraft:creeper": "2024-12-23 09:20:58 +0000",
       "minecraft:slime": "2024-12-20 05:51:50 +0000",
@@ -3739,6 +3744,7 @@
   },
   "knightquest:recipes/misc/steel_sword": {
     "criteria": {
+      "has_feather": "2024-12-28 06:39:43 +0000",
       "has_iron_sword": "2024-12-19 05:47:51 +0000",
       "has_charcoal": "2024-12-20 06:21:48 +0000"
     },
@@ -4907,6 +4913,7 @@
   },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
+      "has_feather": "2024-12-28 06:39:43 +0000",
       "has_flint": "2024-12-19 06:42:35 +0000"
     },
     "done": false
@@ -5674,6 +5681,7 @@
   "knightquest:recipes/misc/steel_axe": {
     "criteria": {
       "has_iron_axe": "2024-12-20 06:44:01 +0000",
+      "has_feather": "2024-12-28 06:39:43 +0000",
       "has_charcoal": "2024-12-20 06:21:48 +0000"
     },
     "done": false
@@ -7768,6 +7776,7 @@
   },
   "knightquest:recipes/misc/silver_chestplate": {
     "criteria": {
+      "has_feather": "2024-12-28 06:39:43 +0000",
       "has_iron_block": "2024-12-26 04:36:07 +0000"
     },
     "done": false
@@ -7810,6 +7819,7 @@
   },
   "knightquest:recipes/misc/silver_helmet": {
     "criteria": {
+      "has_feather": "2024-12-28 06:39:43 +0000",
       "has_iron_block": "2024-12-26 04:36:07 +0000"
     },
     "done": false
@@ -7846,6 +7856,7 @@
   },
   "knightquest:recipes/misc/silver_leggings": {
     "criteria": {
+      "has_feather": "2024-12-28 06:39:43 +0000",
       "has_iron_block": "2024-12-26 04:36:07 +0000"
     },
     "done": false
@@ -7870,6 +7881,7 @@
   },
   "knightquest:recipes/misc/silver_boots": {
     "criteria": {
+      "has_feather": "2024-12-28 06:39:43 +0000",
       "has_iron_block": "2024-12-26 04:36:07 +0000"
     },
     "done": false
@@ -8768,6 +8780,12 @@
     },
     "done": false
   },
+  "blue_skies:recipes/building_blocks/snowcap_mushroom_block": {
+    "criteria": {
+      "has_item": "2024-12-28 06:28:05 +0000"
+    },
+    "done": false
+  },
   "l2weaponry:recipes/combat/generated/upgrade/gold_claw": {
     "criteria": {
       "has_gold_block": "2024-12-28 06:12:11 +0000"
@@ -8790,6 +8808,12 @@
   "l2complements:recipes/misc/vanilla/upgrade/golden_pickaxe": {
     "criteria": {
       "has_gold_block": "2024-12-28 06:12:11 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/feather_block": {
+    "criteria": {
+      "has_feather": "2024-12-28 06:39:43 +0000"
     },
     "done": false
   },
@@ -8938,6 +8962,12 @@
       "has_blaze_powder": "2024-12-28 06:01:52 +0000"
     },
     "done": false
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2024-12-28 06:30:37 +0000"
+    },
+    "done": true
   },
   "l2complements:recipes/misc/vanilla/upgrade/golden_boots": {
     "criteria": {
