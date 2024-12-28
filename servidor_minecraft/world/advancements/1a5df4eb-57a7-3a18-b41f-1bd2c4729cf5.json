@@ -1839,11 +1839,13 @@
       "lush_desert": "2024-12-26 08:01:37 +0000",
       "redwood_forest": "2024-12-19 06:01:43 +0000",
       "dune_beach": "2024-12-28 06:58:15 +0000",
+      "volcano": "2024-12-28 07:09:26 +0000",
       "volcanic_plains": "2024-12-26 07:45:48 +0000",
       "lavender_field": "2024-12-28 06:58:20 +0000",
       "grassland": "2024-12-19 04:43:22 +0000",
       "prairie": "2024-12-28 07:02:44 +0000",
       "glowing_grotto": "2024-12-26 05:18:48 +0000",
+      "rainforest": "2024-12-28 07:17:08 +0000",
       "crag": "2024-12-19 06:00:55 +0000"
     },
     "done": false
@@ -1868,11 +1870,13 @@
       "lush_desert": "2024-12-26 08:01:37 +0000",
       "redwood_forest": "2024-12-19 06:01:43 +0000",
       "dune_beach": "2024-12-28 06:58:15 +0000",
+      "volcano": "2024-12-28 07:09:26 +0000",
       "volcanic_plains": "2024-12-26 07:45:48 +0000",
       "lavender_field": "2024-12-28 06:58:20 +0000",
       "grassland": "2024-12-19 04:43:22 +0000",
       "prairie": "2024-12-28 07:02:44 +0000",
       "glowing_grotto": "2024-12-26 05:18:48 +0000",
+      "rainforest": "2024-12-28 07:17:08 +0000",
       "crag": "2024-12-19 06:00:55 +0000"
     },
     "done": false
@@ -1995,6 +1999,7 @@
       "rocky_meadow": "2024-12-28 06:12:52 +0000",
       "tropical_river": "2024-12-26 07:53:55 +0000",
       "magnolia_highlands": "2024-12-28 06:16:58 +0000",
+      "sparse_redwoods": "2024-12-28 07:08:27 +0000",
       "deciduous_forest": "2024-12-27 04:37:45 +0000",
       "boreal_forest": "2024-12-19 04:52:35 +0000",
       "towering_cliffs": "2024-12-19 05:59:28 +0000",
@@ -2019,6 +2024,7 @@
       "rocky_meadow": "2024-12-28 06:12:52 +0000",
       "tropical_river": "2024-12-26 07:53:55 +0000",
       "magnolia_highlands": "2024-12-28 06:16:58 +0000",
+      "sparse_redwoods": "2024-12-28 07:08:27 +0000",
       "deciduous_forest": "2024-12-27 04:37:45 +0000",
       "boreal_forest": "2024-12-19 04:52:35 +0000",
       "towering_cliffs": "2024-12-19 05:59:28 +0000",
@@ -2771,7 +2777,8 @@
   },
   "knightquest:recipes/misc/wither_leggings": {
     "criteria": {
-      "has_bone": "2024-12-19 04:29:32 +0000"
+      "has_bone": "2024-12-19 04:29:32 +0000",
+      "has_wither_skeleton_skull": "2024-12-28 07:12:20 +0000"
     },
     "done": false
   },
@@ -2785,7 +2792,8 @@
   },
   "knightquest:recipes/misc/wither_chestplate": {
     "criteria": {
-      "has_bone": "2024-12-19 04:29:32 +0000"
+      "has_bone": "2024-12-19 04:29:32 +0000",
+      "has_wither_skeleton_skull": "2024-12-28 07:12:20 +0000"
     },
     "done": false
   },
@@ -2838,13 +2846,15 @@
   },
   "knightquest:recipes/misc/wither_helmet": {
     "criteria": {
-      "has_bone": "2024-12-19 04:29:32 +0000"
+      "has_bone": "2024-12-19 04:29:32 +0000",
+      "has_wither_skeleton_skull": "2024-12-28 07:12:20 +0000"
     },
     "done": false
   },
   "knightquest:recipes/misc/wither_boots": {
     "criteria": {
-      "has_bone": "2024-12-19 04:29:32 +0000"
+      "has_bone": "2024-12-19 04:29:32 +0000",
+      "has_wither_skeleton_skull": "2024-12-28 07:12:20 +0000"
     },
     "done": false
   },
@@ -5775,6 +5785,7 @@
       "blackbean_seed": "2024-12-20 07:58:29 +0000",
       "yam_seed": "2024-12-26 06:34:24 +0000",
       "tea_seed": "2024-12-26 06:36:05 +0000",
+      "saguaro_seed": "2024-12-28 07:23:39 +0000",
       "basil_seed": "2024-12-26 06:36:18 +0000",
       "olive_seed": "2024-12-26 06:34:07 +0000",
       "kiwi_seed": "2024-12-20 07:58:29 +0000",
@@ -5816,6 +5827,7 @@
   "croptopia:gather_jungle": {
     "criteria": {
       "basil_seed": "2024-12-26 06:36:18 +0000",
+      "pineapple_seed": "2024-12-28 07:23:39 +0000",
       "peanut_seed": "2024-12-20 06:49:33 +0000"
     },
     "done": false
@@ -8850,6 +8862,12 @@
     },
     "done": false
   },
+  "graveyard:graveyard/haunted_house": {
+    "criteria": {
+      "haunted_house": "2024-12-28 07:11:25 +0000"
+    },
+    "done": true
+  },
   "l2weaponry:recipes/combat/generated/upgrade/gold_throwing_axe": {
     "criteria": {
       "has_gold_block": "2024-12-28 06:12:11 +0000"
@@ -8859,6 +8877,18 @@
   "divinerpg:recipes/shaped/blaze_pumpkin": {
     "criteria": {
       "has_blaze_rod": "2024-12-28 05:59:06 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/ghast_pumpkin": {
+    "criteria": {
+      "has_ghast_tear": "2024-12-28 07:21:14 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/burnt/burnt/ghast_tear": {
+    "criteria": {
+      "has_ghast_tear": "2024-12-28 07:21:14 +0000"
     },
     "done": false
   },
@@ -8898,6 +8928,12 @@
     },
     "done": false
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-12-28 07:12:20 +0000"
+    },
+    "done": true
+  },
   "l2complements:recipes/misc/craft/black_fire_charge": {
     "criteria": {
       "has_blaze_powder": "2024-12-28 06:01:52 +0000"
@@ -8907,6 +8943,18 @@
   "l2complements:recipes/misc/vanilla/upgrade/golden_chestplate": {
     "criteria": {
       "has_gold_block": "2024-12-28 06:12:11 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/diamond_from_blasting_diamond_ore": {
+    "criteria": {
+      "has_diamond_ore": "2024-12-28 07:11:57 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2024-12-28 07:12:20 +0000"
     },
     "done": false
   },
@@ -9002,6 +9050,12 @@
     },
     "done": false
   },
+  "soulsweapons:recipes/combat/withered_wabbajack": {
+    "criteria": {
+      "has_item": "2024-12-28 07:12:20 +0000"
+    },
+    "done": false
+  },
   "l2weaponry:recipes/combat/generated/upgrade/gold_battle_axe": {
     "criteria": {
       "has_gold_block": "2024-12-28 06:12:11 +0000"
@@ -9045,6 +9099,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/diamond_from_smelting_diamond_ore": {
+    "criteria": {
+      "has_diamond_ore": "2024-12-28 07:11:57 +0000"
+    },
+    "done": false
+  },
   "knightquest:recipes/misc/blaze_boots": {
     "criteria": {
       "has_blaze_rod": "2024-12-28 05:59:06 +0000",
@@ -9063,6 +9123,12 @@
       "has_blaze_rod": "2024-12-28 05:59:06 +0000"
     },
     "done": false
+  },
+  "croptopia:gather_desert": {
+    "criteria": {
+      "saguaro_seed": "2024-12-28 07:23:39 +0000"
+    },
+    "done": true
   },
   "l2weaponry:recipes/combat/generated/upgrade/gold_javelin": {
     "criteria": {
