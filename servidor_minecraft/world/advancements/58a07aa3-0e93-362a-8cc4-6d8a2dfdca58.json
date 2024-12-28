@@ -2487,9 +2487,10 @@
   },
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
-      "has_raw_iron": "2024-12-19 05:36:00 +0000"
+      "has_raw_iron": "2024-12-19 05:36:00 +0000",
+      "has_the_recipe": "2024-12-28 05:50:06 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
@@ -9658,6 +9659,18 @@
   "supplementaries:recipes/dispenser_minecart": {
     "criteria": {
       "has_dispenser": "2024-12-27 19:59:42 +0000"
+    },
+    "done": false
+  },
+  "ad_astra:recipes/misc/steel_block": {
+    "criteria": {
+      "has_steel_block": "2024-12-28 05:50:24 +0000"
+    },
+    "done": false
+  },
+  "ad_astra:recipes/compressing/compressing/steel_plate_from_compressing_steel_ingots": {
+    "criteria": {
+      "has_item": "2024-12-28 05:50:24 +0000"
     },
     "done": false
   },
