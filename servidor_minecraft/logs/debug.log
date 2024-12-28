@@ -8649,3 +8649,95 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [28Dec2024 17:45:18.743] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [28Dec2024 17:45:18.782] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [28Dec2024 17:46:29.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [Junior Summoner]
+[28Dec2024 17:48:35.082] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2098ms or 41 ticks behind
+[28Dec2024 17:49:36.100] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[28Dec2024 17:50:20.723] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 17:50:20.756] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 17:53:28.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 withered away whilst fighting Wither Skeleton
+[28Dec2024 17:53:28.194] [Server thread/DEBUG] [tombstone/]: A new grave of the player marcouwu2005 was created at position [x:-105, y:122, z:630, dim:minecraft:the_nether]
+[28Dec2024 17:53:28.259] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[28Dec2024 17:55:20.726] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 17:55:20.758] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 17:55:56.105] [Worker-Main-41/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: east with value: false for blockstate: {Name:"eternal_tales:magmatic_bricks_wall",Properties:{east:"false",north:"false",south:"false",up:"true",waterlogged:"false",west:"true"}}
+[28Dec2024 17:55:56.106] [Worker-Main-41/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: south with value: false for blockstate: {Name:"eternal_tales:magmatic_bricks_wall",Properties:{east:"false",north:"false",south:"false",up:"true",waterlogged:"false",west:"true"}}
+[28Dec2024 17:55:56.107] [Worker-Main-41/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: north with value: false for blockstate: {Name:"eternal_tales:magmatic_bricks_wall",Properties:{east:"false",north:"false",south:"false",up:"true",waterlogged:"false",west:"true"}}
+[28Dec2024 17:55:56.107] [Worker-Main-41/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: west with value: true for blockstate: {Name:"eternal_tales:magmatic_bricks_wall",Properties:{east:"false",north:"false",south:"false",up:"true",waterlogged:"false",west:"true"}}
+[28Dec2024 17:55:56.107] [Worker-Main-41/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: east with value: true for blockstate: {Name:"eternal_tales:magmatic_bricks_wall",Properties:{east:"true",north:"false",south:"false",up:"true",waterlogged:"false",west:"false"}}
+[28Dec2024 17:55:56.107] [Worker-Main-41/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: south with value: false for blockstate: {Name:"eternal_tales:magmatic_bricks_wall",Properties:{east:"true",north:"false",south:"false",up:"true",waterlogged:"false",west:"false"}}
+[28Dec2024 17:55:56.108] [Worker-Main-41/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: north with value: false for blockstate: {Name:"eternal_tales:magmatic_bricks_wall",Properties:{east:"true",north:"false",south:"false",up:"true",waterlogged:"false",west:"false"}}
+[28Dec2024 17:55:56.108] [Worker-Main-41/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: west with value: false for blockstate: {Name:"eternal_tales:magmatic_bricks_wall",Properties:{east:"true",north:"false",south:"false",up:"true",waterlogged:"false",west:"false"}}
+[28Dec2024 17:55:56.108] [Worker-Main-41/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: east with value: true for blockstate: {Name:"eternal_tales:magmatic_bricks_wall",Properties:{east:"true",north:"false",south:"false",up:"true",waterlogged:"false",west:"true"}}
+[28Dec2024 17:55:56.108] [Worker-Main-41/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: south with value: false for blockstate: {Name:"eternal_tales:magmatic_bricks_wall",Properties:{east:"true",north:"false",south:"false",up:"true",waterlogged:"false",west:"true"}}
+[28Dec2024 17:55:56.108] [Worker-Main-41/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: north with value: false for blockstate: {Name:"eternal_tales:magmatic_bricks_wall",Properties:{east:"true",north:"false",south:"false",up:"true",waterlogged:"false",west:"true"}}
+[28Dec2024 17:55:56.109] [Worker-Main-41/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: west with value: true for blockstate: {Name:"eternal_tales:magmatic_bricks_wall",Properties:{east:"true",north:"false",south:"false",up:"true",waterlogged:"false",west:"true"}}
+[28Dec2024 17:55:56.111] [Worker-Main-41/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: east with value: true for blockstate: {Name:"eternal_tales:magmatic_bricks_wall",Properties:{east:"true",north:"false",south:"false",up:"false",waterlogged:"false",west:"true"}}
+[28Dec2024 17:55:56.111] [Worker-Main-41/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: south with value: false for blockstate: {Name:"eternal_tales:magmatic_bricks_wall",Properties:{east:"true",north:"false",south:"false",up:"false",waterlogged:"false",west:"true"}}
+[28Dec2024 17:55:56.112] [Worker-Main-41/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: north with value: false for blockstate: {Name:"eternal_tales:magmatic_bricks_wall",Properties:{east:"true",north:"false",south:"false",up:"false",waterlogged:"false",west:"true"}}
+[28Dec2024 17:55:56.113] [Worker-Main-41/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: west with value: true for blockstate: {Name:"eternal_tales:magmatic_bricks_wall",Properties:{east:"true",north:"false",south:"false",up:"false",waterlogged:"false",west:"true"}}
+[28Dec2024 17:55:56.113] [Worker-Main-41/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: east with value: false for blockstate: {Name:"eternal_tales:magmatic_bricks_wall",Properties:{east:"false",north:"true",south:"false",up:"true",waterlogged:"false",west:"false"}}
+[28Dec2024 17:55:56.114] [Worker-Main-41/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: south with value: false for blockstate: {Name:"eternal_tales:magmatic_bricks_wall",Properties:{east:"false",north:"true",south:"false",up:"true",waterlogged:"false",west:"false"}}
+[28Dec2024 17:55:56.115] [Worker-Main-41/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: north with value: true for blockstate: {Name:"eternal_tales:magmatic_bricks_wall",Properties:{east:"false",north:"true",south:"false",up:"true",waterlogged:"false",west:"false"}}
+[28Dec2024 17:55:56.115] [Worker-Main-41/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: west with value: false for blockstate: {Name:"eternal_tales:magmatic_bricks_wall",Properties:{east:"false",north:"true",south:"false",up:"true",waterlogged:"false",west:"false"}}
+[28Dec2024 17:55:56.116] [Worker-Main-41/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: east with value: false for blockstate: {Name:"eternal_tales:magmatic_bricks_wall",Properties:{east:"false",north:"true",south:"true",up:"true",waterlogged:"false",west:"false"}}
+[28Dec2024 17:55:56.119] [Worker-Main-41/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: south with value: true for blockstate: {Name:"eternal_tales:magmatic_bricks_wall",Properties:{east:"false",north:"true",south:"true",up:"true",waterlogged:"false",west:"false"}}
+[28Dec2024 17:55:56.120] [Worker-Main-41/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: north with value: true for blockstate: {Name:"eternal_tales:magmatic_bricks_wall",Properties:{east:"false",north:"true",south:"true",up:"true",waterlogged:"false",west:"false"}}
+[28Dec2024 17:55:56.121] [Worker-Main-41/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: west with value: false for blockstate: {Name:"eternal_tales:magmatic_bricks_wall",Properties:{east:"false",north:"true",south:"true",up:"true",waterlogged:"false",west:"false"}}
+[28Dec2024 17:55:56.121] [Worker-Main-41/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: east with value: false for blockstate: {Name:"eternal_tales:magmatic_bricks_wall",Properties:{east:"false",north:"true",south:"true",up:"false",waterlogged:"false",west:"false"}}
+[28Dec2024 17:55:56.122] [Worker-Main-41/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: south with value: true for blockstate: {Name:"eternal_tales:magmatic_bricks_wall",Properties:{east:"false",north:"true",south:"true",up:"false",waterlogged:"false",west:"false"}}
+[28Dec2024 17:55:56.122] [Worker-Main-41/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: north with value: true for blockstate: {Name:"eternal_tales:magmatic_bricks_wall",Properties:{east:"false",north:"true",south:"true",up:"false",waterlogged:"false",west:"false"}}
+[28Dec2024 17:55:56.123] [Worker-Main-41/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: west with value: false for blockstate: {Name:"eternal_tales:magmatic_bricks_wall",Properties:{east:"false",north:"true",south:"true",up:"false",waterlogged:"false",west:"false"}}
+[28Dec2024 17:55:56.123] [Worker-Main-41/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: east with value: false for blockstate: {Name:"eternal_tales:magmatic_bricks_wall",Properties:{east:"false",north:"false",south:"true",up:"true",waterlogged:"false",west:"false"}}
+[28Dec2024 17:55:56.124] [Worker-Main-41/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: south with value: true for blockstate: {Name:"eternal_tales:magmatic_bricks_wall",Properties:{east:"false",north:"false",south:"true",up:"true",waterlogged:"false",west:"false"}}
+[28Dec2024 17:55:56.125] [Worker-Main-41/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: north with value: false for blockstate: {Name:"eternal_tales:magmatic_bricks_wall",Properties:{east:"false",north:"false",south:"true",up:"true",waterlogged:"false",west:"false"}}
+[28Dec2024 17:55:56.126] [Worker-Main-41/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: west with value: false for blockstate: {Name:"eternal_tales:magmatic_bricks_wall",Properties:{east:"false",north:"false",south:"true",up:"true",waterlogged:"false",west:"false"}}
+[28Dec2024 17:56:33.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has completed the challenge [Eye of the Tiger]
+[28Dec2024 17:57:13.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [Those Were the Days]
+[28Dec2024 17:58:30.685] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[28Dec2024 18:00:20.758] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 18:00:20.811] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 18:02:30.131] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[28Dec2024 18:02:30.135] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[28Dec2024 18:02:49.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [Who is Cutting Onions?]
+[28Dec2024 18:03:47.828] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[28Dec2024 18:05:04.521] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[28Dec2024 18:05:20.704] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 18:05:20.738] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 18:06:14.505] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[28Dec2024 18:06:14.754] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[28Dec2024 18:06:14.998] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[28Dec2024 18:06:15.250] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[28Dec2024 18:06:15.500] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[28Dec2024 18:06:15.751] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[28Dec2024 18:06:16.013] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[28Dec2024 18:06:16.250] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[28Dec2024 18:06:16.499] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[28Dec2024 18:06:16.751] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[28Dec2024 18:06:17.003] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[28Dec2024 18:06:17.262] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[28Dec2024 18:06:17.501] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[28Dec2024 18:06:17.756] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[28Dec2024 18:06:17.999] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[28Dec2024 18:06:18.255] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[28Dec2024 18:06:18.511] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[28Dec2024 18:06:18.761] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[28Dec2024 18:06:19.012] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[28Dec2024 18:07:25.804] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[28Dec2024 18:07:26.053] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[28Dec2024 18:07:26.303] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[28Dec2024 18:07:26.551] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[28Dec2024 18:07:26.805] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[28Dec2024 18:07:27.049] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[28Dec2024 18:07:27.306] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[28Dec2024 18:07:27.559] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[28Dec2024 18:07:27.803] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[28Dec2024 18:07:28.066] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[28Dec2024 18:07:28.316] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[28Dec2024 18:07:28.556] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[28Dec2024 18:07:28.819] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[28Dec2024 18:07:29.065] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[28Dec2024 18:07:29.311] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[28Dec2024 18:07:29.559] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[28Dec2024 18:07:29.808] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[28Dec2024 18:07:30.053] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[28Dec2024 18:07:30.304] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[28Dec2024 18:08:04.366] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
