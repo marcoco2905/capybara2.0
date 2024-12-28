@@ -1830,6 +1830,7 @@
       "sparse_redwoods": "2024-12-28 07:08:28 +0000",
       "deciduous_forest": "2024-12-27 04:40:13 +0000",
       "boreal_forest": "2024-12-19 04:52:45 +0000",
+      "glistering_meadow": "2024-12-28 18:29:26 +0000",
       "blackstone_basin": "2024-12-28 08:08:44 +0000",
       "towering_cliffs": "2024-12-19 05:45:02 +0000",
       "chalk_cliffs": "2024-12-27 08:10:59 +0000",
@@ -10065,7 +10066,8 @@
     "criteria": {
       "mycotoxic_undergrowth": "2024-12-28 18:11:24 +0000",
       "blackstone_basin": "2024-12-28 08:08:44 +0000",
-      "redstone_abyss": "2024-12-28 08:10:54 +0000"
+      "redstone_abyss": "2024-12-28 08:10:54 +0000",
+      "glistering_meadow": "2024-12-28 18:29:26 +0000"
     },
     "done": false
   },
@@ -10477,6 +10479,12 @@
       "has_planks": "2024-12-28 17:55:26 +0000"
     },
     "done": false
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_gold": {
+    "criteria": {
+      "requirement": "2024-12-28 18:33:49 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/warped_stairs": {
     "criteria": {
