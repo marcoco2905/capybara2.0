@@ -5514,6 +5514,7 @@
     "criteria": {
       "has_golden_sword": "2024-12-28 08:19:03 +0000",
       "has_golden_axe": "2024-12-20 20:14:22 +0000",
+      "has_golden_pickaxe": "2024-12-28 17:27:49 +0000",
       "has_golden_boots": "2024-12-27 17:54:53 +0000",
       "has_golden_hoe": "2024-12-23 08:35:41 +0000",
       "has_golden_horse_armor": "2024-12-28 08:15:18 +0000",
@@ -5525,6 +5526,7 @@
     "criteria": {
       "has_golden_sword": "2024-12-28 08:19:03 +0000",
       "has_golden_axe": "2024-12-20 20:14:22 +0000",
+      "has_golden_pickaxe": "2024-12-28 17:27:49 +0000",
       "has_golden_boots": "2024-12-27 17:54:53 +0000",
       "has_golden_hoe": "2024-12-23 08:35:41 +0000",
       "has_golden_horse_armor": "2024-12-28 08:15:18 +0000",
@@ -10370,12 +10372,6 @@
     },
     "done": false
   },
-  "irons_spellbooks:irons_spellbooks/staff_artificer": {
-    "criteria": {
-      "requirement": "2024-12-28 17:21:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/crimson_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-28 17:21:42 +0000"
@@ -10385,6 +10381,84 @@
   "minecraft:recipes/redstone/crimson_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-28 17:21:42 +0000"
+    },
+    "done": false
+  },
+  "irons_spellbooks:irons_spellbooks/staff_artificer": {
+    "criteria": {
+      "requirement": "2024-12-28 17:21:56 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-28 17:33:16 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-28 17:33:16 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-28 17:33:16 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-28 17:33:16 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-28 17:33:16 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-28 17:33:16 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-28 17:33:16 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-28 17:33:16 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-28 17:33:16 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-28 17:33:16 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-28 17:33:16 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-28 17:33:16 +0000"
     },
     "done": false
   },
