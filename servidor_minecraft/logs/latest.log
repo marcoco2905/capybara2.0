@@ -1043,3 +1043,17 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [28Dec2024 17:30:34.022] [Server thread/INFO] [Jade/]: Syncing config to marcouwu2005 (58a07aa3-0e93-362a-8cc4-6d8a2dfdca58)
 [28Dec2024 17:34:13.948] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 lost connection: Disconnected
 [28Dec2024 17:34:13.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 left the game
+[28Dec2024 17:42:05.644] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: marcouwu2005[/127.184.139.169:51505] logged in with entity id 6627 at (-1967.99011053775, 84.875, 4180.84039307509)
+[28Dec2024 17:42:05.646] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to marcouwu2005
+[28Dec2024 17:42:05.647] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to marcouwu2005
+[28Dec2024 17:42:05.647] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to marcouwu2005
+[28Dec2024 17:42:05.648] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to marcouwu2005
+[28Dec2024 17:42:05.654] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to marcouwu2005
+[28Dec2024 17:42:05.656] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to marcouwu2005
+[28Dec2024 17:42:05.656] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to marcouwu2005
+[28Dec2024 17:42:05.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 joined the game
+[28Dec2024 17:42:05.729] [Server thread/INFO] [Jade/]: Syncing config to marcouwu2005 (58a07aa3-0e93-362a-8cc4-6d8a2dfdca58)
+[28Dec2024 17:42:07.716] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[28Dec2024 17:44:17.304] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Johannes'/6650, l='ServerLevel[world]', x=-1996.75, y=84.00, z=4170.29] died, message: 'Johannes (Staying) was slain by Marine Zombie'
+[28Dec2024 17:44:17.315] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Johannes'/6650, l='ServerLevel[world]', x=-1996.75, y=84.00, z=4170.29] died: Johannes (Staying) was slain by Marine Zombie
+[28Dec2024 17:46:29.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [Junior Summoner]
