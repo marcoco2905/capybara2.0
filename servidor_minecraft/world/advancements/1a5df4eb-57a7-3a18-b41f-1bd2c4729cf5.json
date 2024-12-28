@@ -993,7 +993,8 @@
   "knightquest:recipes/misc/bat_boots": {
     "criteria": {
       "has_dripstone_block": "2024-12-19 06:18:35 +0000",
-      "has_ink_sac": "2024-12-19 04:02:41 +0000"
+      "has_ink_sac": "2024-12-19 04:02:41 +0000",
+      "has_red_dye": "2024-12-28 07:45:14 +0000"
     },
     "done": false
   },
@@ -1029,7 +1030,8 @@
   "knightquest:recipes/misc/bat_chestplate": {
     "criteria": {
       "has_dripstone_block": "2024-12-19 06:18:35 +0000",
-      "has_ink_sac": "2024-12-19 04:02:41 +0000"
+      "has_ink_sac": "2024-12-19 04:02:41 +0000",
+      "has_red_dye": "2024-12-28 07:45:14 +0000"
     },
     "done": false
   },
@@ -1042,7 +1044,8 @@
   "knightquest:recipes/misc/bat_leggings": {
     "criteria": {
       "has_dripstone_block": "2024-12-19 06:18:35 +0000",
-      "has_ink_sac": "2024-12-19 04:02:41 +0000"
+      "has_ink_sac": "2024-12-19 04:02:41 +0000",
+      "has_red_dye": "2024-12-28 07:45:14 +0000"
     },
     "done": false
   },
@@ -1064,7 +1067,8 @@
   "knightquest:recipes/misc/bat_helmet": {
     "criteria": {
       "has_dripstone_block": "2024-12-19 06:18:35 +0000",
-      "has_ink_sac": "2024-12-19 04:02:41 +0000"
+      "has_ink_sac": "2024-12-19 04:02:41 +0000",
+      "has_red_dye": "2024-12-28 07:45:14 +0000"
     },
     "done": false
   },
@@ -1273,9 +1277,10 @@
   },
   "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
     "criteria": {
-      "has_orange_tulip": "2024-12-19 04:04:44 +0000"
+      "has_orange_tulip": "2024-12-19 04:04:44 +0000",
+      "has_the_recipe": "2024-12-28 07:48:19 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:story/upgrade_tools": {
     "criteria": {
@@ -1653,13 +1658,15 @@
   },
   "knightquest:recipes/misc/bamboo_chestplate": {
     "criteria": {
-      "has_coal": "2024-12-19 04:07:31 +0000"
+      "has_coal": "2024-12-19 04:07:31 +0000",
+      "has_red_dye": "2024-12-28 07:45:14 +0000"
     },
     "done": false
   },
   "knightquest:recipes/misc/bamboo_leggings": {
     "criteria": {
-      "has_coal": "2024-12-19 04:07:31 +0000"
+      "has_coal": "2024-12-19 04:07:31 +0000",
+      "has_red_dye": "2024-12-28 07:45:14 +0000"
     },
     "done": false
   },
@@ -1671,7 +1678,8 @@
   },
   "knightquest:recipes/misc/bamboo_boots": {
     "criteria": {
-      "has_coal": "2024-12-19 04:07:31 +0000"
+      "has_coal": "2024-12-19 04:07:31 +0000",
+      "has_red_dye": "2024-12-28 07:45:14 +0000"
     },
     "done": false
   },
@@ -1690,7 +1698,8 @@
   },
   "knightquest:recipes/misc/bamboo_helmet": {
     "criteria": {
-      "has_coal": "2024-12-19 04:07:31 +0000"
+      "has_coal": "2024-12-19 04:07:31 +0000",
+      "has_red_dye": "2024-12-28 07:45:14 +0000"
     },
     "done": false
   },
@@ -2421,7 +2430,8 @@
   },
   "divinerpg:recipes/shaped/red_steel": {
     "criteria": {
-      "has_ingot": "2024-12-19 04:28:21 +0000"
+      "has_ingot": "2024-12-19 04:28:21 +0000",
+      "has_dye": "2024-12-28 07:45:14 +0000"
     },
     "done": false
   },
@@ -2439,7 +2449,8 @@
   },
   "divinerpg:recipes/shaped/orange_steel": {
     "criteria": {
-      "has_ingot": "2024-12-19 04:28:21 +0000"
+      "has_ingot": "2024-12-19 04:28:21 +0000",
+      "has_dye": "2024-12-28 07:48:24 +0000"
     },
     "done": false
   },
@@ -2555,7 +2566,8 @@
   },
   "divinerpg:recipes/shaped/white_steel": {
     "criteria": {
-      "has_ingot": "2024-12-19 04:28:21 +0000"
+      "has_ingot": "2024-12-19 04:28:21 +0000",
+      "has_dye": "2024-12-28 07:48:06 +0000"
     },
     "done": false
   },
@@ -2687,28 +2699,32 @@
   "knightquest:recipes/misc/shield_chestplate": {
     "criteria": {
       "has_shield": "2024-12-19 04:28:37 +0000",
-      "has_copper_ingot": "2024-12-20 06:54:31 +0000"
+      "has_copper_ingot": "2024-12-20 06:54:31 +0000",
+      "has_orange_dye": "2024-12-28 07:48:24 +0000"
     },
     "done": false
   },
   "knightquest:recipes/misc/shield_leggings": {
     "criteria": {
       "has_shield": "2024-12-19 04:28:37 +0000",
-      "has_copper_ingot": "2024-12-20 06:54:31 +0000"
+      "has_copper_ingot": "2024-12-20 06:54:31 +0000",
+      "has_orange_dye": "2024-12-28 07:48:24 +0000"
     },
     "done": false
   },
   "knightquest:recipes/misc/shield_helmet": {
     "criteria": {
       "has_shield": "2024-12-19 04:28:37 +0000",
-      "has_copper_ingot": "2024-12-20 06:54:31 +0000"
+      "has_copper_ingot": "2024-12-20 06:54:31 +0000",
+      "has_orange_dye": "2024-12-28 07:48:24 +0000"
     },
     "done": false
   },
   "knightquest:recipes/misc/shield_boots": {
     "criteria": {
       "has_shield": "2024-12-19 04:28:37 +0000",
-      "has_copper_ingot": "2024-12-20 06:54:31 +0000"
+      "has_copper_ingot": "2024-12-20 06:54:31 +0000",
+      "has_orange_dye": "2024-12-28 07:48:24 +0000"
     },
     "done": false
   },
@@ -3021,6 +3037,7 @@
     "criteria": {
       "has_leather": "2024-12-19 04:40:56 +0000",
       "has_apple": "2024-12-19 04:54:54 +0000",
+      "has_red_dye": "2024-12-28 07:45:14 +0000",
       "has_iron_leggings": "2024-12-19 06:17:57 +0000"
     },
     "done": false
@@ -7301,6 +7318,7 @@
   },
   "divinerpg:recipes/shapeless/red_vane": {
     "criteria": {
+      "has_dye": "2024-12-28 07:45:14 +0000",
       "has_obsidian": "2024-12-24 20:36:45 +0000"
     },
     "done": false
@@ -8730,15 +8748,17 @@
   },
   "minecraft:recipes/building_blocks/dye_white_wool": {
     "criteria": {
-      "has_the_recipe": "2024-12-27 19:32:02 +0000"
+      "has_the_recipe": "2024-12-27 19:32:02 +0000",
+      "has_needed_dye": "2024-12-28 07:48:06 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/dye_white_carpet": {
     "criteria": {
-      "has_the_recipe": "2024-12-27 19:32:05 +0000"
+      "has_the_recipe": "2024-12-27 19:32:05 +0000",
+      "has_needed_dye": "2024-12-28 07:48:06 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/smooth_stone_slab": {
     "criteria": {
@@ -8777,6 +8797,12 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/orange_industrial_lamp": {
+    "criteria": {
+      "has_orange_industrial_lamp": "2024-12-28 07:48:24 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
       "has_blaze_powder": "2024-12-28 06:01:52 +0000"
@@ -8789,9 +8815,21 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/small_orange_industrial_lamp": {
+    "criteria": {
+      "has_small_orange_industrial_lamp": "2024-12-28 07:48:24 +0000"
+    },
+    "done": false
+  },
   "l2weaponry:recipes/combat/generated/upgrade/gold_nunchaku": {
     "criteria": {
       "has_gold_block": "2024-12-28 06:12:11 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_red_dye": "2024-12-28 07:45:14 +0000"
     },
     "done": false
   },
@@ -8810,6 +8848,24 @@
   "blue_skies:recipes/building_blocks/snowcap_mushroom_block": {
     "criteria": {
       "has_item": "2024-12-28 06:28:05 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_white_dye": {
+    "criteria": {
+      "forge:dyes/white": "2024-12-28 07:48:06 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_orange_dye": {
+    "criteria": {
+      "forge:dyes/orange": "2024-12-28 07:48:24 +0000"
+    },
+    "done": false
+  },
+  "ad_astra:recipes/misc/red_industrial_lamp": {
+    "criteria": {
+      "has_red_industrial_lamp": "2024-12-28 07:45:14 +0000"
     },
     "done": false
   },
@@ -8844,6 +8900,24 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_white_dye": "2024-12-28 07:48:06 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2024-12-28 07:45:14 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/dye_orange_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-12-28 07:48:24 +0000"
+    },
+    "done": false
+  },
   "l2complements:recipes/misc/craft/strong_fire_charge": {
     "criteria": {
       "has_blaze_powder": "2024-12-28 06:01:52 +0000"
@@ -8874,6 +8948,19 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2024-12-28 07:44:46 +0000",
+      "has_the_recipe": "2024-12-28 07:45:13 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/white_industrial_lamp": {
+    "criteria": {
+      "has_white_industrial_lamp": "2024-12-28 07:48:06 +0000"
+    },
+    "done": false
+  },
   "l2weaponry:recipes/combat/generated/upgrade/gold_throwing_axe": {
     "criteria": {
       "has_gold_block": "2024-12-28 06:12:11 +0000"
@@ -8889,6 +8976,12 @@
   "divinerpg:recipes/shaped/ghast_pumpkin": {
     "criteria": {
       "has_ghast_tear": "2024-12-28 07:21:14 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/orange_candle": {
+    "criteria": {
+      "has_orange_dye": "2024-12-28 07:48:24 +0000"
     },
     "done": false
   },
@@ -8922,6 +9015,24 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/dye_red_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-12-28 07:45:14 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_orange_dye": "2024-12-28 07:48:24 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/blackboard": {
+    "criteria": {
+      "supplementaries:blackboard_white": "2024-12-28 07:48:06 +0000"
+    },
+    "done": false
+  },
   "l2complements:recipes/misc/vanilla/upgrade/golden_sword": {
     "criteria": {
       "has_gold_block": "2024-12-28 06:12:11 +0000"
@@ -8934,11 +9045,29 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2024-12-28 07:45:14 +0000"
+    },
+    "done": false
+  },
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2024-12-28 07:12:20 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2024-12-28 07:45:14 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/dye_orange_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-12-28 07:48:24 +0000"
+    },
+    "done": false
   },
   "l2complements:recipes/misc/craft/black_fire_charge": {
     "criteria": {
@@ -8952,9 +9081,22 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2024-12-28 07:48:06 +0000",
+      "has_red_dye": "2024-12-28 07:45:14 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/diamond_from_blasting_diamond_ore": {
     "criteria": {
       "has_diamond_ore": "2024-12-28 07:11:57 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_white_dye": "2024-12-28 07:48:06 +0000"
     },
     "done": false
   },
@@ -9007,6 +9149,12 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/small_white_industrial_lamp": {
+    "criteria": {
+      "has_small_white_industrial_lamp": "2024-12-28 07:48:06 +0000"
+    },
+    "done": false
+  },
   "knightquest:recipes/misc/blaze_helmet": {
     "criteria": {
       "has_blaze_rod": "2024-12-28 05:59:06 +0000",
@@ -9020,9 +9168,21 @@
     },
     "done": false
   },
+  "supplementaries:recipes/candle_holders/candle_holder_red_dye": {
+    "criteria": {
+      "forge:dyes/red": "2024-12-28 07:45:14 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2024-12-28 06:01:52 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/dye_white_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-12-28 07:48:06 +0000"
     },
     "done": false
   },
@@ -9032,15 +9192,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_white_dye": "2024-12-28 07:48:06 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/dye_red_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-12-28 07:45:14 +0000"
+    },
+    "done": false
+  },
   "l2complements:recipes/misc/vanilla/upgrade/golden_boots": {
     "criteria": {
       "has_gold_block": "2024-12-28 06:12:11 +0000"
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/dye_red_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-12-28 07:45:14 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_white_dye": "2024-12-28 07:48:06 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2024-12-28 06:01:52 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_red_dye": "2024-12-28 07:45:14 +0000"
     },
     "done": false
   },
@@ -9056,6 +9246,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_white_dye": "2024-12-28 07:48:06 +0000"
+    },
+    "done": false
+  },
   "soulsweapons:recipes/combat/withered_wabbajack": {
     "criteria": {
       "has_item": "2024-12-28 07:12:20 +0000"
@@ -9068,11 +9264,24 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2024-12-28 07:48:06 +0000",
+      "has_rose_red": "2024-12-28 07:45:14 +0000"
+    },
+    "done": false
+  },
   "tombstone:adventure/use_preservation": {
     "criteria": {
       "has_magic_scroll": "2024-12-28 05:50:17 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-12-28 07:48:24 +0000"
+    },
+    "done": false
   },
   "knightquest:recipes/misc/blaze_chestplate": {
     "criteria": {
@@ -9087,15 +9296,33 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/white_candle": {
+    "criteria": {
+      "has_white_dye": "2024-12-28 07:48:06 +0000"
+    },
+    "done": false
+  },
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2024-12-28 05:51:19 +0000"
     },
     "done": true
   },
+  "ad_astra:recipes/misc/small_red_industrial_lamp": {
+    "criteria": {
+      "has_small_red_industrial_lamp": "2024-12-28 07:45:14 +0000"
+    },
+    "done": false
+  },
   "l2complements:recipes/misc/vanilla/upgrade/golden_axe": {
     "criteria": {
       "has_gold_block": "2024-12-28 06:12:11 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_white_dye": "2024-12-28 07:48:06 +0000"
     },
     "done": false
   },
