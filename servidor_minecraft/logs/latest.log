@@ -1935,3 +1935,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [28Dec2024 18:28:40.634] [Worker-Main-43/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-57, 105], pos: BlockPos{x=-899, y=145, z=1693}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / eternal_tales:ferbalic_flower_feature_6]
 [28Dec2024 18:30:54.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by Piglin Brute
 [28Dec2024 18:30:54.864] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[28Dec2024 18:42:55.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 burned to death
+[28Dec2024 18:42:55.606] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[28Dec2024 18:45:07.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by Piglin Brute
+[28Dec2024 18:45:07.665] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[28Dec2024 18:45:25.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by Piglin Brute
+[28Dec2024 18:45:25.611] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[28Dec2024 18:46:01.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by Piglin Brute
+[28Dec2024 18:46:01.061] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[28Dec2024 18:48:30.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was doomed to fall
+[28Dec2024 18:48:30.622] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved

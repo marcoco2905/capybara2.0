@@ -792,6 +792,7 @@
       "golden_apple": "2024-12-20 20:21:51 +0000",
       "cookie": "2024-12-19 03:57:06 +0000",
       "suspicious_stew": "2024-12-23 08:47:48 +0000",
+      "rotten_flesh": "2024-12-28 18:38:55 +0000",
       "melon_slice": "2024-12-27 18:40:29 +0000",
       "beetroot": "2024-12-20 07:13:25 +0000",
       "carrot": "2024-12-20 06:32:16 +0000"
@@ -10420,6 +10421,18 @@
     },
     "done": false
   },
+  "supplementaries:recipes/netherite_trapdoor": {
+    "criteria": {
+      "has_netherite_scrap": "2024-12-28 18:41:55 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2024-12-28 18:41:55 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/bone_meal_from_bone_block": {
     "criteria": {
       "has_bone_block": "2024-12-28 18:07:56 +0000"
@@ -10507,6 +10520,12 @@
   "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
       "has_obsidian": "2024-12-28 18:02:49 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/netherite_door": {
+    "criteria": {
+      "has_netherite_scrap": "2024-12-28 18:41:55 +0000"
     },
     "done": false
   },

@@ -9605,3 +9605,24 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [28Dec2024 18:35:20.723] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [28Dec2024 18:35:20.749] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [28Dec2024 18:37:16.098] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[28Dec2024 18:40:20.697] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 18:40:20.730] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 18:42:55.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 burned to death
+[28Dec2024 18:42:55.603] [Server thread/DEBUG] [tombstone/]: A new grave of the player marcouwu2005 was created at position [x:-801, y:33, z:1582, dim:minecraft:the_nether]
+[28Dec2024 18:42:55.606] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[28Dec2024 18:44:18.105] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[28Dec2024 18:45:07.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by Piglin Brute
+[28Dec2024 18:45:07.647] [Server thread/DEBUG] [tombstone/]: A new grave of the player marcouwu2005 was created at position [x:-786, y:57, z:1554, dim:minecraft:the_nether]
+[28Dec2024 18:45:07.665] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[28Dec2024 18:45:20.708] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 18:45:20.732] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 18:45:25.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by Piglin Brute
+[28Dec2024 18:45:25.595] [Server thread/DEBUG] [tombstone/]: A new grave of the player marcouwu2005 was created at position [x:-786, y:57, z:1555, dim:minecraft:the_nether]
+[28Dec2024 18:45:25.611] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[28Dec2024 18:46:01.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by Piglin Brute
+[28Dec2024 18:46:01.047] [Server thread/DEBUG] [tombstone/]: A new grave of the player marcouwu2005 was created at position [x:-781, y:65, z:1559, dim:minecraft:the_nether]
+[28Dec2024 18:46:01.061] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[28Dec2024 18:46:35.508] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[28Dec2024 18:48:30.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was doomed to fall
+[28Dec2024 18:48:30.614] [Server thread/DEBUG] [tombstone/]: A new grave of the player marcouwu2005 was created at position [x:-827, y:38, z:1597, dim:minecraft:the_nether]
+[28Dec2024 18:48:30.622] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
