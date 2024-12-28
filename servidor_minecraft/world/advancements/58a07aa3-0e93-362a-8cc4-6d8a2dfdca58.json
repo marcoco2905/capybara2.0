@@ -9481,75 +9481,33 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "supplementaries:recipes/building_blocks/eternal_tales/sign_post_petrified": {
     "criteria": {
-      "log_spam_fixer": "2024-12-27 20:06:57 +0000"
+      "has_planks": "2024-12-27 18:56:12 +0000"
     },
     "done": false
   },
-  "incendium:technical/on_kill": {
+  "divinerpg:recipes/blasting/rupee_ingot_from_raw_rupee": {
     "criteria": {
-      "log_spam_fixer": "2024-12-27 20:06:57 +0000"
+      "has_raw_rupee": "2024-12-27 19:21:10 +0000"
     },
     "done": false
   },
-  "incendium:technical/on_inventory_change": {
+  "divinerpg:recipes/smelting/rupee_ingot_from_raw_rupee": {
     "criteria": {
-      "log_spam_fixer": "2024-12-27 20:06:57 +0000"
+      "has_raw_rupee": "2024-12-27 19:21:10 +0000"
     },
     "done": false
   },
-  "incendium:technical/holy_wrath": {
+  "divinerpg:recipes/shaped/raw_rupee_block": {
     "criteria": {
-      "log_spam_fixer": "2024-12-27 20:06:57 +0000"
+      "has_raw_rupee": "2024-12-27 19:21:10 +0000"
     },
     "done": false
   },
-  "incendium:technical/on_block": {
+  "divinerpg:recipes/shaped/terran_stone": {
     "criteria": {
-      "log_spam_fixer": "2024-12-27 20:06:57 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-27 20:06:57 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-27 20:06:57 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-27 20:06:57 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-27 20:06:57 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-27 20:06:57 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-27 20:06:57 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-27 20:06:57 +0000"
+      "has_shards": "2024-12-27 19:21:17 +0000"
     },
     "done": false
   },
@@ -9595,21 +9553,9 @@
     },
     "done": false
   },
-  "divinerpg:recipes/blasting/rupee_ingot_from_raw_rupee": {
-    "criteria": {
-      "has_raw_rupee": "2024-12-27 19:21:10 +0000"
-    },
-    "done": false
-  },
   "divinerpg:recipes/shaped/draken_lamp": {
     "criteria": {
       "has_block": "2024-12-27 19:33:02 +0000"
-    },
-    "done": false
-  },
-  "divinerpg:recipes/smelting/rupee_ingot_from_raw_rupee": {
-    "criteria": {
-      "has_raw_rupee": "2024-12-27 19:21:10 +0000"
     },
     "done": false
   },
@@ -9619,27 +9565,9 @@
     },
     "done": false
   },
-  "supplementaries:recipes/dispenser_minecart": {
-    "criteria": {
-      "has_dispenser": "2024-12-27 19:59:42 +0000"
-    },
-    "done": false
-  },
   "l2complements:recipes/misc/vanilla/upgrade/golden_chestplate": {
     "criteria": {
       "has_gold_block": "2024-12-27 19:33:02 +0000"
-    },
-    "done": false
-  },
-  "supplementaries:recipes/building_blocks/eternal_tales/sign_post_petrified": {
-    "criteria": {
-      "has_planks": "2024-12-27 18:56:12 +0000"
-    },
-    "done": false
-  },
-  "divinerpg:recipes/shaped/raw_rupee_block": {
-    "criteria": {
-      "has_raw_rupee": "2024-12-27 19:21:10 +0000"
     },
     "done": false
   },
@@ -9667,21 +9595,9 @@
     },
     "done": false
   },
-  "mca:friend": {
-    "criteria": {
-      "baby": "2024-12-27 19:58:01 +0000"
-    },
-    "done": true
-  },
   "l2complements:recipes/misc/vanilla/upgrade/golden_shovel": {
     "criteria": {
       "has_gold_block": "2024-12-27 19:33:02 +0000"
-    },
-    "done": false
-  },
-  "divinerpg:recipes/shaped/terran_stone": {
-    "criteria": {
-      "has_shards": "2024-12-27 19:21:17 +0000"
     },
     "done": false
   },
@@ -9730,6 +9646,18 @@
   "l2weaponry:recipes/combat/generated/upgrade/gold_scythe": {
     "criteria": {
       "has_gold_block": "2024-12-27 19:33:02 +0000"
+    },
+    "done": false
+  },
+  "mca:friend": {
+    "criteria": {
+      "baby": "2024-12-27 19:58:01 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/dispenser_minecart": {
+    "criteria": {
+      "has_dispenser": "2024-12-27 19:59:42 +0000"
     },
     "done": false
   },

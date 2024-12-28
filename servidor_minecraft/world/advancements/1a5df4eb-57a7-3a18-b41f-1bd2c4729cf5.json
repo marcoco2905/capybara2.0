@@ -8715,15 +8715,27 @@
     },
     "done": false
   },
+  "cnc:bewitched_grey_wolf_advancement": {
+    "criteria": {
+      "bewitched_grey_wolf_advancement_0": "2024-12-27 20:23:06 +0000"
+    },
+    "done": true
+  },
   "cnc:skinwalkeradvancement": {
     "criteria": {
       "skinwalkeradvancement_0": "2024-12-27 20:23:16 +0000"
     },
     "done": true
   },
-  "cnc:bewitched_grey_wolf_advancement": {
+  "tombstone:adventure/use_knowledge": {
     "criteria": {
-      "bewitched_grey_wolf_advancement_0": "2024-12-27 20:23:06 +0000"
+      "coded_trigger": "2024-12-28 05:45:05 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-12-28 05:45:18 +0000"
     },
     "done": true
   },
