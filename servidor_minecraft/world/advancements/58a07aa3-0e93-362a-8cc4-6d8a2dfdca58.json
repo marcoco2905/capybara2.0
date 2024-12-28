@@ -1804,6 +1804,7 @@
       "autumnal_maple_forest": "2024-12-20 22:03:54 +0000",
       "prismachasm": "2024-12-26 08:03:49 +0000",
       "marsh": "2024-12-26 07:28:17 +0000",
+      "willow_forest": "2024-12-28 06:16:08 +0000",
       "redstone_caves": "2024-12-27 18:10:57 +0000",
       "grassy_beach": "2024-12-20 21:28:59 +0000",
       "blackwood_taiga": "2024-12-19 04:28:02 +0000",
@@ -1833,6 +1834,7 @@
       "muddy_river": "2024-12-19 04:52:46 +0000",
       "autumnal_maple_forest": "2024-12-20 22:03:54 +0000",
       "marsh": "2024-12-26 07:28:17 +0000",
+      "willow_forest": "2024-12-28 06:16:08 +0000",
       "grassy_beach": "2024-12-20 21:28:59 +0000",
       "blackwood_taiga": "2024-12-19 04:28:02 +0000",
       "rocky_meadow": "2024-12-27 17:55:41 +0000",
@@ -2509,13 +2511,16 @@
     "criteria": {
       "minecraft:pillager": "2024-12-23 17:38:14 +0000",
       "minecraft:skeleton": "2024-12-20 21:39:16 +0000",
+      "minecraft:vindicator": "2024-12-28 06:06:42 +0000",
       "minecraft:spider": "2024-12-19 05:36:20 +0000",
       "minecraft:piglin_brute": "2024-12-23 17:20:33 +0000",
       "minecraft:creeper": "2024-12-23 07:55:41 +0000",
       "minecraft:slime": "2024-12-23 18:04:38 +0000",
+      "minecraft:evoker": "2024-12-28 06:09:01 +0000",
       "minecraft:enderman": "2024-12-20 22:49:30 +0000",
       "minecraft:stray": "2024-12-23 08:47:08 +0000",
       "minecraft:silverfish": "2024-12-27 18:36:10 +0000",
+      "minecraft:vex": "2024-12-28 06:09:01 +0000",
       "minecraft:zombie": "2024-12-20 05:28:55 +0000",
       "minecraft:zombie_villager": "2024-12-26 03:33:08 +0000"
     },
@@ -2525,13 +2530,16 @@
     "criteria": {
       "minecraft:pillager": "2024-12-23 17:38:14 +0000",
       "minecraft:skeleton": "2024-12-20 21:39:16 +0000",
+      "minecraft:vindicator": "2024-12-28 06:06:42 +0000",
       "minecraft:spider": "2024-12-19 05:36:20 +0000",
       "minecraft:piglin_brute": "2024-12-23 17:20:33 +0000",
       "minecraft:creeper": "2024-12-23 07:55:41 +0000",
       "minecraft:slime": "2024-12-23 18:04:38 +0000",
+      "minecraft:evoker": "2024-12-28 06:09:01 +0000",
       "minecraft:enderman": "2024-12-20 22:49:30 +0000",
       "minecraft:stray": "2024-12-23 08:47:08 +0000",
       "minecraft:silverfish": "2024-12-27 18:36:10 +0000",
+      "minecraft:vex": "2024-12-28 06:09:01 +0000",
       "minecraft:zombie": "2024-12-20 05:28:55 +0000",
       "minecraft:zombie_villager": "2024-12-26 03:33:08 +0000"
     },
@@ -2892,6 +2900,7 @@
   },
   "supplementaries:recipes/candle_holders/candle_holder": {
     "criteria": {
+      "has_candle": "2024-12-28 05:59:30 +0000",
       "has_iron_ingot": "2024-12-19 05:37:36 +0000"
     },
     "done": false
@@ -4331,7 +4340,8 @@
   "knightquest:recipes/misc/evoker_leggings": {
     "criteria": {
       "has_dark_oak_log": "2024-12-20 06:19:12 +0000",
-      "has_lapis_lazuli": "2024-12-26 03:12:42 +0000"
+      "has_lapis_lazuli": "2024-12-26 03:12:42 +0000",
+      "has_totem_of_undying": "2024-12-28 06:09:17 +0000"
     },
     "done": false
   },
@@ -4344,21 +4354,24 @@
   "knightquest:recipes/misc/evoker_boots": {
     "criteria": {
       "has_dark_oak_log": "2024-12-20 06:19:12 +0000",
-      "has_lapis_lazuli": "2024-12-26 03:12:42 +0000"
+      "has_lapis_lazuli": "2024-12-26 03:12:42 +0000",
+      "has_totem_of_undying": "2024-12-28 06:09:17 +0000"
     },
     "done": false
   },
   "knightquest:recipes/misc/evoker_chestplate": {
     "criteria": {
       "has_dark_oak_log": "2024-12-20 06:19:12 +0000",
-      "has_lapis_lazuli": "2024-12-26 03:12:42 +0000"
+      "has_lapis_lazuli": "2024-12-26 03:12:42 +0000",
+      "has_totem_of_undying": "2024-12-28 06:09:17 +0000"
     },
     "done": false
   },
   "knightquest:recipes/misc/evoker_helmet": {
     "criteria": {
       "has_dark_oak_log": "2024-12-20 06:19:12 +0000",
-      "has_lapis_lazuli": "2024-12-26 03:12:42 +0000"
+      "has_lapis_lazuli": "2024-12-26 03:12:42 +0000",
+      "has_totem_of_undying": "2024-12-28 06:09:17 +0000"
     },
     "done": false
   },
@@ -9671,6 +9684,96 @@
   "ad_astra:recipes/compressing/compressing/steel_plate_from_compressing_steel_ingots": {
     "criteria": {
       "has_item": "2024-12-28 05:50:24 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-12-28 05:58:02 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/blaze_leggings": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-28 05:58:02 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/blaze_pumpkin": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-28 05:58:02 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/heat_pack": {
+    "criteria": {
+      "has_rod": "2024-12-28 05:58:02 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-28 05:58:02 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/blaze_helmet": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-28 05:58:02 +0000"
+    },
+    "done": false
+  },
+  "soulsweapons:recipes/combat/dragon_staff": {
+    "criteria": {
+      "has_item": "2024-12-28 05:58:02 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/blaze_chestplate": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-28 05:58:02 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/blaze_lamp": {
+    "criteria": {
+      "has_rod": "2024-12-28 05:58:02 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/blaze_boots": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-28 05:58:02 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-28 05:58:02 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2024-12-28 06:06:42 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/craft/totem_of_undying": {
+    "criteria": {
+      "has_totem_of_undying": "2024-12-28 06:09:17 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/serenade_of_health": {
+    "criteria": {
+      "has_totem": "2024-12-28 06:09:17 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/burnt/burnt/totem_of_undying": {
+    "criteria": {
+      "has_totem_of_undying": "2024-12-28 06:09:17 +0000"
     },
     "done": false
   },

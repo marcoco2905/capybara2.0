@@ -1734,6 +1734,7 @@
       "cooked_porkchop": "2024-12-19 04:48:13 +0000",
       "cooked_mutton": "2024-12-19 05:40:59 +0000",
       "sweet_berries": "2024-12-19 04:58:12 +0000",
+      "cooked_beef": "2024-12-28 06:03:06 +0000",
       "baked_potato": "2024-12-19 04:10:31 +0000",
       "tropical_fish": "2024-12-19 05:00:46 +0000",
       "apple": "2024-12-19 04:57:51 +0000",
@@ -1977,10 +1978,13 @@
       "muddy_river": "2024-12-19 04:52:38 +0000",
       "prismachasm": "2024-12-26 08:00:25 +0000",
       "marsh": "2024-12-26 07:28:17 +0000",
+      "willow_forest": "2024-12-28 06:16:09 +0000",
       "redstone_caves": "2024-12-26 08:00:14 +0000",
       "grassy_beach": "2024-12-26 03:53:49 +0000",
       "blackwood_taiga": "2024-12-19 04:26:19 +0000",
+      "rocky_meadow": "2024-12-28 06:12:52 +0000",
       "tropical_river": "2024-12-26 07:53:55 +0000",
+      "magnolia_highlands": "2024-12-28 06:16:58 +0000",
       "deciduous_forest": "2024-12-27 04:37:45 +0000",
       "boreal_forest": "2024-12-19 04:52:35 +0000",
       "towering_cliffs": "2024-12-19 05:59:28 +0000",
@@ -1999,9 +2003,12 @@
       "bayou": "2024-12-26 07:27:08 +0000",
       "muddy_river": "2024-12-19 04:52:38 +0000",
       "marsh": "2024-12-26 07:28:17 +0000",
+      "willow_forest": "2024-12-28 06:16:09 +0000",
       "grassy_beach": "2024-12-26 03:53:49 +0000",
       "blackwood_taiga": "2024-12-19 04:26:19 +0000",
+      "rocky_meadow": "2024-12-28 06:12:52 +0000",
       "tropical_river": "2024-12-26 07:53:55 +0000",
+      "magnolia_highlands": "2024-12-28 06:16:58 +0000",
       "deciduous_forest": "2024-12-27 04:37:45 +0000",
       "boreal_forest": "2024-12-19 04:52:35 +0000",
       "towering_cliffs": "2024-12-19 05:59:28 +0000",
@@ -2347,6 +2354,7 @@
   },
   "supplementaries:recipes/candle_holders/candle_holder": {
     "criteria": {
+      "has_candle": "2024-12-28 06:00:27 +0000",
       "has_iron_ingot": "2024-12-19 04:28:21 +0000"
     },
     "done": false
@@ -2698,6 +2706,7 @@
     "criteria": {
       "minecraft:pillager": "2024-12-26 07:03:26 +0000",
       "minecraft:skeleton": "2024-12-19 04:29:31 +0000",
+      "minecraft:ravager": "2024-12-28 06:07:06 +0000",
       "minecraft:spider": "2024-12-20 08:27:21 +0000",
       "minecraft:creeper": "2024-12-23 09:20:58 +0000",
       "minecraft:slime": "2024-12-20 05:51:50 +0000",
@@ -2705,6 +2714,7 @@
       "minecraft:cave_spider": "2024-12-20 07:46:40 +0000",
       "minecraft:enderman": "2024-12-20 20:46:34 +0000",
       "minecraft:stray": "2024-12-23 09:02:44 +0000",
+      "minecraft:vex": "2024-12-28 06:09:49 +0000",
       "minecraft:zombie": "2024-12-20 05:43:02 +0000",
       "minecraft:drowned": "2024-12-26 05:09:39 +0000",
       "minecraft:zombie_villager": "2024-12-23 08:40:27 +0000"
@@ -2715,6 +2725,7 @@
     "criteria": {
       "minecraft:pillager": "2024-12-26 07:03:26 +0000",
       "minecraft:skeleton": "2024-12-19 04:29:31 +0000",
+      "minecraft:ravager": "2024-12-28 06:07:06 +0000",
       "minecraft:spider": "2024-12-20 08:27:21 +0000",
       "minecraft:creeper": "2024-12-23 09:20:58 +0000",
       "minecraft:slime": "2024-12-20 05:51:50 +0000",
@@ -2722,6 +2733,7 @@
       "minecraft:cave_spider": "2024-12-20 07:46:40 +0000",
       "minecraft:enderman": "2024-12-20 20:46:34 +0000",
       "minecraft:stray": "2024-12-23 09:02:44 +0000",
+      "minecraft:vex": "2024-12-28 06:09:49 +0000",
       "minecraft:zombie": "2024-12-20 05:43:02 +0000",
       "minecraft:drowned": "2024-12-26 05:09:39 +0000",
       "minecraft:zombie_villager": "2024-12-23 08:40:27 +0000"
@@ -2738,6 +2750,7 @@
   "knightquest:recipes/misc/bow_chestplate": {
     "criteria": {
       "has_arrow": "2024-12-19 04:29:32 +0000",
+      "has_crossbow": "2024-12-28 06:09:04 +0000",
       "has_water_bucket": "2024-12-20 05:59:10 +0000"
     },
     "done": false
@@ -2751,6 +2764,7 @@
   "knightquest:recipes/misc/bow_helmet": {
     "criteria": {
       "has_arrow": "2024-12-19 04:29:32 +0000",
+      "has_crossbow": "2024-12-28 06:09:04 +0000",
       "has_water_bucket": "2024-12-20 05:59:10 +0000"
     },
     "done": false
@@ -2770,6 +2784,7 @@
   "knightquest:recipes/misc/bow_boots": {
     "criteria": {
       "has_arrow": "2024-12-19 04:29:32 +0000",
+      "has_crossbow": "2024-12-28 06:09:04 +0000",
       "has_water_bucket": "2024-12-20 05:59:10 +0000"
     },
     "done": false
@@ -2843,6 +2858,7 @@
   "knightquest:recipes/misc/bow_leggings": {
     "criteria": {
       "has_arrow": "2024-12-19 04:29:32 +0000",
+      "has_crossbow": "2024-12-28 06:09:04 +0000",
       "has_water_bucket": "2024-12-20 05:59:10 +0000"
     },
     "done": false
@@ -2882,6 +2898,7 @@
   "divinerpg:recipes/shaped/armor_pouch": {
     "criteria": {
       "has_leather": "2024-12-19 04:40:56 +0000",
+      "has_armor_stand": "2024-12-28 06:08:33 +0000",
       "has_string": "2024-12-19 06:18:48 +0000"
     },
     "done": false
@@ -8727,17 +8744,162 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-28 06:01:52 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_nunchaku": {
+    "criteria": {
+      "has_gold_block": "2024-12-28 06:12:11 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-12-28 05:59:06 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/craft/soul_fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-28 06:01:52 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_claw": {
+    "criteria": {
+      "has_gold_block": "2024-12-28 06:12:11 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/blaze_leggings": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-28 05:59:06 +0000",
+      "has_blaze_powder": "2024-12-28 06:01:52 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_spear": {
+    "criteria": {
+      "has_gold_block": "2024-12-28 06:12:11 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/golden_pickaxe": {
+    "criteria": {
+      "has_gold_block": "2024-12-28 06:12:11 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/misc/craft/strong_fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-28 06:01:52 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_machete": {
+    "criteria": {
+      "has_gold_block": "2024-12-28 06:12:11 +0000"
+    },
+    "done": false
+  },
   "tombstone:adventure/use_knowledge": {
     "criteria": {
       "coded_trigger": "2024-12-28 05:45:05 +0000"
     },
     "done": true
   },
+  "divinerpg:recipes/shaped/inferno_sword": {
+    "criteria": {
+      "has_powder": "2024-12-28 06:01:52 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_throwing_axe": {
+    "criteria": {
+      "has_gold_block": "2024-12-28 06:12:11 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/blaze_pumpkin": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-28 05:59:06 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_dagger": {
+    "criteria": {
+      "has_gold_block": "2024-12-28 06:12:11 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/draken_lamp": {
+    "criteria": {
+      "has_block": "2024-12-28 06:12:11 +0000"
+    },
+    "done": false
+  },
   "tombstone:adventure/choose_knowledge": {
     "criteria": {
       "coded_trigger": "2024-12-28 05:45:18 +0000"
     },
     "done": true
+  },
+  "divinerpg:recipes/shaped/heat_pack": {
+    "criteria": {
+      "has_rod": "2024-12-28 05:59:06 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/golden_sword": {
+    "criteria": {
+      "has_gold_block": "2024-12-28 06:12:11 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:recipes/decorations/willow_shrub": {
+    "criteria": {
+      "has_willow_sapling": "2024-12-28 06:20:24 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/misc/craft/black_fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-28 06:01:52 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/golden_chestplate": {
+    "criteria": {
+      "has_gold_block": "2024-12-28 06:12:11 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-28 05:59:06 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/golden_leggings": {
+    "criteria": {
+      "has_gold_block": "2024-12-28 06:12:11 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/golden_hoe": {
+    "criteria": {
+      "has_gold_block": "2024-12-28 06:12:11 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_hammer": {
+    "criteria": {
+      "has_gold_block": "2024-12-28 06:12:11 +0000"
+    },
+    "done": false
   },
   "tombstone:adventure/use_mercy": {
     "criteria": {
@@ -8751,17 +8913,129 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-12-28 06:12:11 +0000",
+      "has_the_recipe": "2024-12-28 06:14:21 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/blaze_helmet": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-28 05:59:06 +0000",
+      "has_blaze_powder": "2024-12-28 06:01:52 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/golden_shovel": {
+    "criteria": {
+      "has_gold_block": "2024-12-28 06:12:11 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-28 06:01:52 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/golden_boots": {
+    "criteria": {
+      "has_gold_block": "2024-12-28 06:12:11 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-28 06:01:52 +0000"
+    },
+    "done": false
+  },
+  "soulsweapons:recipes/combat/dragon_staff": {
+    "criteria": {
+      "has_item": "2024-12-28 05:59:06 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/golden_helmet": {
+    "criteria": {
+      "has_gold_block": "2024-12-28 06:12:11 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_battle_axe": {
+    "criteria": {
+      "has_gold_block": "2024-12-28 06:12:11 +0000"
+    },
+    "done": false
+  },
   "tombstone:adventure/use_preservation": {
     "criteria": {
       "has_magic_scroll": "2024-12-28 05:50:17 +0000"
     },
     "done": true
   },
+  "knightquest:recipes/misc/blaze_chestplate": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-28 05:59:06 +0000",
+      "has_blaze_powder": "2024-12-28 06:01:52 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_plate_shield": {
+    "criteria": {
+      "has_gold_block": "2024-12-28 06:12:11 +0000"
+    },
+    "done": false
+  },
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2024-12-28 05:51:19 +0000"
     },
     "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/golden_axe": {
+    "criteria": {
+      "has_gold_block": "2024-12-28 06:12:11 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/blaze_lamp": {
+    "criteria": {
+      "has_rod": "2024-12-28 05:59:06 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/blaze_boots": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-28 05:59:06 +0000",
+      "has_blaze_powder": "2024-12-28 06:01:52 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_round_shield": {
+    "criteria": {
+      "has_gold_block": "2024-12-28 06:12:11 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-28 05:59:06 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_javelin": {
+    "criteria": {
+      "has_gold_block": "2024-12-28 06:12:11 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/gold_scythe": {
+    "criteria": {
+      "has_gold_block": "2024-12-28 06:12:11 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
