@@ -8783,6 +8783,12 @@
     },
     "done": false
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2024-12-28 07:33:12 +0000"
+    },
+    "done": true
+  },
   "l2weaponry:recipes/combat/generated/upgrade/gold_nunchaku": {
     "criteria": {
       "has_gold_block": "2024-12-28 06:12:11 +0000"

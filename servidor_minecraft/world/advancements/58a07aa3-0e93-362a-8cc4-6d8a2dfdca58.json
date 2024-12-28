@@ -1637,6 +1637,7 @@
       "aspen_glade": "2024-12-20 21:42:17 +0000",
       "dune_beach": "2024-12-20 21:26:06 +0000",
       "seasonal_forest": "2024-12-20 21:43:38 +0000",
+      "volcano": "2024-12-28 07:33:48 +0000",
       "pasture": "2024-12-23 08:58:49 +0000",
       "volcanic_plains": "2024-12-26 07:49:35 +0000",
       "lavender_field": "2024-12-20 21:43:12 +0000",
@@ -1677,6 +1678,7 @@
       "aspen_glade": "2024-12-20 21:42:17 +0000",
       "dune_beach": "2024-12-20 21:26:06 +0000",
       "seasonal_forest": "2024-12-20 21:43:38 +0000",
+      "volcano": "2024-12-28 07:33:48 +0000",
       "pasture": "2024-12-23 08:58:49 +0000",
       "volcanic_plains": "2024-12-26 07:49:35 +0000",
       "lavender_field": "2024-12-20 21:43:12 +0000",
@@ -9812,6 +9814,12 @@
     },
     "done": false
   },
+  "divinerpg:recipes/shaped/ender_watcher_pumpkin": {
+    "criteria": {
+      "has_shards": "2024-12-28 07:29:08 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2024-12-28 06:45:32 +0000"
@@ -9869,6 +9877,18 @@
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2024-12-28 06:45:32 +0000"
+    },
+    "done": false
+  },
+  "irons_spellbooks:irons_spellbooks/ink_legendary": {
+    "criteria": {
+      "requirement": "2024-12-28 07:31:42 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/shaped/ender_stone": {
+    "criteria": {
+      "has_shards": "2024-12-28 07:29:08 +0000"
     },
     "done": false
   },
