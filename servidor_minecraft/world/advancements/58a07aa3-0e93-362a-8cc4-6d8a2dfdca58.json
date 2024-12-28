@@ -1824,6 +1824,7 @@
       "grassy_beach": "2024-12-20 21:28:59 +0000",
       "blackwood_taiga": "2024-12-19 04:28:02 +0000",
       "rocky_meadow": "2024-12-27 17:55:41 +0000",
+      "mycotoxic_undergrowth": "2024-12-28 18:11:24 +0000",
       "tropical_river": "2024-12-26 07:53:55 +0000",
       "magnolia_highlands": "2024-12-27 17:56:00 +0000",
       "sparse_redwoods": "2024-12-28 07:08:28 +0000",
@@ -3809,7 +3810,8 @@
   "knightquest:recipes/misc/skeleton_chestplate": {
     "criteria": {
       "has_bone": "2024-12-20 05:52:44 +0000",
-      "has_bone_meal": "2024-12-20 06:00:19 +0000"
+      "has_bone_meal": "2024-12-20 06:00:19 +0000",
+      "has_bone_block": "2024-12-28 18:07:56 +0000"
     },
     "done": false
   },
@@ -3850,7 +3852,8 @@
   "knightquest:recipes/misc/skeleton_boots": {
     "criteria": {
       "has_bone": "2024-12-20 05:52:44 +0000",
-      "has_bone_meal": "2024-12-20 06:00:19 +0000"
+      "has_bone_meal": "2024-12-20 06:00:19 +0000",
+      "has_bone_block": "2024-12-28 18:07:56 +0000"
     },
     "done": false
   },
@@ -3890,7 +3893,8 @@
   "knightquest:recipes/misc/skeleton_helmet": {
     "criteria": {
       "has_bone": "2024-12-20 05:52:44 +0000",
-      "has_bone_meal": "2024-12-20 06:00:19 +0000"
+      "has_bone_meal": "2024-12-20 06:00:19 +0000",
+      "has_bone_block": "2024-12-28 18:07:56 +0000"
     },
     "done": false
   },
@@ -3904,7 +3908,8 @@
   "knightquest:recipes/misc/skeleton_leggings": {
     "criteria": {
       "has_bone": "2024-12-20 05:52:44 +0000",
-      "has_bone_meal": "2024-12-20 06:00:19 +0000"
+      "has_bone_meal": "2024-12-20 06:00:19 +0000",
+      "has_bone_block": "2024-12-28 18:07:56 +0000"
     },
     "done": false
   },
@@ -4153,6 +4158,7 @@
   "knightquest:recipes/misc/bow_chestplate": {
     "criteria": {
       "has_arrow": "2024-12-20 22:47:12 +0000",
+      "has_crossbow": "2024-12-28 18:07:56 +0000",
       "has_water_bucket": "2024-12-20 05:59:27 +0000"
     },
     "done": false
@@ -4160,6 +4166,7 @@
   "knightquest:recipes/misc/bow_helmet": {
     "criteria": {
       "has_arrow": "2024-12-20 22:47:12 +0000",
+      "has_crossbow": "2024-12-28 18:07:56 +0000",
       "has_water_bucket": "2024-12-20 05:59:27 +0000"
     },
     "done": false
@@ -4167,6 +4174,7 @@
   "knightquest:recipes/misc/bow_boots": {
     "criteria": {
       "has_arrow": "2024-12-20 22:47:12 +0000",
+      "has_crossbow": "2024-12-28 18:07:56 +0000",
       "has_water_bucket": "2024-12-20 05:59:27 +0000"
     },
     "done": false
@@ -4174,6 +4182,7 @@
   "knightquest:recipes/misc/bow_leggings": {
     "criteria": {
       "has_arrow": "2024-12-20 22:47:12 +0000",
+      "has_crossbow": "2024-12-28 18:07:56 +0000",
       "has_water_bucket": "2024-12-20 05:59:27 +0000"
     },
     "done": false
@@ -10054,6 +10063,7 @@
   },
   "regions_unexplored:eternal_expedition": {
     "criteria": {
+      "mycotoxic_undergrowth": "2024-12-28 18:11:24 +0000",
       "blackstone_basin": "2024-12-28 08:08:44 +0000",
       "redstone_abyss": "2024-12-28 08:10:54 +0000"
     },
@@ -10399,6 +10409,18 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-12-28 17:57:33 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:recipes/building_blocks/overgrown_bone_block": {
+    "criteria": {
+      "has_bone_block": "2024-12-28 18:07:56 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2024-12-28 18:07:56 +0000"
     },
     "done": false
   },

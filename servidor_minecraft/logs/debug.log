@@ -8741,3 +8741,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [28Dec2024 18:07:30.053] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
 [28Dec2024 18:07:30.304] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
 [28Dec2024 18:08:04.366] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[28Dec2024 18:10:20.714] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 18:10:20.747] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 18:10:34.370] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:sacrifice 1: [7bf19e93-fc28-4a97-b0da-1388b6e68e83]
+[28Dec2024 18:10:38.471] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:sacrifice 1: [8cbbfa18-3d6e-4fb2-98c8-8af4800a3a5e]
+[28Dec2024 18:15:20.865] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 18:15:20.903] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
