@@ -7918,7 +7918,8 @@
   },
   "galosphere:recipes/decorations/amethyst_lamp": {
     "criteria": {
-      "has_amethyst_shard": "2024-12-23 18:02:28 +0000"
+      "has_amethyst_shard": "2024-12-23 18:02:28 +0000",
+      "has_glowstone": "2024-12-29 05:26:20 +0000"
     },
     "done": false
   },
@@ -8485,7 +8486,8 @@
   },
   "divinerpg:recipes/shaped/blue_stone": {
     "criteria": {
-      "has_lapis": "2024-12-26 03:12:42 +0000"
+      "has_lapis": "2024-12-26 03:12:42 +0000",
+      "has_glowstone": "2024-12-29 05:26:20 +0000"
     },
     "done": false
   },
@@ -10328,7 +10330,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2024-12-28 08:28:49 +0000"
+      "minecraft:nether_wastes": "2024-12-28 08:28:49 +0000",
+      "minecraft:warped_forest": "2024-12-29 05:21:23 +0000"
     },
     "done": false
   },
@@ -10551,7 +10554,8 @@
   },
   "minecraft:nether/loot_bastion": {
     "criteria": {
-      "loot_bastion_other": "2024-12-28 17:58:30 +0000"
+      "loot_bastion_other": "2024-12-28 17:58:30 +0000",
+      "loot_bastion_hoglin_stable": "2024-12-29 05:26:11 +0000"
     },
     "done": false
   },
@@ -10661,6 +10665,84 @@
   "sophisticatedbackpacks:recipes/misc/auto_smoking_upgrade": {
     "criteria": {
       "has_smoking_upgrade": "2024-12-29 05:16:36 +0000"
+    },
+    "done": false
+  },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:inverted_forest": "2024-12-29 05:21:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:inverted_forest": "2024-12-29 05:21:42 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_golden_knife": "2024-12-29 05:26:20 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:main/get_ham": {
+    "criteria": {
+      "ham": "2024-12-29 05:26:20 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2024-12-29 05:26:20 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/ghast_pumpkin": {
+    "criteria": {
+      "has_ghast_tear": "2024-12-29 05:28:36 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/food/smoked_ham": {
+    "criteria": {
+      "has_ham": "2024-12-29 05:26:20 +0000"
+    },
+    "done": false
+  },
+  "croptopia:knife": {
+    "criteria": {
+      "knife": "2024-12-29 05:26:20 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/burnt/burnt/ghast_tear": {
+    "criteria": {
+      "has_ghast_tear": "2024-12-29 05:28:36 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_golden_knife": "2024-12-29 05:26:20 +0000"
+    },
+    "done": false
+  },
+  "galosphere:recipes/decorations/allurite_lamp": {
+    "criteria": {
+      "has_glowstone": "2024-12-29 05:26:20 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "golden_knife": "2024-12-29 05:26:20 +0000"
+    },
+    "done": false
+  },
+  "galosphere:recipes/decorations/lumiere_lamp": {
+    "criteria": {
+      "has_glowstone": "2024-12-29 05:26:20 +0000"
     },
     "done": false
   },

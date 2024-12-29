@@ -10101,12 +10101,6 @@
     },
     "done": false
   },
-  "eternal_tales:get_destroyers_eye": {
-    "criteria": {
-      "get_destroyers_eye_0": "2024-12-29 05:15:48 +0000"
-    },
-    "done": true
-  },
   "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
       "ancient_debris": "2024-12-29 05:01:32 +0000"
@@ -10116,6 +10110,30 @@
   "minecraft:recipes/misc/netherite_scrap": {
     "criteria": {
       "has_ancient_debris": "2024-12-29 05:01:32 +0000"
+    },
+    "done": false
+  },
+  "eternal_tales:get_destroyers_eye": {
+    "criteria": {
+      "get_destroyers_eye_0": "2024-12-29 05:15:48 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:recipes/smelting/bloodgem": {
+    "criteria": {
+      "has_ore": "2024-12-29 05:21:18 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/blasting/bloodgem": {
+    "criteria": {
+      "has_ore": "2024-12-29 05:21:18 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2024-12-29 05:27:23 +0000"
     },
     "done": false
   },
