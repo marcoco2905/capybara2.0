@@ -10736,6 +10736,12 @@
     },
     "done": false
   },
+  "cnc:cougaradvancement": {
+    "criteria": {
+      "cougaradvancement_0": "2024-12-29 06:01:46 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/decorations/allurite_lamp": {
     "criteria": {
       "has_glowstone": "2024-12-29 05:26:20 +0000"

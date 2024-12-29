@@ -2023,6 +2023,7 @@
       "glistering_meadow": "2024-12-29 00:37:59 +0000",
       "blackstone_basin": "2024-12-28 08:08:46 +0000",
       "towering_cliffs": "2024-12-19 05:59:28 +0000",
+      "bamboo_forest": "2024-12-29 06:04:33 +0000",
       "saguaro_desert": "2024-12-26 07:53:41 +0000",
       "temperate_grove": "2024-12-19 05:39:55 +0000",
       "baobab_savanna": "2024-12-26 07:54:11 +0000",
@@ -2048,6 +2049,7 @@
       "deciduous_forest": "2024-12-27 04:37:45 +0000",
       "boreal_forest": "2024-12-19 04:52:35 +0000",
       "towering_cliffs": "2024-12-19 05:59:28 +0000",
+      "bamboo_forest": "2024-12-29 06:04:33 +0000",
       "saguaro_desert": "2024-12-26 07:53:41 +0000",
       "temperate_grove": "2024-12-19 05:39:55 +0000",
       "baobab_savanna": "2024-12-26 07:54:11 +0000",
@@ -10134,6 +10136,12 @@
       "has_ore": "2024-12-29 05:21:18 +0000"
     },
     "done": false
+  },
+  "tombstone:adventure/use_home": {
+    "criteria": {
+      "coded_trigger": "2024-12-29 05:56:58 +0000"
+    },
+    "done": true
   },
   "divinerpg:recipes/shaped/hellspider_pumpkin": {
     "criteria": {
