@@ -10632,5 +10632,17 @@
     },
     "done": false
   },
+  "soulsweapons:heap_of_iron": {
+    "criteria": {
+      "soulsweapons:guts_sword": "2024-12-29 04:54:14 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:all_weapons": {
+    "criteria": {
+      "guts": "2024-12-29 04:54:14 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }

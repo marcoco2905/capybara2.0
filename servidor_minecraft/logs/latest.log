@@ -1116,3 +1116,21 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29Dec2024 04:48:02.879] [Worker-Main-16/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: west with value: false for blockstate: {Name:"eternal_tales:magmatic_bricks_wall",Properties:{east:"false",north:"false",south:"true",up:"true",waterlogged:"false",west:"false"}}
 [29Dec2024 04:48:10.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by Invading Forlorn
 [29Dec2024 04:48:11.015] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[29Dec2024 04:52:59.164] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kiri080[/127.184.139.169:44035] logged in with entity id 4748 at (20.098725903040574, 36.0, -239.69723582141643)
+[29Dec2024 04:52:59.165] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Kiri080
+[29Dec2024 04:52:59.165] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Kiri080
+[29Dec2024 04:52:59.166] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Kiri080
+[29Dec2024 04:52:59.166] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Kiri080
+[29Dec2024 04:52:59.169] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Kiri080
+[29Dec2024 04:52:59.172] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Kiri080
+[29Dec2024 04:52:59.172] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Kiri080
+[29Dec2024 04:52:59.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 joined the game
+[29Dec2024 04:52:59.256] [Server thread/INFO] [Jade/]: Syncing config to Kiri080 (1a5df4eb-57a7-3a18-b41f-1bd2c4729cf5)
+[29Dec2024 04:54:07.373] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[29Dec2024 04:54:14.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has reached the goal [My Brother]
+[29Dec2024 04:54:30.185] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7822ms or 156 ticks behind
+[29Dec2024 04:54:55.373] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10210ms or 204 ticks behind
+[29Dec2024 04:55:13.554] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3191ms or 63 ticks behind
+[29Dec2024 04:55:36.483] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7970ms or 159 ticks behind
+[29Dec2024 04:56:20.721] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[29Dec2024 04:59:42.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [Downer]

@@ -9866,6 +9866,12 @@
     },
     "done": false
   },
+  "tombstone:adventure/use_reach": {
+    "criteria": {
+      "has_magic_scroll": "2024-12-29 01:17:17 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:lord_soul": {
     "criteria": {
       "soul": "2024-12-29 01:18:15 +0000"
@@ -9878,33 +9884,15 @@
     },
     "done": true
   },
-  "supplementaries:recipes/netherite_trapdoor": {
-    "criteria": {
-      "has_netherite_scrap": "2024-12-29 01:31:25 +0000"
-    },
-    "done": false
-  },
   "soulsweapons:recipes/combat/kraken_slayer": {
     "criteria": {
       "has_item": "2024-12-29 01:18:15 +0000"
     },
     "done": false
   },
-  "minecraft:recipes/misc/netherite_ingot": {
-    "criteria": {
-      "has_netherite_scrap": "2024-12-29 01:31:25 +0000"
-    },
-    "done": false
-  },
   "soulsweapons:recipes/combat/lich_bane": {
     "criteria": {
       "has_item": "2024-12-29 01:18:15 +0000"
-    },
-    "done": false
-  },
-  "soulsweapons:recipes/misc/smelt_withered_demon_heart": {
-    "criteria": {
-      "has_item": "2024-12-29 01:18:16 +0000"
     },
     "done": false
   },
@@ -9923,12 +9911,6 @@
   "soulsweapons:recipes/combat/forlorn_scythe": {
     "criteria": {
       "has_item": "2024-12-29 01:18:15 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
-    "criteria": {
-      "has_netherite_upgrade_smithing_template": "2024-12-29 01:34:42 +0000"
     },
     "done": false
   },
@@ -9968,12 +9950,6 @@
     },
     "done": false
   },
-  "supplementaries:recipes/netherite_door": {
-    "criteria": {
-      "has_netherite_scrap": "2024-12-29 01:31:25 +0000"
-    },
-    "done": false
-  },
   "soulsweapons:recipes/combat/kraken_slayer_crossbow": {
     "criteria": {
       "has_item": "2024-12-29 01:18:15 +0000"
@@ -9983,12 +9959,6 @@
   "soulsweapons:recipes/combat/moonlight_greatsword": {
     "criteria": {
       "has_lord_soul": "2024-12-29 01:18:15 +0000"
-    },
-    "done": false
-  },
-  "soulsweapons:recipes/combat/withered_chest": {
-    "criteria": {
-      "has_item": "2024-12-29 01:18:16 +0000"
     },
     "done": false
   },
@@ -10016,21 +9986,9 @@
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/smooth_basalt": {
-    "criteria": {
-      "has_basalt": "2024-12-29 01:32:52 +0000"
-    },
-    "done": false
-  },
   "soulsweapons:recipes/combat/galeforce": {
     "criteria": {
       "has_item": "2024-12-29 01:18:15 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/polished_basalt": {
-    "criteria": {
-      "has_basalt": "2024-12-29 01:32:52 +0000"
     },
     "done": false
   },
@@ -10070,27 +10028,69 @@
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
-    "criteria": {
-      "has_basalt": "2024-12-29 01:32:52 +0000"
-    },
-    "done": false
-  },
   "soulsweapons:recipes/combat/crucible_sword": {
     "criteria": {
       "has_lord_soul": "2024-12-29 01:18:15 +0000"
     },
     "done": false
   },
-  "tombstone:adventure/use_reach": {
-    "criteria": {
-      "has_magic_scroll": "2024-12-29 01:17:17 +0000"
-    },
-    "done": true
-  },
   "soulsweapons:recipes/combat/skofnung": {
     "criteria": {
       "has_lord_soul": "2024-12-29 01:18:15 +0000"
+    },
+    "done": false
+  },
+  "soulsweapons:recipes/misc/smelt_withered_demon_heart": {
+    "criteria": {
+      "has_item": "2024-12-29 01:18:16 +0000"
+    },
+    "done": false
+  },
+  "soulsweapons:recipes/combat/withered_chest": {
+    "criteria": {
+      "has_item": "2024-12-29 01:18:16 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/netherite_trapdoor": {
+    "criteria": {
+      "has_netherite_scrap": "2024-12-29 01:31:25 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2024-12-29 01:31:25 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/netherite_door": {
+    "criteria": {
+      "has_netherite_scrap": "2024-12-29 01:31:25 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2024-12-29 01:32:52 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2024-12-29 01:32:52 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2024-12-29 01:32:52 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2024-12-29 01:34:42 +0000"
     },
     "done": false
   },
