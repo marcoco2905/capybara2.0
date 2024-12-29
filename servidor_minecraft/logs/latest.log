@@ -4468,3 +4468,195 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29Dec2024 06:32:49.605] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to marcouwu2005
 [29Dec2024 06:32:49.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 joined the game
 [29Dec2024 06:32:49.651] [Server thread/INFO] [Jade/]: Syncing config to marcouwu2005 (58a07aa3-0e93-362a-8cc4-6d8a2dfdca58)
+[29Dec2024 06:33:33.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by Returning Knight
+[29Dec2024 06:33:33.533] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[29Dec2024 06:34:14.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 was obliterated by Returning Knight
+[29Dec2024 06:34:14.500] [Server thread/INFO] [tombstone/]: The player Kiri080 has successfully been saved
+[29Dec2024 06:34:44.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 was shot by Aetherial Glaze
+[29Dec2024 06:34:44.051] [Server thread/INFO] [tombstone/]: The player Kiri080 has successfully been saved
+[29Dec2024 06:34:51.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by Returning Knight
+[29Dec2024 06:34:51.481] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[29Dec2024 06:35:23.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 was obliterated by Returning Knight
+[29Dec2024 06:35:23.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was obliterated by Returning Knight
+[29Dec2024 06:35:23.582] [Server thread/INFO] [tombstone/]: The player Kiri080 has successfully been saved
+[29Dec2024 06:35:23.583] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[29Dec2024 06:35:36.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has completed the challenge [Last Arrival]
+[29Dec2024 06:35:36.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has completed the challenge [Steeped in Strength]
+[29Dec2024 06:35:40.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 has completed the challenge [3rd Time's the Charm!]
+[29Dec2024 06:38:03.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 has made the advancement [Best Friends Forever]
+[29Dec2024 06:40:08.640] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiri080 moved wrongly!
+[29Dec2024 06:42:04.070] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiri080 moved wrongly!
+[29Dec2024 06:42:07.153] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=465, y=-57, z=343}
+[29Dec2024 06:42:26.844] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiri080 moved wrongly!
+[29Dec2024 06:42:55.034] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiri080 moved wrongly!
+[29Dec2024 06:43:02.143] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[29Dec2024 06:43:07.537] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[29Dec2024 06:43:50.519] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[29Dec2024 06:43:51.050] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[29Dec2024 06:44:13.894] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiri080 moved wrongly!
+[29Dec2024 06:44:41.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by Vex
+[29Dec2024 06:44:41.251] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[29Dec2024 06:45:19.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by Vex
+[29Dec2024 06:45:19.617] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[29Dec2024 06:46:37.340] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiri080 moved wrongly!
+[29Dec2024 06:47:18.482] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[29Dec2024 06:47:23.342] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiri080 moved wrongly!
+[29Dec2024 06:47:44.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was shot by Cold Overseer
+[29Dec2024 06:47:45.009] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[29Dec2024 06:47:53.541] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AdventurerEntity['marcouwu2005'/112483, l='ServerLevel[world]', x=-831.40, y=79.11, z=1335.17] died: marcouwu2005 suffocated in a wall
+[29Dec2024 06:48:12.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 has made the advancement [Merry Christmas!]
+[29Dec2024 06:48:22.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was doomed to fall by Cold Overseer
+[29Dec2024 06:48:22.270] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[29Dec2024 06:48:40.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 was shot by Cold Overseer
+[29Dec2024 06:48:40.308] [Server thread/INFO] [tombstone/]: The player Kiri080 has successfully been saved
+[29Dec2024 06:49:08.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 was shot by Cold Overseer
+[29Dec2024 06:49:08.262] [Server thread/INFO] [tombstone/]: The player Kiri080 has successfully been saved
+[29Dec2024 06:49:30.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 was shot by Cold Overseer
+[29Dec2024 06:49:30.129] [Server thread/INFO] [tombstone/]: The player Kiri080 has successfully been saved
+[29Dec2024 06:49:48.552] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AdventurerEntity['marcouwu2005'/113075, l='ServerLevel[world]', x=-871.49, y=72.00, z=1339.57] died: marcouwu2005 was slain by marcouwu2005
+[29Dec2024 06:49:59.424] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Axolotl['Crystal'/111877, l='ServerLevel[world]', x=-767.57, y=89.00, z=1477.27] died: Crystal hit the ground too hard
+[29Dec2024 06:51:18.837] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[29Dec2024 06:51:20.685] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiri080 moved wrongly!
+[29Dec2024 06:51:24.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [Elk-a-holic]
+[29Dec2024 06:51:26.224] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiri080 moved wrongly!
+[29Dec2024 06:51:59.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 was slain by Ancient Knight
+[29Dec2024 06:51:59.990] [Server thread/INFO] [tombstone/]: The player Kiri080 has successfully been saved
+[29Dec2024 06:52:06.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by Ancient Knight
+[29Dec2024 06:52:06.303] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[29Dec2024 06:52:46.518] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[29Dec2024 06:54:47.984] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=387, y=-59, z=487}
+[29Dec2024 06:55:02.279] [Worker-Main-107/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=72, y=-50, z=474}
+[29Dec2024 06:55:02.282] [Worker-Main-107/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=74, y=-50, z=474}
+[29Dec2024 06:55:06.128] [Worker-Main-107/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=577, y=-58, z=482}
+[29Dec2024 06:55:10.126] [Worker-Main-107/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=459, y=-58, z=482}
+[29Dec2024 06:55:10.127] [Worker-Main-107/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=460, y=-58, z=482}
+[29Dec2024 06:55:10.127] [Worker-Main-107/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=461, y=-58, z=482}
+[29Dec2024 06:55:10.273] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[29Dec2024 06:55:18.947] [Worker-Main-107/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=459, y=-58, z=482}
+[29Dec2024 06:55:18.948] [Worker-Main-107/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=460, y=-58, z=482}
+[29Dec2024 06:55:18.948] [Worker-Main-107/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=461, y=-58, z=482}
+[29Dec2024 06:55:19.638] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=74, y=-50, z=474}
+[29Dec2024 06:55:20.758] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[29Dec2024 06:55:21.303] [Worker-Main-107/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=72, y=-50, z=474}
+[29Dec2024 06:55:24.970] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved too quickly! -0.7526792572969043,-10.806526110009003,0.005581187311236135
+[29Dec2024 06:55:31.620] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiri080 moved wrongly!
+[29Dec2024 06:57:15.768] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[29Dec2024 06:57:42.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by Husk
+[29Dec2024 06:57:42.818] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[29Dec2024 06:57:44.756] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[29Dec2024 06:57:57.787] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AdventurerEntity['marcouwu2005'/120502, l='ServerLevel[world]', x=-1088.49, y=144.00, z=1784.01] died: marcouwu2005 stood in marcouwu2005's dragon breath
+[29Dec2024 06:58:04.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by Husk
+[29Dec2024 06:58:04.204] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[29Dec2024 06:58:06.106] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AdventurerEntity['marcouwu2005'/120881, l='ServerLevel[world]', x=-1086.71, y=144.06, z=1777.45] died: marcouwu2005 was slain by Husk
+[29Dec2024 06:58:30.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 was slain by Husk
+[29Dec2024 06:58:30.820] [Server thread/INFO] [tombstone/]: The player Kiri080 has successfully been saved
+[29Dec2024 06:58:38.728] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AdventurerEntity['Kiri080'/121251, l='ServerLevel[world]', x=-1091.08, y=144.50, z=1781.33] died: Kiri080 was slain by Husk
+[29Dec2024 06:58:39.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 was slain by Husk
+[29Dec2024 06:58:39.540] [Server thread/INFO] [tombstone/]: The player Kiri080 has successfully been saved
+[29Dec2024 06:58:57.869] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AdventurerEntity['Kiri080'/121442, l='ServerLevel[world]', x=-1092.10, y=146.50, z=1779.53] died: Kiri080 was slain by Kiri080
+[29Dec2024 07:01:45.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 fell from a high place
+[29Dec2024 07:01:45.888] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[29Dec2024 07:05:03.249] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiri080 moved wrongly!
+[29Dec2024 07:05:22.324] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[29Dec2024 07:05:34.917] [Worker-Main-107/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=459, y=-58, z=482}
+[29Dec2024 07:05:34.917] [Worker-Main-107/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=460, y=-58, z=482}
+[29Dec2024 07:05:34.918] [Worker-Main-107/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=461, y=-58, z=482}
+[29Dec2024 07:05:37.899] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=387, y=-59, z=487}
+[29Dec2024 07:05:40.591] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=72, y=-50, z=474}
+[29Dec2024 07:05:40.592] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=74, y=-50, z=474}
+[29Dec2024 07:07:06.974] [Server thread/WARN] [fathertoast.specialai.SpecialAI/]: Attempted to add door-breaking ai to entity 'creeperoverhaul:ocean_creeper' with incompatible navigator 'WaterBoundPathNavigation'
+[29Dec2024 07:07:07.597] [Server thread/WARN] [fathertoast.specialai.SpecialAI/]: Attempted to add door-breaking ai to entity 'creeperoverhaul:ocean_creeper' with incompatible navigator 'WaterBoundPathNavigation'
+[29Dec2024 07:07:10.188] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -4.473615288529118,-1.958720428400298,9.63252923301252
+[29Dec2024 07:07:10.188] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -4.881874758392996,-2.16032585108438,10.507608354335844
+[29Dec2024 07:07:10.189] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -5.2903892498961795,-2.367024761859838,11.382585239147375
+[29Dec2024 07:07:10.189] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -5.699156690217478,-2.578826211154322,12.257459968151124
+[29Dec2024 07:07:10.189] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -6.108169962380316,-2.795697663471799,13.13223502134042
+[29Dec2024 07:07:10.190] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -6.517430932422258,-3.017572350957323,14.006908674590704
+[29Dec2024 07:07:10.190] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -6.926938377758461,-3.244355636429347,14.88148068800956
+[29Dec2024 07:07:10.190] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -7.336685910609731,-3.4759305138970262,15.75595325085942
+[29Dec2024 07:07:10.191] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -7.746676037663974,-3.7121623421825944,16.630324398767698
+[29Dec2024 07:07:10.191] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -8.156908090579236,-3.952902909078915,17.50459367966414
+[29Dec2024 07:07:10.191] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -8.567376175079062,-4.197993908377072,18.378763121042994
+[29Dec2024 07:07:10.191] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -8.978080412857935,-4.4472699074995745,19.252831941293607
+[29Dec2024 07:07:10.192] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -9.389015601588198,-4.70056086061247,20.12680189233879
+[29Dec2024 07:07:10.192] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -9.800182453729803,-4.95769423268419,21.000671929558393
+[29Dec2024 07:07:10.193] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -10.21157628629976,-5.218496774332877,21.874443590480496
+[29Dec2024 07:07:10.194] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -10.623198268107672,-5.482796002804093,22.748115650468208
+[29Dec2024 07:07:10.194] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -11.035044110912622,-5.750421427039683,23.621689495127157
+[29Dec2024 07:07:10.194] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -11.44711532393444,-6.018705625505959,24.495163759145726
+[29Dec2024 07:07:10.194] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -11.85940792847714,-6.285431126650494,25.36853968592868
+[29Dec2024 07:07:10.195] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -12.271923715878302,-6.548771038371399,26.241815786332154
+[29Dec2024 07:07:10.195] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -12.6846561288653,-6.807236739030557,27.114994524861686
+[29Dec2024 07:07:10.195] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -13.09760225142145,-7.059631845864303,27.98807665554932
+[29Dec2024 07:07:10.196] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -13.510764791246856,-7.305011737243163,28.86106026694779
+[29Dec2024 07:07:10.196] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -13.92413799435235,-7.542648011369636,29.733947491482468
+[29Dec2024 07:07:10.196] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -14.337719636284874,-7.7744972336972324,30.60673879603746
+[29Dec2024 07:07:10.199] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -14.751513015655974,-8.002227546716654,31.479432045534395
+[29Dec2024 07:07:10.239] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -11.099902931152428,-6.465105397702686,23.59467995982959
+[29Dec2024 07:07:10.295] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -11.514104674394048,-6.688625054831661,24.467182653168493
+[29Dec2024 07:07:10.341] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -11.928504266749542,-6.909140528454046,25.339592322120097
+[29Dec2024 07:07:10.367] [Server thread/WARN] [fathertoast.specialai.SpecialAI/]: Attempted to add door-breaking ai to entity 'creeperoverhaul:ocean_creeper' with incompatible navigator 'WaterBoundPathNavigation'
+[29Dec2024 07:07:38.303] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -3.6358170614403207,-1.671113635381971E-5,9.914634098769511
+[29Dec2024 07:07:38.304] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -3.964406035697948,-1.823033056780332E-5,10.817159137721319
+[29Dec2024 07:07:38.305] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -4.292656287900172,-1.974952478178693E-5,11.719873548101077
+[29Dec2024 07:07:38.305] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -4.620567549259249,-2.126871899577054E-5,12.622774331456185
+[29Dec2024 07:07:38.305] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -4.948139471654031,-2.278791320975415E-5,13.52585863542572
+[29Dec2024 07:07:38.306] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -5.275371642235086,-2.430710742373776E-5,14.429123748717757
+[29Dec2024 07:07:38.307] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -5.602260663822335,-2.582630163772137E-5,15.332568114400601
+[29Dec2024 07:07:38.307] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -5.9287980297267495,-2.7345495851704982E-5,16.236192115446556
+[29Dec2024 07:07:38.307] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -6.254984622897837,-2.8864690065688592E-5,17.13999287504066
+[29Dec2024 07:07:38.307] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -6.580821114334867,-3.0383884279672202E-5,18.043967688986413
+[29Dec2024 07:07:38.307] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -6.906307996912574,-3.190307849365581E-5,18.948114013204304
+[29Dec2024 07:07:38.308] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -7.231445611028221,-3.342227270763942E-5,19.85242945086111
+[29Dec2024 07:07:38.308] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -7.556231237692373,-3.494146692162303E-5,20.756912776409536
+[29Dec2024 07:07:38.308] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -7.88065696842682,-3.646066113560664E-5,21.66156469114412
+[29Dec2024 07:07:38.308] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -8.204724236212314,-3.797985534959025E-5,22.56638265992069
+[29Dec2024 07:07:38.309] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -8.528434210722935,-3.949904956357386E-5,23.47136432151683
+[29Dec2024 07:07:38.309] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -8.851787836305903,-4.101824377755747E-5,24.37650747419957
+[29Dec2024 07:07:38.309] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -9.174782931484742,-4.253743799154108E-5,25.281811099267088
+[29Dec2024 07:07:38.310] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -9.497412066555171,-4.405663220552469E-5,26.187276090530304
+[29Dec2024 07:07:38.310] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -9.81967711382822,-4.55758264195083E-5,27.092900134595766
+[29Dec2024 07:07:38.311] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -10.141579635985863,-4.709502063349191E-5,27.998681096840755
+[29Dec2024 07:07:38.311] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -10.463120935253755,-4.861421484747552E-5,28.90461699990874
+[29Dec2024 07:07:38.311] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -10.784299151398727,-5.013340906145913E-5,29.810707046063726
+[29Dec2024 07:07:38.374] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -7.798217606874914,-3.646066113560664E-5,21.70465076719347
+[29Dec2024 07:07:38.391] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -8.118657511818583,-3.797985534959025E-5,22.611049227904914
+[29Dec2024 07:07:38.474] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -8.438731139347055,-3.949904956357386E-5,23.517598932382498
+[29Dec2024 07:07:38.487] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -8.758440014536973,-4.101824377755747E-5,24.424298127034035
+[29Dec2024 07:07:38.554] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -9.077785419493694,-4.253743799154108E-5,25.331145198510512
+[29Dec2024 07:07:38.631] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -9.396768425052414,-4.405663220552469E-5,26.238138663420614
+[29Dec2024 07:07:38.641] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -9.715386982183873,-4.55758264195083E-5,27.145278178927583
+[29Dec2024 07:07:38.712] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -10.033633789132864,-4.709502063349191E-5,28.052565254312412
+[29Dec2024 07:08:02.292] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -3.1302621476766035,-1.671113635381971E-5,10.090313487020012
+[29Dec2024 07:08:02.293] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -3.410162243878858,-1.823033056780332E-5,11.00875829811639
+[29Dec2024 07:08:02.293] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -3.689280301355211,-1.974952478178693E-5,11.927394155160982
+[29Dec2024 07:08:02.293] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -3.9677419716867917,-2.126871899577054E-5,12.846183606214709
+[29Dec2024 07:08:02.293] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -4.246147707625596,-2.278791320975415E-5,13.764947070595554
+[29Dec2024 07:08:02.294] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -4.525448651535498,-2.430710742373776E-5,14.683393813712428
+[29Dec2024 07:08:02.294] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -4.806834901869024,-2.582630163772137E-5,15.601145926028494
+[29Dec2024 07:08:02.294] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -5.091654511231809,-2.7345495851704982E-5,16.517752051272055
+[29Dec2024 07:08:02.294] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -5.3813424592399315,-2.8864690065688592E-5,17.432698720567714
+[29Dec2024 07:08:02.294] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -5.677367335278404,-3.0383884279672202E-5,18.345417644947247
+[29Dec2024 07:08:02.294] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -5.981203863845849,-3.190307849365581E-5,19.255285913156513
+[29Dec2024 07:08:02.295] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -6.294292067317656,-3.342227270763942E-5,20.16163346234316
+[29Dec2024 07:08:02.295] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -6.618004836306227,-3.494146692162303E-5,21.06375073165009
+[29Dec2024 07:08:02.295] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -6.953631002969587,-3.646066113560664E-5,21.960892786898057
+[29Dec2024 07:08:02.295] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -7.302247866733296,-3.797985534959025E-5,22.852345018765845
+[29Dec2024 07:08:02.295] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -7.66440593242487,-3.949904956357386E-5,23.737603680674056
+[29Dec2024 07:08:02.295] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -8.040252136883964,-4.101824377755747E-5,24.616351642688187
+[29Dec2024 07:08:02.296] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -8.429631937171507,-4.253743799154108E-5,25.488431852595113
+[29Dec2024 07:08:02.296] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -8.832168063020845,-4.405663220552469E-5,26.35382303078586
+[29Dec2024 07:08:02.296] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -9.247326965418324,-4.55758264195083E-5,27.21261418576205
+[29Dec2024 07:08:02.296] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -9.67447207690384,-4.709502063349191E-5,28.064980597460362
+[29Dec2024 07:08:02.296] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -10.112901108172991,-4.861421484747552E-5,28.911165038071886
+[29Dec2024 07:08:02.296] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -10.561877343846163,-5.013340906145913E-5,29.75145959808833
+[29Dec2024 07:08:02.370] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -8.1710767008924,-3.646066113560664E-5,21.41412932127423
+[29Dec2024 07:08:02.392] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -8.638909268639964,-3.797985534959025E-5,22.24364440915224
+[29Dec2024 07:08:02.443] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -9.115074482211185,-3.949904956357386E-5,23.068302989663152
+[29Dec2024 07:08:06.621] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -4.967910778713986,-1.671113635381971E-5,9.28539904581612
+[29Dec2024 07:08:18.290] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[29Dec2024 07:08:19.347] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of Kiri080) moved wrongly! 0.27170043002024613
+[29Dec2024 07:08:19.401] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of Kiri080) moved wrongly! 0.34243592298844305
+[29Dec2024 07:08:19.493] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of Kiri080) moved wrongly! 0.3837543968738828
+[29Dec2024 07:08:19.541] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of Kiri080) moved wrongly! 0.46825644134150934
+[29Dec2024 07:08:20.333] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiri080 moved wrongly!

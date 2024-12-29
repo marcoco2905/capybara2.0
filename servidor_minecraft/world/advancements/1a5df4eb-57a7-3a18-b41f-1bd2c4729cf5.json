@@ -505,7 +505,8 @@
   },
   "supplementaries:recipes/flags/flag_purple": {
     "criteria": {
-      "has_stick": "2024-12-19 04:00:52 +0000"
+      "has_stick": "2024-12-19 04:00:52 +0000",
+      "has_purple_wool": "2024-12-29 06:35:08 +0000"
     },
     "done": false
   },
@@ -568,6 +569,7 @@
   },
   "supplementaries:recipes/flags/flag_red": {
     "criteria": {
+      "has_red_wool": "2024-12-29 06:33:59 +0000",
       "has_stick": "2024-12-19 04:00:52 +0000"
     },
     "done": false
@@ -1777,7 +1779,8 @@
   },
   "croptopia:recipes/fruit_smoothie": {
     "criteria": {
-      "has_fruit": "2024-12-19 04:10:56 +0000"
+      "has_fruit": "2024-12-19 04:10:56 +0000",
+      "has_ice": "2024-12-29 06:48:28 +0000"
     },
     "done": false
   },
@@ -2764,6 +2767,7 @@
       "minecraft:slime": "2024-12-20 05:51:50 +0000",
       "minecraft:zombified_piglin": "2024-12-29 00:41:06 +0000",
       "minecraft:wither_skeleton": "2024-12-23 09:30:24 +0000",
+      "minecraft:husk": "2024-12-29 06:58:27 +0000",
       "minecraft:cave_spider": "2024-12-20 07:46:40 +0000",
       "minecraft:piglin": "2024-12-28 08:26:39 +0000",
       "minecraft:enderman": "2024-12-20 20:46:34 +0000",
@@ -2790,6 +2794,7 @@
       "minecraft:slime": "2024-12-20 05:51:50 +0000",
       "minecraft:zombified_piglin": "2024-12-29 00:41:06 +0000",
       "minecraft:wither_skeleton": "2024-12-23 09:30:24 +0000",
+      "minecraft:husk": "2024-12-29 06:58:27 +0000",
       "minecraft:cave_spider": "2024-12-20 07:46:40 +0000",
       "minecraft:piglin": "2024-12-28 08:26:39 +0000",
       "minecraft:enderman": "2024-12-20 20:46:34 +0000",
@@ -5586,6 +5591,7 @@
   },
   "knightquest:recipes/misc/warlord_helmet": {
     "criteria": {
+      "has_red_wool": "2024-12-29 06:33:59 +0000",
       "has_gold_ingot": "2024-12-20 05:58:02 +0000",
       "has_clock": "2024-12-23 08:24:32 +0000"
     },
@@ -5605,6 +5611,7 @@
   },
   "knightquest:recipes/misc/warlord_boots": {
     "criteria": {
+      "has_red_wool": "2024-12-29 06:33:59 +0000",
       "has_gold_ingot": "2024-12-20 05:58:02 +0000",
       "has_clock": "2024-12-23 08:24:32 +0000"
     },
@@ -5636,6 +5643,7 @@
   },
   "knightquest:recipes/misc/warlord_leggings": {
     "criteria": {
+      "has_red_wool": "2024-12-29 06:33:59 +0000",
       "has_gold_ingot": "2024-12-20 05:58:02 +0000",
       "has_clock": "2024-12-23 08:24:32 +0000"
     },
@@ -5643,6 +5651,7 @@
   },
   "knightquest:recipes/misc/warlord_chestplate": {
     "criteria": {
+      "has_red_wool": "2024-12-29 06:33:59 +0000",
       "has_gold_ingot": "2024-12-20 05:58:02 +0000",
       "has_clock": "2024-12-23 08:24:32 +0000"
     },
@@ -9838,7 +9847,8 @@
   "soulsweapons:all_weapons": {
     "criteria": {
       "guts": "2024-12-29 00:21:22 +0000",
-      "darkin_blade": "2024-12-29 01:18:16 +0000"
+      "darkin_blade": "2024-12-29 01:18:16 +0000",
+      "nightfall": "2024-12-29 06:35:40 +0000"
     },
     "done": false
   },
@@ -10143,103 +10153,248 @@
     },
     "done": false
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:recipes/building_blocks/nether_bricks": {
     "criteria": {
-      "log_spam_fixer": "2024-12-29 06:30:04 +0000"
+      "has_nether_brick": "2024-12-29 05:27:23 +0000"
     },
     "done": false
   },
-  "incendium:technical/on_kill": {
+  "minecraft:nether/distract_piglin": {
     "criteria": {
-      "direct": "2024-12-29 06:30:20 +0000",
-      "log_spam_fixer": "2024-12-29 06:30:04 +0000"
+      "distract_piglin": "2024-12-29 05:29:34 +0000"
     },
     "done": false
   },
-  "incendium:technical/on_inventory_change": {
+  "divinerpg:recipes/shaped/hellspider_pumpkin": {
     "criteria": {
-      "log_spam_fixer": "2024-12-29 06:30:04 +0000"
+      "has_shards": "2024-12-29 05:42:12 +0000"
     },
     "done": false
   },
-  "incendium:technical/holy_wrath": {
+  "divinerpg:recipes/shaped/molten_stone": {
     "criteria": {
-      "log_spam_fixer": "2024-12-29 06:30:04 +0000"
+      "has_shards": "2024-12-29 05:42:12 +0000"
     },
     "done": false
   },
-  "incendium:technical/on_block": {
+  "alexsmobs:alexsmobs/crimson_mosquito": {
     "criteria": {
-      "log_spam_fixer": "2024-12-29 06:30:04 +0000"
+      "killed_by": "2024-12-29 05:44:37 +0000",
+      "killed": "2024-12-29 05:44:43 +0000"
     },
     "done": false
   },
-  "incendium:technical/feed_ghastling": {
+  "tombstone:adventure/use_home": {
     "criteria": {
-      "log_spam_fixer": "2024-12-29 06:30:04 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-29 06:30:04 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-29 06:30:04 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-29 06:30:04 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2024-12-29 06:30:07 +0000",
-      "log_spam_fixer": "2024-12-29 06:30:04 +0000"
+      "coded_trigger": "2024-12-29 05:56:58 +0000"
     },
     "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "ancient_elements:fluffy": {
     "criteria": {
-      "log_spam_fixer": "2024-12-29 06:30:04 +0000"
+      "fluffy": "2024-12-29 06:11:52 +0000"
+    },
+    "done": true
+  },
+  "cnc:chupacabraadvancement": {
+    "criteria": {
+      "chupacabraadvancement_0": "2024-12-29 06:11:57 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_campsite": {
+    "criteria": {
+      "location0": "2024-12-29 06:13:37 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/building_blocks/infused_blackstone": {
+    "criteria": {
+      "has_item": "2024-12-29 06:17:42 +0000"
     },
     "done": false
   },
-  "incendium:technical/firestorm": {
+  "soulsweapons:recipes/combat/silver_bullet": {
     "criteria": {
-      "log_spam_fixer": "2024-12-29 06:30:04 +0000"
+      "has_lost_soul": "2024-12-29 06:17:42 +0000"
     },
     "done": false
   },
-  "incendium:technical/on_hit": {
+  "soulsweapons:recipes/building_blocks/soulfire_stain": {
     "criteria": {
-      "direct": "2024-12-29 06:30:07 +0000",
-      "!bit13": "2024-12-29 06:30:07 +0000",
-      "!bit14": "2024-12-29 06:30:07 +0000",
-      "!bit11": "2024-12-29 06:30:07 +0000",
-      "!bit12": "2024-12-29 06:30:07 +0000",
-      "not_target": "2024-12-29 06:30:07 +0000",
-      "!bit10": "2024-12-29 06:30:07 +0000",
-      "!bit9": "2024-12-29 06:30:07 +0000",
-      "!bit8": "2024-12-29 06:30:07 +0000",
-      "!bit7": "2024-12-29 06:30:07 +0000",
-      "!bit6": "2024-12-29 06:30:07 +0000",
-      "!bit5": "2024-12-29 06:30:07 +0000",
-      "!bit4": "2024-12-29 06:30:07 +0000",
-      "!bit3": "2024-12-29 06:30:07 +0000",
-      "!bit2": "2024-12-29 06:30:07 +0000",
-      "!bit1": "2024-12-29 06:30:07 +0000",
-      "!bit0": "2024-12-29 06:30:07 +0000"
+      "has_item": "2024-12-29 06:17:42 +0000"
+    },
+    "done": false
+  },
+  "soulsweapons:recipes/combat/blunderbuss": {
+    "criteria": {
+      "has_lost_soul": "2024-12-29 06:17:42 +0000"
+    },
+    "done": false
+  },
+  "soulsweapons:recipes/decorations/soul_lamp": {
+    "criteria": {
+      "has_item": "2024-12-29 06:17:42 +0000"
+    },
+    "done": false
+  },
+  "soulsweapons:recipes/combat/hunter_pistol": {
+    "criteria": {
+      "has_lost_soul": "2024-12-29 06:17:42 +0000"
+    },
+    "done": false
+  },
+  "soulsweapons:recipes/decorations/soul_lantern_lost_soul": {
+    "criteria": {
+      "has_item": "2024-12-29 06:17:42 +0000"
+    },
+    "done": false
+  },
+  "soulsweapons:recipes/combat/silver_bullet_iron_ingot": {
+    "criteria": {
+      "has_lost_soul": "2024-12-29 06:17:42 +0000"
+    },
+    "done": false
+  },
+  "soulsweapons:recipes/misc/iron_skull": {
+    "criteria": {
+      "has_item": "2024-12-29 06:17:42 +0000"
+    },
+    "done": false
+  },
+  "soulsweapons:recipes/misc/soul_ingot": {
+    "criteria": {
+      "has_item": "2024-12-29 06:17:42 +0000"
+    },
+    "done": false
+  },
+  "soulsweapons:recipes/building_blocks/cracked_infused_blackstone": {
+    "criteria": {
+      "has_item": "2024-12-29 06:17:42 +0000"
+    },
+    "done": false
+  },
+  "soulsweapons:recipes/combat/hunter_cannon": {
+    "criteria": {
+      "has_lost_soul": "2024-12-29 06:17:42 +0000"
+    },
+    "done": false
+  },
+  "soulsweapons:recipes/combat/gatling_gun": {
+    "criteria": {
+      "has_lost_soul": "2024-12-29 06:17:42 +0000"
+    },
+    "done": false
+  },
+  "soulsweapons:recipes/misc/chungus_disc": {
+    "criteria": {
+      "has_item": "2024-12-29 06:18:41 +0000"
+    },
+    "done": false
+  },
+  "ancient_elements:can_someone_ventilate": {
+    "criteria": {
+      "can_someone_ventilate": "2024-12-29 06:20:32 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_guard": {
+    "criteria": {
+      "coded_trigger": "2024-12-29 06:24:20 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2024-12-29 06:27:01 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2024-12-29 06:27:01 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/root": {
+    "criteria": {
+      "inscription_table": "2024-12-29 06:27:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_glazed_terracotta": {
+    "criteria": {
+      "has_blue_terracotta": "2024-12-29 06:27:38 +0000"
     },
     "done": false
   },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-29 06:27:45 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-29 06:27:45 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-29 06:27:45 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-29 06:27:45 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-29 06:27:45 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-29 06:27:45 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-29 06:27:45 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-29 06:27:45 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-29 06:27:45 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-29 06:27:45 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-29 06:27:45 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2024-12-29 06:27:45 +0000"
     },
@@ -10250,30 +10405,6 @@
       "has_item": "2024-12-29 06:27:48 +0000"
     },
     "done": false
-  },
-  "knightquest:recipes/misc/skulk_chestplate": {
-    "criteria": {
-      "has_white_concrete": "2024-12-29 06:29:48 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
-    "criteria": {
-      "has_deepslate_bricks": "2024-12-29 06:27:45 +0000"
-    },
-    "done": false
-  },
-  "tombstone:adventure/use_home": {
-    "criteria": {
-      "coded_trigger": "2024-12-29 05:56:58 +0000"
-    },
-    "done": true
-  },
-  "irons_spellbooks:make_inscription_table": {
-    "criteria": {
-      "inscription_table": "2024-12-29 06:27:01 +0000"
-    },
-    "done": true
   },
   "soulsweapons:recipes/combat/translucent_glaive": {
     "criteria": {
@@ -10293,33 +10424,9 @@
     },
     "done": false
   },
-  "soulsweapons:recipes/building_blocks/infused_blackstone": {
-    "criteria": {
-      "has_item": "2024-12-29 06:17:42 +0000"
-    },
-    "done": false
-  },
-  "soulsweapons:recipes/combat/silver_bullet": {
-    "criteria": {
-      "has_lost_soul": "2024-12-29 06:17:42 +0000"
-    },
-    "done": false
-  },
   "soulsweapons:recipes/combat/soul_ingot_boots": {
     "criteria": {
       "has_item": "2024-12-29 06:27:48 +0000"
-    },
-    "done": false
-  },
-  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
-    "criteria": {
-      "inscription_table": "2024-12-29 06:27:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2024-12-29 06:27:45 +0000"
     },
     "done": false
   },
@@ -10329,141 +10436,15 @@
     },
     "done": false
   },
-  "irons_spellbooks:irons_spellbooks/root": {
-    "criteria": {
-      "inscription_table": "2024-12-29 06:27:01 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/building_blocks/soulfire_stain": {
-    "criteria": {
-      "has_item": "2024-12-29 06:17:42 +0000"
-    },
-    "done": false
-  },
-  "minecraft:adventure/totem_of_undying": {
-    "criteria": {
-      "used_totem": "2024-12-29 06:28:05 +0000"
-    },
-    "done": true
-  },
-  "divinerpg:recipes/shaped/hellspider_pumpkin": {
-    "criteria": {
-      "has_shards": "2024-12-29 05:42:12 +0000"
-    },
-    "done": false
-  },
-  "soulsweapons:recipes/combat/blunderbuss": {
-    "criteria": {
-      "has_lost_soul": "2024-12-29 06:17:42 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/blue_glazed_terracotta": {
-    "criteria": {
-      "has_blue_terracotta": "2024-12-29 06:27:38 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/nether_bricks": {
-    "criteria": {
-      "has_nether_brick": "2024-12-29 05:27:23 +0000"
-    },
-    "done": false
-  },
-  "dungeons_arise:find_illager_campsite": {
-    "criteria": {
-      "location0": "2024-12-29 06:13:37 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/decorations/soul_lamp": {
-    "criteria": {
-      "has_item": "2024-12-29 06:17:42 +0000"
-    },
-    "done": false
-  },
-  "knightquest:recipes/misc/skulk_leggings": {
-    "criteria": {
-      "has_white_concrete": "2024-12-29 06:29:48 +0000"
-    },
-    "done": false
-  },
-  "knightquest:recipes/misc/skulk_boots": {
-    "criteria": {
-      "has_white_concrete": "2024-12-29 06:29:48 +0000"
-    },
-    "done": false
-  },
-  "soulsweapons:recipes/misc/chungus_disc": {
-    "criteria": {
-      "has_item": "2024-12-29 06:18:41 +0000"
-    },
-    "done": false
-  },
-  "divinerpg:recipes/shaped/molten_stone": {
-    "criteria": {
-      "has_shards": "2024-12-29 05:42:12 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2024-12-29 06:27:45 +0000"
-    },
-    "done": false
-  },
-  "soulsweapons:recipes/combat/hunter_pistol": {
-    "criteria": {
-      "has_lost_soul": "2024-12-29 06:17:42 +0000"
-    },
-    "done": false
-  },
   "soulsweapons:recipes/combat/soul_robes_chestplate": {
     "criteria": {
       "has_item": "2024-12-29 06:27:48 +0000"
     },
     "done": false
   },
-  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2024-12-29 06:27:45 +0000"
-    },
-    "done": false
-  },
-  "ancient_elements:fluffy": {
-    "criteria": {
-      "fluffy": "2024-12-29 06:11:52 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/skulk_helmet": {
-    "criteria": {
-      "has_white_concrete": "2024-12-29 06:29:48 +0000"
-    },
-    "done": false
-  },
   "soulsweapons:recipes/combat/soul_robes_helmet": {
     "criteria": {
       "has_item": "2024-12-29 06:27:48 +0000"
-    },
-    "done": false
-  },
-  "minecraft:nether/distract_piglin": {
-    "criteria": {
-      "distract_piglin": "2024-12-29 05:29:34 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/deepslate_brick_wall": {
-    "criteria": {
-      "has_deepslate_bricks": "2024-12-29 06:27:45 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
-    "criteria": {
-      "has_deepslate_bricks": "2024-12-29 06:27:45 +0000"
     },
     "done": false
   },
@@ -10479,108 +10460,215 @@
     },
     "done": false
   },
-  "alexsmobs:alexsmobs/crimson_mosquito": {
-    "criteria": {
-      "killed_by": "2024-12-29 05:44:37 +0000",
-      "killed": "2024-12-29 05:44:43 +0000"
-    },
-    "done": false
-  },
-  "soulsweapons:recipes/decorations/soul_lantern_lost_soul": {
-    "criteria": {
-      "has_item": "2024-12-29 06:17:42 +0000"
-    },
-    "done": false
-  },
-  "soulsweapons:recipes/combat/silver_bullet_iron_ingot": {
-    "criteria": {
-      "has_lost_soul": "2024-12-29 06:17:42 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/deepslate_tiles": {
-    "criteria": {
-      "has_deepslate_bricks": "2024-12-29 06:27:45 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2024-12-29 06:27:45 +0000"
-    },
-    "done": false
-  },
-  "cnc:chupacabraadvancement": {
-    "criteria": {
-      "chupacabraadvancement_0": "2024-12-29 06:11:57 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/misc/iron_skull": {
-    "criteria": {
-      "has_item": "2024-12-29 06:17:42 +0000"
-    },
-    "done": false
-  },
-  "soulsweapons:recipes/misc/soul_ingot": {
-    "criteria": {
-      "has_item": "2024-12-29 06:17:42 +0000"
-    },
-    "done": false
-  },
-  "ancient_elements:can_someone_ventilate": {
-    "criteria": {
-      "can_someone_ventilate": "2024-12-29 06:20:32 +0000"
-    },
-    "done": true
-  },
   "soulsweapons:recipes/combat/soul_ingot_chestplate": {
     "criteria": {
       "has_item": "2024-12-29 06:27:48 +0000"
     },
     "done": false
   },
-  "soulsweapons:recipes/building_blocks/cracked_infused_blackstone": {
+  "minecraft:adventure/totem_of_undying": {
     "criteria": {
-      "has_item": "2024-12-29 06:17:42 +0000"
-    },
-    "done": false
-  },
-  "soulsweapons:recipes/combat/hunter_cannon": {
-    "criteria": {
-      "has_lost_soul": "2024-12-29 06:17:42 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2024-12-29 06:27:45 +0000"
-    },
-    "done": false
-  },
-  "tombstone:adventure/use_guard": {
-    "criteria": {
-      "coded_trigger": "2024-12-29 06:24:20 +0000"
+      "used_totem": "2024-12-29 06:28:05 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
+  "knightquest:recipes/misc/skulk_chestplate": {
     "criteria": {
-      "has_deepslate_bricks": "2024-12-29 06:27:45 +0000"
+      "has_white_concrete": "2024-12-29 06:29:48 +0000"
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
+  "knightquest:recipes/misc/skulk_leggings": {
     "criteria": {
-      "has_deepslate_bricks": "2024-12-29 06:27:45 +0000"
+      "has_white_concrete": "2024-12-29 06:29:48 +0000"
     },
     "done": false
   },
-  "soulsweapons:recipes/combat/gatling_gun": {
+  "knightquest:recipes/misc/skulk_boots": {
     "criteria": {
-      "has_lost_soul": "2024-12-29 06:17:42 +0000"
+      "has_white_concrete": "2024-12-29 06:29:48 +0000"
     },
     "done": false
+  },
+  "knightquest:recipes/misc/skulk_helmet": {
+    "criteria": {
+      "has_white_concrete": "2024-12-29 06:29:48 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/decorations/sign_post_dark_oak": {
+    "criteria": {
+      "has_planks": "2024-12-29 06:56:42 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/purple_carpet": {
+    "criteria": {
+      "has_purple_wool": "2024-12-29 06:35:08 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-29 06:56:42 +0000"
+    },
+    "done": false
+  },
+  "soulsweapons:nightfall": {
+    "criteria": {
+      "weapon": "2024-12-29 06:35:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2024-12-29 06:56:42 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-29 06:38:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2024-12-29 06:33:59 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/smoker/hot_pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin_pie": "2024-12-29 07:00:26 +0000"
+    },
+    "done": false
+  },
+  "ad_astra:recipes/misc/red_flag": {
+    "criteria": {
+      "has_red_flag": "2024-12-29 06:33:59 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-29 06:56:42 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2024-12-29 06:56:42 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2024-12-29 06:33:59 +0000"
+    },
+    "done": false
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2024-12-29 06:55:30 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_pickup_upgrade": {
+    "criteria": {
+      "has_pickup_upgrade": "2024-12-29 06:42:36 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/purple_bed": {
+    "criteria": {
+      "has_purple_wool": "2024-12-29 06:35:08 +0000"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/magnet_upgrade": {
+    "criteria": {
+      "has_pickup_upgrade": "2024-12-29 06:42:36 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/furnace/hot_pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin_pie": "2024-12-29 07:00:26 +0000"
+    },
+    "done": false
+  },
+  "ad_astra:recipes/misc/purple_flag": {
+    "criteria": {
+      "has_purple_flag": "2024-12-29 06:35:08 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2024-12-29 06:56:42 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2024-12-29 06:33:59 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-29 06:56:42 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-29 06:56:42 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2024-12-29 06:56:42 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shapeless/rainbow_wool": {
+    "criteria": {
+      "has_wool": "2024-12-29 06:33:59 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2024-12-29 06:48:28 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/purple_banner": {
+    "criteria": {
+      "has_purple_wool": "2024-12-29 06:35:08 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2024-12-29 06:56:42 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/campfire/hot_pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin_pie": "2024-12-29 07:00:26 +0000"
+    },
+    "done": false
+  },
+  "eternal_tales:open_gift": {
+    "criteria": {
+      "open_gift_0": "2024-12-29 06:48:12 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
