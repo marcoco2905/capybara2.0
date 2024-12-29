@@ -10415,77 +10415,83 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "born_in_chaos_v1:junior_summoner": {
     "criteria": {
-      "log_spam_fixer": "2024-12-28 18:54:20 +0000"
+      "junior_summoner_0": "2024-12-28 17:46:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-28 17:55:26 +0000"
     },
     "done": false
   },
-  "incendium:technical/on_kill": {
+  "supplementaries:recipes/decorations/sign_post_warped": {
     "criteria": {
-      "log_spam_fixer": "2024-12-28 18:54:20 +0000"
+      "has_planks": "2024-12-28 17:55:26 +0000"
     },
     "done": false
   },
-  "incendium:technical/on_inventory_change": {
+  "minecraft:recipes/redstone/warped_fence_gate": {
     "criteria": {
-      "log_spam_fixer": "2024-12-28 18:54:20 +0000"
+      "has_planks": "2024-12-28 17:55:26 +0000"
     },
     "done": false
   },
-  "incendium:technical/holy_wrath": {
+  "minecraft:recipes/building_blocks/warped_stairs": {
     "criteria": {
-      "log_spam_fixer": "2024-12-28 18:54:20 +0000"
+      "has_planks": "2024-12-28 17:55:26 +0000"
     },
     "done": false
   },
-  "incendium:technical/on_block": {
+  "minecraft:recipes/decorations/warped_sign": {
     "criteria": {
-      "log_spam_fixer": "2024-12-28 18:54:20 +0000"
+      "has_planks": "2024-12-28 17:55:26 +0000"
     },
     "done": false
   },
-  "incendium:technical/feed_ghastling": {
+  "minecraft:recipes/redstone/warped_trapdoor": {
     "criteria": {
-      "log_spam_fixer": "2024-12-28 18:54:20 +0000"
+      "has_planks": "2024-12-28 17:55:26 +0000"
     },
     "done": false
   },
-  "incendium:technical/inventory/firestorm": {
+  "minecraft:recipes/decorations/warped_fence": {
     "criteria": {
-      "log_spam_fixer": "2024-12-28 18:54:20 +0000"
+      "has_planks": "2024-12-28 17:55:26 +0000"
     },
     "done": false
   },
-  "incendium:technical/give_ghastling": {
+  "minecraft:recipes/redstone/warped_button": {
     "criteria": {
-      "log_spam_fixer": "2024-12-28 18:54:20 +0000"
+      "has_planks": "2024-12-28 17:55:26 +0000"
     },
     "done": false
   },
-  "incendium:technical/multiplex_crossbow": {
+  "minecraft:recipes/redstone/warped_door": {
     "criteria": {
-      "log_spam_fixer": "2024-12-28 18:54:20 +0000"
+      "has_planks": "2024-12-28 17:55:26 +0000"
     },
     "done": false
   },
-  "incendium:technical/on_player_hurt": {
+  "minecraft:recipes/building_blocks/warped_slab": {
     "criteria": {
-      "log_spam_fixer": "2024-12-28 18:54:20 +0000"
+      "has_planks": "2024-12-28 17:55:26 +0000"
     },
     "done": false
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "alexsmobs:alexsmobs/tigers_blessing": {
     "criteria": {
-      "log_spam_fixer": "2024-12-28 18:54:20 +0000"
+      "all_effects": "2024-12-28 17:56:33 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "minecraft:nether/find_bastion": {
     "criteria": {
-      "log_spam_fixer": "2024-12-28 18:54:20 +0000"
+      "bastion": "2024-12-28 17:57:13 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
     "criteria": {
@@ -10493,45 +10499,9 @@
     },
     "done": false
   },
-  "regions_unexplored:recipes/building_blocks/overgrown_bone_block": {
-    "criteria": {
-      "has_bone_block": "2024-12-28 18:07:56 +0000"
-    },
-    "done": false
-  },
-  "supplementaries:recipes/netherite_trapdoor": {
-    "criteria": {
-      "has_netherite_scrap": "2024-12-28 18:41:55 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/netherite_ingot": {
-    "criteria": {
-      "has_netherite_scrap": "2024-12-28 18:41:55 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/bone_meal_from_bone_block": {
-    "criteria": {
-      "has_bone_block": "2024-12-28 18:07:56 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-12-28 17:57:33 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
-    "criteria": {
-      "has_snout_armor_trim_smithing_template": "2024-12-28 18:03:51 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/redstone/warped_pressure_plate": {
-    "criteria": {
-      "has_planks": "2024-12-28 17:55:26 +0000"
     },
     "done": false
   },
@@ -10547,78 +10517,6 @@
     },
     "done": false
   },
-  "born_in_chaos_v1:junior_summoner": {
-    "criteria": {
-      "junior_summoner_0": "2024-12-28 17:46:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_crying_obsidian": {
-    "criteria": {
-      "crying_obsidian": "2024-12-28 18:02:49 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/decorations/sign_post_warped": {
-    "criteria": {
-      "has_planks": "2024-12-28 17:55:26 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/redstone/warped_fence_gate": {
-    "criteria": {
-      "has_planks": "2024-12-28 17:55:26 +0000"
-    },
-    "done": false
-  },
-  "irons_spellbooks:irons_spellbooks/spell_book_gold": {
-    "criteria": {
-      "requirement": "2024-12-28 18:33:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/warped_stairs": {
-    "criteria": {
-      "has_planks": "2024-12-28 17:55:26 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/warped_sign": {
-    "criteria": {
-      "has_planks": "2024-12-28 17:55:26 +0000"
-    },
-    "done": false
-  },
-  "alexsmobs:alexsmobs/tigers_blessing": {
-    "criteria": {
-      "all_effects": "2024-12-28 17:56:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/respawn_anchor": {
-    "criteria": {
-      "has_obsidian": "2024-12-28 18:02:49 +0000"
-    },
-    "done": false
-  },
-  "supplementaries:recipes/netherite_door": {
-    "criteria": {
-      "has_netherite_scrap": "2024-12-28 18:41:55 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2024-12-28 18:03:51 +0000"
-    },
-    "done": false
-  },
-  "biomesoplenty:recipes/building_blocks/flesh": {
-    "criteria": {
-      "has_blood_bucket": "2024-12-28 18:23:00 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-12-28 17:57:33 +0000"
@@ -10631,9 +10529,21 @@
     },
     "done": false
   },
-  "minecraft:recipes/redstone/warped_trapdoor": {
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
     "criteria": {
-      "has_planks": "2024-12-28 17:55:26 +0000"
+      "has_polished_blackstone_bricks": "2024-12-28 17:57:33 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-28 17:57:33 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/stonecutting/blackstone_tile": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-28 17:57:33 +0000"
     },
     "done": false
   },
@@ -10643,15 +10553,45 @@
     },
     "done": false
   },
-  "minecraft:recipes/decorations/warped_fence": {
+  "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
-      "has_planks": "2024-12-28 17:55:26 +0000"
+      "crying_obsidian": "2024-12-28 18:02:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2024-12-28 18:02:49 +0000"
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+  "l2complements:recipes/enchantments/enchantments/stable_body": {
     "criteria": {
-      "has_polished_blackstone_bricks": "2024-12-28 17:57:33 +0000"
+      "has_crying_obsidian": "2024-12-28 18:02:49 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
+    "criteria": {
+      "has_snout_armor_trim_smithing_template": "2024-12-28 18:03:51 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-28 18:03:51 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:recipes/building_blocks/overgrown_bone_block": {
+    "criteria": {
+      "has_bone_block": "2024-12-28 18:07:56 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2024-12-28 18:07:56 +0000"
     },
     "done": false
   },
@@ -10662,45 +10602,33 @@
     },
     "done": false
   },
-  "minecraft:recipes/redstone/warped_button": {
+  "biomesoplenty:recipes/building_blocks/flesh": {
     "criteria": {
-      "has_planks": "2024-12-28 17:55:26 +0000"
+      "has_blood_bucket": "2024-12-28 18:23:00 +0000"
     },
     "done": false
   },
-  "l2complements:recipes/enchantments/enchantments/stable_body": {
+  "irons_spellbooks:irons_spellbooks/spell_book_gold": {
     "criteria": {
-      "has_crying_obsidian": "2024-12-28 18:02:49 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/redstone/warped_door": {
-    "criteria": {
-      "has_planks": "2024-12-28 17:55:26 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2024-12-28 17:57:33 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/warped_slab": {
-    "criteria": {
-      "has_planks": "2024-12-28 17:55:26 +0000"
-    },
-    "done": false
-  },
-  "minecraft:nether/find_bastion": {
-    "criteria": {
-      "bastion": "2024-12-28 17:57:13 +0000"
+      "requirement": "2024-12-28 18:33:49 +0000"
     },
     "done": true
   },
-  "supplementaries:recipes/stonecutting/blackstone_tile": {
+  "supplementaries:recipes/netherite_trapdoor": {
     "criteria": {
-      "has_polished_blackstone_bricks": "2024-12-28 17:57:33 +0000"
+      "has_netherite_scrap": "2024-12-28 18:41:55 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2024-12-28 18:41:55 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/netherite_door": {
+    "criteria": {
+      "has_netherite_scrap": "2024-12-28 18:41:55 +0000"
     },
     "done": false
   },
