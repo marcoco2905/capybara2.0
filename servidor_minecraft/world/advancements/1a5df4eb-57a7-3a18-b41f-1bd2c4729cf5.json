@@ -351,9 +351,10 @@
   },
   "incendium:technical/using/shield": {
     "criteria": {
+      "requirement": "2024-12-29 05:50:12 +0000",
       "log_spam_fixer": "2024-12-19 03:57:53 +0000"
     },
-    "done": false
+    "done": true
   },
   "tombstone:adventure/root": {
     "criteria": {
@@ -10133,15 +10134,34 @@
     },
     "done": false
   },
+  "divinerpg:recipes/shaped/hellspider_pumpkin": {
+    "criteria": {
+      "has_shards": "2024-12-29 05:42:12 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/nether_bricks": {
     "criteria": {
       "has_nether_brick": "2024-12-29 05:27:23 +0000"
     },
     "done": false
   },
+  "divinerpg:recipes/shaped/molten_stone": {
+    "criteria": {
+      "has_shards": "2024-12-29 05:42:12 +0000"
+    },
+    "done": false
+  },
   "minecraft:nether/distract_piglin": {
     "criteria": {
       "distract_piglin": "2024-12-29 05:29:34 +0000"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2024-12-29 05:44:37 +0000",
+      "killed": "2024-12-29 05:44:43 +0000"
     },
     "done": false
   },

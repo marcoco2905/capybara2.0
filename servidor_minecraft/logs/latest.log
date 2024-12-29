@@ -2443,3 +2443,39 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29Dec2024 05:34:58.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 fell from a high place
 [29Dec2024 05:34:58.253] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
 [29Dec2024 05:38:17.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> [x:-441, y:54, z:-495, dim:minecraft:the_nether]
+[29Dec2024 05:42:07.047] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[29Dec2024 05:42:19.917] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[29Dec2024 05:42:39.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 tried to swim in lava
+[29Dec2024 05:42:39.149] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[29Dec2024 05:43:05.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [Cover Me with Diamonds]
+[29Dec2024 05:43:32.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by Piglin
+[29Dec2024 05:43:32.080] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[29Dec2024 05:43:52.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by Piglin
+[29Dec2024 05:43:52.903] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[29Dec2024 05:44:21.884] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[29Dec2024 05:44:41.455] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4592ms or 91 ticks behind
+[29Dec2024 05:44:59.399] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2986ms or 59 ticks behind
+[29Dec2024 05:45:19.906] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5543ms or 110 ticks behind
+[29Dec2024 05:45:38.986] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4123ms or 82 ticks behind
+[29Dec2024 05:45:59.908] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5945ms or 118 ticks behind
+[29Dec2024 05:46:19.037] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4174ms or 83 ticks behind
+[29Dec2024 05:46:37.996] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3984ms or 79 ticks behind
+[29Dec2024 05:46:57.960] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4997ms or 99 ticks behind
+[29Dec2024 05:47:18.362] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5449ms or 108 ticks behind
+[29Dec2024 05:47:36.539] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3226ms or 64 ticks behind
+[29Dec2024 05:47:44.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 burned to death
+[29Dec2024 05:47:44.596] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[29Dec2024 05:48:25.464] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[29Dec2024 05:48:43.460] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2998ms or 59 ticks behind
+[29Dec2024 05:49:02.270] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[29Dec2024 05:49:43.027] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[29Dec2024 05:50:01.387] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3374ms or 67 ticks behind
+[29Dec2024 05:50:10.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by Piglin Brute
+[29Dec2024 05:50:10.108] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[29Dec2024 05:50:18.592] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2229ms or 44 ticks behind
+[29Dec2024 05:50:25.798] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 30e7f8e9: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[29Dec2024 05:50:30.839] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 30e7f8e9: RandomSpreadSearchWorker failed with 10182 radius, 1476 samples
+[29Dec2024 05:50:45.980] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[29Dec2024 05:51:03.436] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2473ms or 49 ticks behind
+[29Dec2024 05:51:06.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by Piglin Brute
+[29Dec2024 05:51:06.203] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
