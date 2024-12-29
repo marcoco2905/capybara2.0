@@ -10411,9 +10411,10 @@
   },
   "soulsweapons:recipes/combat/soul_ingot_helmet": {
     "criteria": {
-      "has_item": "2024-12-29 06:27:48 +0000"
+      "has_item": "2024-12-29 06:27:48 +0000",
+      "has_the_recipe": "2024-12-29 08:32:45 +0000"
     },
-    "done": false
+    "done": true
   },
   "soulsweapons:recipes/combat/translucent_glaive": {
     "criteria": {
@@ -10465,9 +10466,10 @@
   },
   "soulsweapons:recipes/combat/soul_ingot_leggings": {
     "criteria": {
-      "has_item": "2024-12-29 06:27:48 +0000"
+      "has_item": "2024-12-29 06:27:48 +0000",
+      "has_the_recipe": "2024-12-29 08:32:56 +0000"
     },
-    "done": false
+    "done": true
   },
   "soulsweapons:recipes/combat/soul_ingot_chestplate": {
     "criteria": {

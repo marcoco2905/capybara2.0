@@ -5888,7 +5888,9 @@
       "kiwi_seed": "2024-12-26 07:03:09 +0000",
       "grape_seed": "2024-12-26 01:57:24 +0000",
       "barley_seed": "2024-12-25 22:19:37 +0000",
-      "zucchini_seed": "2024-12-20 20:24:35 +0000"
+      "corn_seed": "2024-12-29 08:24:38 +0000",
+      "zucchini_seed": "2024-12-20 20:24:35 +0000",
+      "garlic_seed": "2024-12-29 08:24:38 +0000"
     },
     "done": false
   },
@@ -5908,6 +5910,7 @@
   "croptopia:gather_plains": {
     "criteria": {
       "bellpepper_seed": "2024-12-20 20:26:38 +0000",
+      "corn_seed": "2024-12-29 08:24:38 +0000",
       "barley_seed": "2024-12-25 22:19:37 +0000"
     },
     "done": false
@@ -6157,6 +6160,7 @@
   "croptopia:gather_jungle": {
     "criteria": {
       "turnip_seed": "2024-12-25 22:19:37 +0000",
+      "garlic_seed": "2024-12-29 08:24:38 +0000",
       "peanut_seed": "2024-12-20 21:05:59 +0000"
     },
     "done": false

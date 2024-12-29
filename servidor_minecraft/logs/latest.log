@@ -4733,3 +4733,14 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29Dec2024 08:23:17.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 was doomed to fall by Flusk Zombie
 [29Dec2024 08:23:17.852] [Server thread/INFO] [tombstone/]: The player Kiri080 has successfully been saved
 [29Dec2024 08:23:31.931] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AdventurerEntity['Kiri080'/156198, l='ServerLevel[world]', x=-1959.92, y=84.00, z=4195.17] died: Kiri080 was roasted by marcouwu2005's dragon breath
+[29Dec2024 08:29:53.366] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[29Dec2024 08:32:55.181] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[29Dec2024 08:33:26.831] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[29Dec2024 08:33:44.342] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[29Dec2024 08:34:10.102] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[29Dec2024 08:34:52.711] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[29Dec2024 08:35:07.101] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[29Dec2024 08:35:14.344] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Evgenia'/161378, l='ServerLevel[world]', x=-2420.92, y=67.00, z=4675.79] died, message: 'Evgenia was shot by Pillager'
+[29Dec2024 08:35:14.345] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Evgenia'/161378, l='ServerLevel[world]', x=-2420.92, y=67.00, z=4675.79] died: Evgenia was shot by Pillager
+[29Dec2024 08:35:30.069] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Polixeni'/161374, l='ServerLevel[world]', x=-2429.16, y=67.00, z=4676.15] died, message: 'Polixeni was slain by Vindicator'
+[29Dec2024 08:35:30.070] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Polixeni'/161374, l='ServerLevel[world]', x=-2429.16, y=67.00, z=4676.15] died: Polixeni was slain by Vindicator
