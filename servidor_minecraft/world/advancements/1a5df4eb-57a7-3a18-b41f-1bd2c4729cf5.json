@@ -9856,6 +9856,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:nether_wastes": "2024-12-29 05:15:14 +0000",
       "minecraft:basalt_deltas": "2024-12-29 00:45:47 +0000"
     },
     "done": false
@@ -10091,6 +10092,30 @@
   "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
     "criteria": {
       "has_netherite_upgrade_smithing_template": "2024-12-29 01:34:42 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2024-12-29 05:01:32 +0000"
+    },
+    "done": false
+  },
+  "eternal_tales:get_destroyers_eye": {
+    "criteria": {
+      "get_destroyers_eye_0": "2024-12-29 05:15:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2024-12-29 05:01:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2024-12-29 05:01:32 +0000"
     },
     "done": false
   },

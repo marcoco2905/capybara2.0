@@ -7501,9 +7501,10 @@
   },
   "sophisticatedbackpacks:recipes/misc/smoking_upgrade": {
     "criteria": {
-      "has_upgrade_base": "2024-12-23 09:06:20 +0000"
+      "has_upgrade_base": "2024-12-23 09:06:20 +0000",
+      "has_the_recipe": "2024-12-29 05:16:35 +0000"
     },
-    "done": false
+    "done": true
   },
   "sophisticatedbackpacks:recipes/misc/chipped/mason_table_upgrade": {
     "criteria": {
@@ -7652,9 +7653,10 @@
   },
   "sophisticatedbackpacks:recipes/misc/crafting_upgrade": {
     "criteria": {
-      "has_upgrade_base": "2024-12-23 09:06:20 +0000"
+      "has_upgrade_base": "2024-12-23 09:06:20 +0000",
+      "has_the_recipe": "2024-12-29 05:18:01 +0000"
     },
-    "done": false
+    "done": true
   },
   "farmersdelight:recipes/food/horse_feed": {
     "criteria": {
@@ -10641,6 +10643,24 @@
   "soulsweapons:all_weapons": {
     "criteria": {
       "guts": "2024-12-29 04:54:14 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:downer": {
+    "criteria": {
+      "dorcel": "2024-12-29 04:59:42 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-12-29 05:06:20 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/auto_smoking_upgrade": {
+    "criteria": {
+      "has_smoking_upgrade": "2024-12-29 05:16:36 +0000"
     },
     "done": false
   },
