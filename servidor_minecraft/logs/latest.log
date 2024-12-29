@@ -2434,3 +2434,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29Dec2024 05:26:20.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [Iron Torch]
 [29Dec2024 05:28:39.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by Piglin
 [29Dec2024 05:28:39.757] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[29Dec2024 05:31:44.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 tried to swim in lava
+[29Dec2024 05:31:44.068] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[29Dec2024 05:33:31.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by Ancient Knight
+[29Dec2024 05:33:31.161] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[29Dec2024 05:33:52.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by Ancient Knight
+[29Dec2024 05:33:52.303] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[29Dec2024 05:34:58.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 fell from a high place
+[29Dec2024 05:34:58.253] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[29Dec2024 05:38:17.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> [x:-441, y:54, z:-495, dim:minecraft:the_nether]

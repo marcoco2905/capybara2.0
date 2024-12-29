@@ -1849,6 +1849,7 @@
       "wasteland": "2024-12-26 08:15:59 +0000",
       "lush_desert": "2024-12-26 08:01:37 +0000",
       "redwood_forest": "2024-12-19 06:01:43 +0000",
+      "visceral_heap": "2024-12-29 05:30:58 +0000",
       "dune_beach": "2024-12-28 06:58:15 +0000",
       "volcano": "2024-12-28 07:09:26 +0000",
       "volcanic_plains": "2024-12-26 07:45:48 +0000",
@@ -1881,6 +1882,7 @@
       "wasteland": "2024-12-26 08:15:59 +0000",
       "lush_desert": "2024-12-26 08:01:37 +0000",
       "redwood_forest": "2024-12-19 06:01:43 +0000",
+      "visceral_heap": "2024-12-29 05:30:58 +0000",
       "dune_beach": "2024-12-28 06:58:15 +0000",
       "volcano": "2024-12-28 07:09:26 +0000",
       "volcanic_plains": "2024-12-26 07:45:48 +0000",
@@ -10134,6 +10136,12 @@
   "minecraft:recipes/building_blocks/nether_bricks": {
     "criteria": {
       "has_nether_brick": "2024-12-29 05:27:23 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2024-12-29 05:29:34 +0000"
     },
     "done": false
   },
