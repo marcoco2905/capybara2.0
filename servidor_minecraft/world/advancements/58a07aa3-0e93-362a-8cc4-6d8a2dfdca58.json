@@ -795,6 +795,7 @@
       "rotten_flesh": "2024-12-28 18:38:55 +0000",
       "melon_slice": "2024-12-27 18:40:29 +0000",
       "beetroot": "2024-12-20 07:13:25 +0000",
+      "golden_carrot": "2024-12-29 08:10:19 +0000",
       "carrot": "2024-12-20 06:32:16 +0000"
     },
     "done": false
@@ -11371,6 +11372,12 @@
       "scroll_forge": "2024-12-29 07:57:03 +0000"
     },
     "done": true
+  },
+  "graveyard:graveyard/kill_graveyard_mob": {
+    "criteria": {
+      "revenant": "2024-12-29 08:06:25 +0000"
+    },
+    "done": false
   },
   "tombstone:recipes/from_dark_marble": {
     "criteria": {
