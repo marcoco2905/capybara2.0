@@ -4662,3 +4662,48 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29Dec2024 07:08:20.333] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiri080 moved wrongly!
 [29Dec2024 07:21:04.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has reached the goal [A Small Cemetery]
 [29Dec2024 07:21:18.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [Knowledge raises the soul]
+[29Dec2024 07:24:37.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> ww
+[29Dec2024 07:24:38.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> zzzzz
+[29Dec2024 07:24:39.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> zzzzzzz
+[29Dec2024 07:24:39.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> zzzzz
+[29Dec2024 07:24:40.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> zzz
+[29Dec2024 07:24:40.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> z
+[29Dec2024 07:24:40.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> z
+[29Dec2024 07:24:40.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> z
+[29Dec2024 07:24:41.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> z
+[29Dec2024 07:24:42.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> zz
+[29Dec2024 07:24:43.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 was slain by Nightmare Stalker
+[29Dec2024 07:24:43.616] [Server thread/INFO] [tombstone/]: The player Kiri080 has successfully been saved
+[29Dec2024 07:24:47.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by Nightmare Stalker
+[29Dec2024 07:24:47.148] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[29Dec2024 07:25:03.432] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AdventurerEntity['marcouwu2005'/135914, l='ServerLevel[world]', x=-1968.40, y=83.75, z=4194.42] died: marcouwu2005 was slain by Kiri080
+[29Dec2024 07:25:03.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by Nightmare Stalker
+[29Dec2024 07:25:03.521] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[29Dec2024 07:25:10.082] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AdventurerEntity['marcouwu2005'/136078, l='ServerLevel[world]', x=-1960.95, y=83.28, z=4197.21] died: marcouwu2005 was slain by Kiri080
+[29Dec2024 07:25:12.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 was slain by Nightmare Stalker
+[29Dec2024 07:25:12.697] [Server thread/INFO] [tombstone/]: The player Kiri080 has successfully been saved
+[29Dec2024 07:25:38.730] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AdventurerEntity['Kiri080'/136167, l='ServerLevel[world]', x=-1950.04, y=82.19, z=4183.89] died: Kiri080 was slain by Kiri080
+[29Dec2024 07:26:19.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 was slain by Shielder Zombie
+[29Dec2024 07:26:19.557] [Server thread/INFO] [tombstone/]: The player Kiri080 has successfully been saved
+[29Dec2024 07:26:25.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by Adventurer Zombie
+[29Dec2024 07:26:25.445] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[29Dec2024 07:26:41.579] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AdventurerEntity['marcouwu2005'/136805, l='ServerLevel[world]', x=-1979.18, y=83.00, z=4193.62] died: marcouwu2005 was roasted by marcouwu2005's dragon breath
+[29Dec2024 07:26:42.230] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AdventurerEntity['Kiri080'/136715, l='ServerLevel[world]', x=-1987.51, y=84.20, z=4187.17] died: Kiri080 was slain by Kiri080
+[29Dec2024 07:26:42.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has reached the goal [Exorcism]
+[29Dec2024 07:27:43.433] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 lost connection: Disconnected
+[29Dec2024 07:27:43.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 left the game
+[29Dec2024 07:29:40.341] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: marcouwu2005[/127.184.139.169:32955] logged in with entity id 137975 at (-1973.5445305692772, 115.89762670023306, 4167.489180018325)
+[29Dec2024 07:29:40.342] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to marcouwu2005
+[29Dec2024 07:29:40.342] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to marcouwu2005
+[29Dec2024 07:29:40.342] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to marcouwu2005
+[29Dec2024 07:29:40.342] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to marcouwu2005
+[29Dec2024 07:29:40.345] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to marcouwu2005
+[29Dec2024 07:29:40.348] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to marcouwu2005
+[29Dec2024 07:29:40.348] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to marcouwu2005
+[29Dec2024 07:29:40.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 joined the game
+[29Dec2024 07:29:40.516] [Server thread/INFO] [Jade/]: Syncing config to marcouwu2005 (58a07aa3-0e93-362a-8cc4-6d8a2dfdca58)
+[29Dec2024 07:29:47.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by Flusk Zombie
+[29Dec2024 07:29:47.521] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[29Dec2024 07:29:50.129] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AdventurerEntity['marcouwu2005'/137998, l='ServerLevel[world]', x=-1973.84, y=84.00, z=4166.23] died: marcouwu2005 fell from a high place
+[29Dec2024 07:31:12.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [First Prayer]
+[29Dec2024 07:32:34.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [Black or White]
