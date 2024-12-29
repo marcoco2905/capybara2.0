@@ -1023,3 +1023,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29Dec2024 01:01:32.915] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
 [29Dec2024 01:14:00.341] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 golden_horse_armor
 [29Dec2024 01:17:17.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 has reached the goal [The long arm of the law]
+[29Dec2024 01:18:15.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 has completed the challenge [Oh, The Misery]
+[29Dec2024 01:18:15.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 has completed the challenge [Steeped in Strength]
