@@ -4730,3 +4730,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29Dec2024 08:06:30.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by Adventurer Zombie
 [29Dec2024 08:06:30.745] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
 [29Dec2024 08:06:34.881] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AdventurerEntity['marcouwu2005'/150275, l='ServerLevel[world]', x=-1954.28, y=84.17, z=4186.60] died: marcouwu2005 was slain by Remnant
+[29Dec2024 08:23:17.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 was doomed to fall by Flusk Zombie
+[29Dec2024 08:23:17.852] [Server thread/INFO] [tombstone/]: The player Kiri080 has successfully been saved
+[29Dec2024 08:23:31.931] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AdventurerEntity['Kiri080'/156198, l='ServerLevel[world]', x=-1959.92, y=84.00, z=4195.17] died: Kiri080 was roasted by marcouwu2005's dragon breath

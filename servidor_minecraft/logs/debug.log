@@ -16716,3 +16716,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29Dec2024 08:08:06.283] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [29Dec2024 08:13:06.251] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [29Dec2024 08:13:06.283] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Dec2024 08:18:06.279] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Dec2024 08:18:06.319] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Dec2024 08:23:06.331] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Dec2024 08:23:06.379] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Dec2024 08:23:17.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 was doomed to fall by Flusk Zombie
+[29Dec2024 08:23:17.839] [Server thread/DEBUG] [tombstone/]: A new grave of the player Kiri080 was created at position [x:-1977, y:82, z:4173, dim:minecraft:overworld]
+[29Dec2024 08:23:17.852] [Server thread/INFO] [tombstone/]: The player Kiri080 has successfully been saved
+[29Dec2024 08:23:31.931] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AdventurerEntity['Kiri080'/156198, l='ServerLevel[world]', x=-1959.92, y=84.00, z=4195.17] died: Kiri080 was roasted by marcouwu2005's dragon breath

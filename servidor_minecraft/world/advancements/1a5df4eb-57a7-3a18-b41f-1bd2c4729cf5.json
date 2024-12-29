@@ -6055,9 +6055,10 @@
   },
   "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
     "criteria": {
-      "has_pink_tulip": "2024-12-20 07:28:59 +0000"
+      "has_pink_tulip": "2024-12-20 07:28:59 +0000",
+      "has_the_recipe": "2024-12-29 08:13:56 +0000"
     },
-    "done": false
+    "done": true
   },
   "born_in_chaos_v1:horror_underthe_mantle": {
     "criteria": {
@@ -7820,9 +7821,10 @@
   },
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
-      "has_iron_block": "2024-12-26 04:36:07 +0000"
+      "has_iron_block": "2024-12-26 04:36:07 +0000",
+      "has_the_recipe": "2024-12-29 08:16:15 +0000"
     },
-    "done": false
+    "done": true
   },
   "l2complements:recipes/misc/vanilla/upgrade/iron_sword": {
     "criteria": {

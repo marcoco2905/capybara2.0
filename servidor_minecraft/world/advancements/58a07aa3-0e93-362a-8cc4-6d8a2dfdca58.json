@@ -8730,9 +8730,10 @@
   },
   "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_2": {
     "criteria": {
-      "has_upgrade_base": "2024-12-26 05:58:03 +0000"
+      "has_upgrade_base": "2024-12-26 05:58:03 +0000",
+      "has_the_recipe": "2024-12-29 08:16:33 +0000"
     },
-    "done": false
+    "done": true
   },
   "ironchest:recipes/decorations/chests/diamond_obsidian_chest": {
     "criteria": {
@@ -11372,6 +11373,12 @@
       "scroll_forge": "2024-12-29 07:57:03 +0000"
     },
     "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_3": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-29 08:16:34 +0000"
+    },
+    "done": false
   },
   "graveyard:graveyard/kill_graveyard_mob": {
     "criteria": {
