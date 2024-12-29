@@ -4404,3 +4404,67 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29Dec2024 06:11:52.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 has made the advancement [Fluffy!]
 [29Dec2024 06:11:57.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 has made the advancement [Truth in Legend]
 [29Dec2024 06:12:07.367] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[29Dec2024 06:12:28.434] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6071ms or 121 ticks behind
+[29Dec2024 06:12:49.559] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6146ms or 122 ticks behind
+[29Dec2024 06:13:37.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [People Are Strange]
+[29Dec2024 06:13:37.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 has made the advancement [People Are Strange]
+[29Dec2024 06:13:52.029] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[29Dec2024 06:14:03.791] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[29Dec2024 06:14:05.349] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiri080 moved wrongly!
+[29Dec2024 06:14:10.714] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[29Dec2024 06:14:33.562] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[29Dec2024 06:14:54.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was doomed to fall by Dark Sorcerer
+[29Dec2024 06:14:54.503] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[29Dec2024 06:16:31.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by Dark Sorcerer
+[29Dec2024 06:16:31.860] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[29Dec2024 06:17:09.868] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiri080 moved wrongly!
+[29Dec2024 06:20:32.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 has made the advancement [Can Someone Ventilate]
+[29Dec2024 06:22:21.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by Returning Knight
+[29Dec2024 06:22:21.109] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[29Dec2024 06:24:20.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 has reached the goal [Spectral Guardian]
+[29Dec2024 06:25:34.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [Mutual Aid]
+[29Dec2024 06:25:34.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has reached the goal [The long arm of the law]
+[29Dec2024 06:26:10.249] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[29Dec2024 06:27:01.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 has reached the goal [Quaint Scribe]
+[29Dec2024 06:28:05.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 has reached the goal [Postmortal]
+[29Dec2024 06:28:05.293] [Server thread/INFO] [tombstone/]: The player Kiri080 has successfully been saved
+[29Dec2024 06:28:27.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 was obliterated by Returning Knight
+[29Dec2024 06:28:27.401] [Server thread/INFO] [tombstone/]: The player Kiri080 has successfully been saved
+[29Dec2024 06:29:33.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 was obliterated by Returning Knight
+[29Dec2024 06:29:33.203] [Server thread/INFO] [tombstone/]: The player Kiri080 has successfully been saved
+[29Dec2024 06:29:46.498] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[29Dec2024 06:30:00.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by Returning Knight
+[29Dec2024 06:30:00.518] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[29Dec2024 06:30:07.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 was slain by Returning Knight
+[29Dec2024 06:30:07.222] [Server thread/INFO] [tombstone/]: The player Kiri080 has successfully been saved
+[29Dec2024 06:30:42.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by Dark Sorcerer
+[29Dec2024 06:30:43.042] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[29Dec2024 06:30:45.279] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[29Dec2024 06:30:57.742] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiri080 lost connection: Disconnected
+[29Dec2024 06:30:57.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 left the game
+[29Dec2024 06:31:00.057] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 lost connection: Disconnected
+[29Dec2024 06:31:00.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 left the game
+[29Dec2024 06:32:21.645] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kiri080[/127.184.139.169:43139] logged in with entity id 100372 at (-828.1854622515468, 176.0, 1109.850271417027)
+[29Dec2024 06:32:21.646] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Kiri080
+[29Dec2024 06:32:21.646] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Kiri080
+[29Dec2024 06:32:21.647] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Kiri080
+[29Dec2024 06:32:21.647] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Kiri080
+[29Dec2024 06:32:21.650] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Kiri080
+[29Dec2024 06:32:21.653] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Kiri080
+[29Dec2024 06:32:21.653] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Kiri080
+[29Dec2024 06:32:21.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 joined the game
+[29Dec2024 06:32:21.729] [Server thread/INFO] [Jade/]: Syncing config to Kiri080 (1a5df4eb-57a7-3a18-b41f-1bd2c4729cf5)
+[29Dec2024 06:32:23.734] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2072ms or 41 ticks behind
+[29Dec2024 06:32:36.147] [Server thread/INFO] [tombstone/]: The player Kiri080 has successfully been saved
+[29Dec2024 06:32:36.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 was slain by Remnant
+[29Dec2024 06:32:36.793] [Server thread/INFO] [tombstone/]: The player Kiri080 has successfully been saved
+[29Dec2024 06:32:49.593] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: marcouwu2005[/127.184.139.169:55371] logged in with entity id 101130 at (-826.3014084339147, 180.50054822637517, 1101.3504052003655)
+[29Dec2024 06:32:49.595] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to marcouwu2005
+[29Dec2024 06:32:49.595] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to marcouwu2005
+[29Dec2024 06:32:49.595] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to marcouwu2005
+[29Dec2024 06:32:49.596] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to marcouwu2005
+[29Dec2024 06:32:49.603] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to marcouwu2005
+[29Dec2024 06:32:49.605] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to marcouwu2005
+[29Dec2024 06:32:49.605] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to marcouwu2005
+[29Dec2024 06:32:49.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 joined the game
+[29Dec2024 06:32:49.651] [Server thread/INFO] [Jade/]: Syncing config to marcouwu2005 (58a07aa3-0e93-362a-8cc4-6d8a2dfdca58)
