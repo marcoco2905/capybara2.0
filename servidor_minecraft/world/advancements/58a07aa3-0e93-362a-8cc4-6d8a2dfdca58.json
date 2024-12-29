@@ -5560,6 +5560,7 @@
       "has_golden_boots": "2024-12-27 17:54:53 +0000",
       "has_golden_hoe": "2024-12-23 08:35:41 +0000",
       "has_golden_horse_armor": "2024-12-28 08:15:18 +0000",
+      "has_the_recipe": "2024-12-29 07:18:49 +0000",
       "has_golden_chestplate": "2024-12-23 17:40:56 +0000"
     },
     "done": false
@@ -11011,6 +11012,12 @@
     },
     "done": false
   },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-12-29 07:21:18 +0000"
+    },
+    "done": true
+  },
   "l2weaponry:recipes/combat/generated/upgrade/netherite_throwing_axe": {
     "criteria": {
       "has_netherite_ingot": "2024-12-29 07:12:18 +0000"
@@ -11028,6 +11035,12 @@
       "has_netherite_ingot": "2024-12-29 07:12:18 +0000"
     },
     "done": false
+  },
+  "tombstone:recipes/from_decorative_grave": {
+    "criteria": {
+      "has_ingredient": "2024-12-29 07:21:04 +0000"
+    },
+    "done": true
   },
   "soulsweapons:recipes/combat/darkin_blade": {
     "criteria": {
@@ -11166,6 +11179,12 @@
       "has_lord_soul": "2024-12-29 06:35:36 +0000"
     },
     "done": false
+  },
+  "tombstone:adventure/create_decorative_grave": {
+    "criteria": {
+      "has_decorative_grave": "2024-12-29 07:21:04 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/combat/netherite_boots_smithing": {
     "criteria": {

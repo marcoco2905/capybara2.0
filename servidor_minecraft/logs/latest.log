@@ -4660,3 +4660,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29Dec2024 07:08:19.493] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of Kiri080) moved wrongly! 0.3837543968738828
 [29Dec2024 07:08:19.541] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of Kiri080) moved wrongly! 0.46825644134150934
 [29Dec2024 07:08:20.333] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiri080 moved wrongly!
+[29Dec2024 07:21:04.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has reached the goal [A Small Cemetery]
+[29Dec2024 07:21:18.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [Knowledge raises the soul]
