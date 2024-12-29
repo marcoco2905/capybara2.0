@@ -4713,3 +4713,17 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29Dec2024 07:50:21.429] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Ilia'/129547, l='ServerLevel[world]', x=-2059.53, y=62.70, z=4225.06] died: Ilia was slain by Adventurer Zombie
 [29Dec2024 07:51:05.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 has made the advancement [Double Trouble]
 [29Dec2024 07:52:15.065] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[29Dec2024 07:57:03.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has reached the goal [New Age Librarian]
+[29Dec2024 08:01:11.429] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiri080 lost connection: Disconnected
+[29Dec2024 08:01:11.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 left the game
+[29Dec2024 08:03:20.565] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kiri080[/127.184.139.169:44283] logged in with entity id 149240 at (-1966.9201489373465, 84.875, 4181.827252611095)
+[29Dec2024 08:03:20.566] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Kiri080
+[29Dec2024 08:03:20.567] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Kiri080
+[29Dec2024 08:03:20.567] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Kiri080
+[29Dec2024 08:03:20.567] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Kiri080
+[29Dec2024 08:03:20.570] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Kiri080
+[29Dec2024 08:03:20.572] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Kiri080
+[29Dec2024 08:03:20.572] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Kiri080
+[29Dec2024 08:03:20.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 joined the game
+[29Dec2024 08:03:20.716] [Server thread/INFO] [Jade/]: Syncing config to Kiri080 (1a5df4eb-57a7-3a18-b41f-1bd2c4729cf5)
+[29Dec2024 08:04:43.367] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
