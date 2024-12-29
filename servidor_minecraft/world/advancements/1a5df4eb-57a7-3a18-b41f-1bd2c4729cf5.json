@@ -1755,6 +1755,7 @@
       "apple": "2024-12-19 04:57:51 +0000",
       "spider_eye": "2024-12-19 06:31:00 +0000",
       "cooked_cod": "2024-12-19 04:44:48 +0000",
+      "pumpkin_pie": "2024-12-29 07:37:04 +0000",
       "bread": "2024-12-19 05:12:49 +0000",
       "golden_apple": "2024-12-26 06:29:50 +0000",
       "rotten_flesh": "2024-12-20 05:31:36 +0000",
@@ -4913,9 +4914,10 @@
   },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
-      "has_gunpowder": "2024-12-19 06:42:34 +0000"
+      "has_gunpowder": "2024-12-19 06:42:34 +0000",
+      "has_the_recipe": "2024-12-29 07:33:12 +0000"
     },
-    "done": false
+    "done": true
   },
   "divinerpg:recipes/shaped/creeper_pumpkin": {
     "criteria": {

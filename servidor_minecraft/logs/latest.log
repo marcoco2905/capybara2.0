@@ -4707,3 +4707,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [29Dec2024 07:29:50.129] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AdventurerEntity['marcouwu2005'/137998, l='ServerLevel[world]', x=-1973.84, y=84.00, z=4166.23] died: marcouwu2005 fell from a high place
 [29Dec2024 07:31:12.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [First Prayer]
 [29Dec2024 07:32:34.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [Black or White]
+[29Dec2024 07:34:53.435] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiri080 moved wrongly!
+[29Dec2024 07:44:54.116] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
