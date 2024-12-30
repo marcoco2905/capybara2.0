@@ -5639,9 +5639,10 @@
   },
   "soulsweapons:recipes/decorations/soul_lantern_lost_soul": {
     "criteria": {
-      "has_item": "2024-12-20 20:17:49 +0000"
+      "has_item": "2024-12-20 20:17:49 +0000",
+      "has_the_recipe": "2024-12-30 07:08:03 +0000"
     },
-    "done": false
+    "done": true
   },
   "soulsweapons:recipes/combat/silver_bullet_iron_ingot": {
     "criteria": {
@@ -7680,9 +7681,10 @@
   },
   "sophisticatedbackpacks:recipes/misc/inception_upgrade": {
     "criteria": {
-      "has_upgrade_base": "2024-12-23 09:06:20 +0000"
+      "has_upgrade_base": "2024-12-23 09:06:20 +0000",
+      "has_the_recipe": "2024-12-30 07:04:40 +0000"
     },
-    "done": false
+    "done": true
   },
   "sophisticatedbackpacks:recipes/misc/chipped/loom_table_upgrade": {
     "criteria": {
@@ -11763,15 +11765,79 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-30 07:14:57 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_ender_eye": "2024-12-30 07:02:22 +0000"
     },
     "done": false
   },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "direct": "2024-12-30 07:15:18 +0000",
+      "!bit13": "2024-12-30 07:15:18 +0000",
+      "!bit14": "2024-12-30 07:15:18 +0000",
+      "!bit11": "2024-12-30 07:15:18 +0000",
+      "!bit12": "2024-12-30 07:15:18 +0000",
+      "not_target": "2024-12-30 07:15:18 +0000",
+      "!bit10": "2024-12-30 07:15:18 +0000",
+      "!bit9": "2024-12-30 07:15:18 +0000",
+      "!bit8": "2024-12-30 07:15:18 +0000",
+      "!bit7": "2024-12-30 07:15:18 +0000",
+      "!bit6": "2024-12-30 07:15:18 +0000",
+      "!bit5": "2024-12-30 07:15:18 +0000",
+      "!bit4": "2024-12-30 07:15:18 +0000",
+      "!bit3": "2024-12-30 07:15:18 +0000",
+      "!bit2": "2024-12-30 07:15:18 +0000",
+      "!bit1": "2024-12-30 07:15:18 +0000",
+      "!bit0": "2024-12-30 07:15:18 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-30 07:14:57 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-30 07:14:57 +0000"
+    },
+    "done": false
+  },
   "knightquest:recipes/misc/dragon_leggings": {
     "criteria": {
       "has_ender_eye": "2024-12-30 07:02:22 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-30 07:14:57 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-30 07:14:57 +0000"
+    },
+    "done": false
+  },
+  "irons_spellbooks:irons_spellbooks/enter_catacombs": {
+    "criteria": {
+      "in_catacombs": "2024-12-30 07:11:39 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-30 07:14:57 +0000"
     },
     "done": false
   },
@@ -11787,11 +11853,36 @@
     },
     "done": false
   },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-30 07:14:57 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-30 07:14:57 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-30 07:14:57 +0000"
+    },
+    "done": false
+  },
   "divinerpg:recipes/shaped/ender_lamp": {
     "criteria": {
       "has_eye": "2024-12-30 07:02:22 +0000"
     },
     "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2024-12-30 07:15:18 +0000",
+      "log_spam_fixer": "2024-12-30 07:14:57 +0000"
+    },
+    "done": true
   },
   "l2complements:recipes/enchantments/enchantments/ender_mask": {
     "criteria": {
@@ -11805,6 +11896,12 @@
     },
     "done": false
   },
+  "irons_spellbooks:irons_spellbooks/make_wayward_compass": {
+    "criteria": {
+      "inscription_table": "2024-12-30 07:08:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_the_recipe": "2024-12-30 07:02:21 +0000"
@@ -11817,9 +11914,21 @@
     },
     "done": false
   },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-30 07:14:57 +0000"
+    },
+    "done": false
+  },
   "divinerpg:recipes/shaped/horde_horn": {
     "criteria": {
       "has_ender_eye": "2024-12-30 07:02:22 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-30 07:14:57 +0000"
     },
     "done": false
   },
