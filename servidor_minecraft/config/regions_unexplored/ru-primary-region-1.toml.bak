@@ -1,4 +1,15 @@
------------------SHATTERED_BIOMES-------------------- = {}
+-----------------PEAK_BIOMES-------------------- = {}
+
+[-----------------SHORE_BIOMES--------------------]
+	#beach_biomes
+	icy_beach_biome = "minecraft:snowy_beach"
+	cold_beach_biome = "regions_unexplored:gravel_beach"
+	neutral_beach_biome = "regions_unexplored:grassy_beach"
+	warm_beach_biome = "regions_unexplored:grassy_beach"
+	hot_beach_biome = "minecraft:beach"
+	#stone_beach_biomes
+	cold_stone_beach_biome = "minecraft:stony_shore"
+	hot_stone_beach_biome = "regions_unexplored:chalk_cliffs"
 
 #Config for Regions Unexplored primary region!
 #NOTICE: Make sure 'enable_custom_regions' is enabled in Common configs or this config will have no effect on generation!
@@ -131,7 +142,7 @@
 	hot_wet = "regions_unexplored:eucalyptus_forest"
 	hot_humid = "regions_unexplored:eucalyptus_forest"
 
--------------SHATTERED_BIOMES--------------------]
+[-----------------SHATTERED_BIOMES--------------------]
 	#icy_biomes
 	icy_arid = "regions_unexplored:icy_heights"
 	icy_dry = "regions_unexplored:icy_heights"

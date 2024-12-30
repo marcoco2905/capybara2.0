@@ -1,0 +1,32 @@
+#When Ars Nouveau is present, use apparatus recipe for enchantments
+useArsNouveauForEnchantmentRecipe = true
+#Allow vanilla items such as elytra and ancient debris to be crafted with L2Complements materials
+enableVanillaItemRecipe = true
+#Allow tools to be upgraded from tools with same typ but different materials
+enableToolRecraftRecipe = true
+#Allow spawn eggs to be crafted with L2Complements materials
+enableSpawnEggRecipe = true
+"fire charge" = {}
+
+[materials]
+	#Requirement for obtaining Captured Wind. Unit: Block per Tick
+	#Range: 0.1 ~ 100.0
+	windSpeed = 10.0
+	#Requirement for void eye drop
+	#Range: 0 ~ 128
+	belowVoid = 16
+	#Requirement for sun membrane drop
+	#Range: 0 ~ 10000
+	phantomHeight = 200
+	#Requirement for explosion shard drop
+	#Range: 1 ~ 10000
+	explosionDamage = 80
+	#Requirement for space shard drop
+	#Range: 1 ~ 1000000
+	spaceDamage = 16384
+	#Allow mods to ban space shard
+	allowModBanSpaceShard = true
+	#Enable immunity enchantments
+	#Be sure to inform players when you turn this off
+	enableImmunityEnchantments = true
+

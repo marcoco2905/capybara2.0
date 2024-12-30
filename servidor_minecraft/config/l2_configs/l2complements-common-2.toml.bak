@@ -1,0 +1,4 @@
+#When Ars Nouveau is present, use apparatus recipe for enchantments
+useArsNouveauForEnchantmentRecipe = true
+enableVanillaItemRecipe = true
+
