@@ -3213,6 +3213,7 @@
       "has_iron_sword": "2024-12-19 05:47:51 +0000",
       "has_chainmail_leggings": "2024-12-23 08:24:26 +0000",
       "has_chainmail_chestplate": "2024-12-21 01:24:46 +0000",
+      "has_chainmail_boots": "2024-12-30 05:25:24 +0000",
       "has_iron_chestplate": "2024-12-19 05:48:02 +0000"
     },
     "done": false
@@ -3230,6 +3231,7 @@
       "has_iron_sword": "2024-12-19 05:47:51 +0000",
       "has_chainmail_leggings": "2024-12-23 08:24:26 +0000",
       "has_chainmail_chestplate": "2024-12-21 01:24:46 +0000",
+      "has_chainmail_boots": "2024-12-30 05:25:24 +0000",
       "has_iron_chestplate": "2024-12-19 05:48:02 +0000"
     },
     "done": false
@@ -10906,6 +10908,78 @@
       "underground_cabin": "2024-12-30 04:57:20 +0000"
     },
     "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-30 05:32:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-30 05:32:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-30 05:32:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-30 05:32:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-30 05:32:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-30 05:32:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-30 05:32:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-30 05:32:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-30 05:32:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-30 05:32:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-30 05:32:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-30 05:32:14 +0000"
+    },
+    "done": false
   },
   "alexscaves:alexscaves/cave_book": {
     "criteria": {
