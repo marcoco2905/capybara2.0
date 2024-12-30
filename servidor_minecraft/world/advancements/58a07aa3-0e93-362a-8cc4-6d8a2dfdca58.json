@@ -7239,6 +7239,7 @@
   },
   "knightquest:recipes/misc/hollow_leggings": {
     "criteria": {
+      "has_enchanted_golden_apple": "2024-12-30 07:47:43 +0000",
       "has_magma_cream": "2024-12-28 08:15:15 +0000",
       "has_red_mushroom": "2024-12-23 08:20:24 +0000"
     },
@@ -7246,6 +7247,7 @@
   },
   "knightquest:recipes/misc/hollow_chestplate": {
     "criteria": {
+      "has_enchanted_golden_apple": "2024-12-30 07:47:43 +0000",
       "has_magma_cream": "2024-12-28 08:15:15 +0000",
       "has_red_mushroom": "2024-12-23 08:20:24 +0000"
     },
@@ -7253,6 +7255,7 @@
   },
   "knightquest:recipes/misc/hollow_boots": {
     "criteria": {
+      "has_enchanted_golden_apple": "2024-12-30 07:47:43 +0000",
       "has_magma_cream": "2024-12-28 08:15:15 +0000",
       "has_red_mushroom": "2024-12-23 08:20:24 +0000"
     },
@@ -7272,6 +7275,7 @@
   },
   "knightquest:recipes/misc/hollow_helmet": {
     "criteria": {
+      "has_enchanted_golden_apple": "2024-12-30 07:47:43 +0000",
       "has_magma_cream": "2024-12-28 08:15:15 +0000",
       "has_red_mushroom": "2024-12-23 08:20:24 +0000"
     },
@@ -8136,12 +8140,14 @@
   },
   "knightquest:recipes/misc/veteran_boots": {
     "criteria": {
+      "has_enchanted_golden_apple": "2024-12-30 07:47:43 +0000",
       "has_iron_horse_armor": "2024-12-24 18:00:59 +0000"
     },
     "done": false
   },
   "knightquest:recipes/misc/veteran_helmet": {
     "criteria": {
+      "has_enchanted_golden_apple": "2024-12-30 07:47:43 +0000",
       "has_iron_horse_armor": "2024-12-24 18:00:59 +0000"
     },
     "done": false
@@ -8154,6 +8160,7 @@
   },
   "knightquest:recipes/misc/veteran_leggings": {
     "criteria": {
+      "has_enchanted_golden_apple": "2024-12-30 07:47:43 +0000",
       "has_iron_horse_armor": "2024-12-24 18:00:59 +0000"
     },
     "done": false
@@ -8172,6 +8179,7 @@
   },
   "knightquest:recipes/misc/veteran_chestplate": {
     "criteria": {
+      "has_enchanted_golden_apple": "2024-12-30 07:47:43 +0000",
       "has_iron_horse_armor": "2024-12-24 18:00:59 +0000"
     },
     "done": false
@@ -11847,73 +11855,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 07:44:02 +0000"
+      "log_spam_fixer": "2024-12-30 07:49:02 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 07:44:02 +0000"
+      "log_spam_fixer": "2024-12-30 07:49:02 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 07:44:02 +0000"
+      "log_spam_fixer": "2024-12-30 07:49:02 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 07:44:02 +0000"
+      "log_spam_fixer": "2024-12-30 07:49:02 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 07:44:02 +0000"
+      "log_spam_fixer": "2024-12-30 07:49:02 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 07:44:02 +0000"
+      "log_spam_fixer": "2024-12-30 07:49:02 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 07:44:02 +0000"
+      "log_spam_fixer": "2024-12-30 07:49:02 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 07:44:02 +0000"
+      "log_spam_fixer": "2024-12-30 07:49:02 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 07:44:02 +0000"
+      "log_spam_fixer": "2024-12-30 07:49:02 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 07:44:02 +0000"
+      "log_spam_fixer": "2024-12-30 07:49:02 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 07:44:02 +0000"
+      "log_spam_fixer": "2024-12-30 07:49:02 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-30 07:44:02 +0000"
+      "log_spam_fixer": "2024-12-30 07:49:02 +0000"
     },
     "done": false
   },
@@ -11926,6 +11934,12 @@
   "farmersdelight:recipes/decorations/oak_cabinet": {
     "criteria": {
       "has_oak_trapdoor": "2024-12-30 07:20:57 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2024-12-30 07:47:43 +0000"
     },
     "done": false
   },
