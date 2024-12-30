@@ -5756,9 +5756,10 @@
   },
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
-      "has_iron_block": "2024-12-20 20:17:50 +0000"
+      "has_iron_block": "2024-12-20 20:17:50 +0000",
+      "has_the_recipe": "2024-12-30 06:06:34 +0000"
     },
-    "done": false
+    "done": true
   },
   "l2weaponry:recipes/combat/generated/upgrade/iron_plate_shield": {
     "criteria": {
@@ -11494,6 +11495,12 @@
     },
     "done": true
   },
+  "l2weaponry:recipes/enchantments/enchantments/heavy_shield": {
+    "criteria": {
+      "has_anvil": "2024-12-30 06:06:34 +0000"
+    },
+    "done": false
+  },
   "cataclysm:find_sunken_city": {
     "criteria": {
       "factory": "2024-12-30 05:26:53 +0000"
@@ -11521,6 +11528,12 @@
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2024-12-30 05:14:28 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_arcane_anvil": {
+    "criteria": {
+      "arcane_anvil": "2024-12-30 06:07:14 +0000"
     },
     "done": true
   },
@@ -11575,6 +11588,12 @@
   "soulsweapons:recipes/combat/withered_wabbajack": {
     "criteria": {
       "has_item": "2024-12-30 05:14:28 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/enchantments/enchantments/heavy": {
+    "criteria": {
+      "has_anvil": "2024-12-30 06:06:34 +0000"
     },
     "done": false
   },
