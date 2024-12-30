@@ -4270,9 +4270,10 @@
   },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
-      "has_cobbled_deepslate": "2024-12-19 06:19:59 +0000"
+      "has_cobbled_deepslate": "2024-12-19 06:19:59 +0000",
+      "has_the_recipe": "2024-12-30 08:23:33 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
