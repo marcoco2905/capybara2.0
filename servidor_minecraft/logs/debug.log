@@ -8746,3 +8746,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [30Dec2024 07:51:07.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by Skeleton
 [30Dec2024 07:51:07.706] [Server thread/DEBUG] [tombstone/]: A new grave of the player marcouwu2005 was created at position [x:-1984, y:4, z:3485, dim:minecraft:overworld]
 [30Dec2024 07:51:07.730] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[30Dec2024 07:54:03.349] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 07:54:03.398] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
