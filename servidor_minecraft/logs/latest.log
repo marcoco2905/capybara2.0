@@ -4683,3 +4683,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [30Dec2024 05:53:06.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 was slain by Huntsman
 [30Dec2024 05:53:06.145] [Server thread/INFO] [tombstone/]: The player Kiri080 has successfully been saved
 [30Dec2024 05:53:36.360] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind
+[30Dec2024 05:54:35.452] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[30Dec2024 05:54:52.390] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5432ms or 108 ticks behind
+[30Dec2024 05:55:00.588] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[30Dec2024 05:55:00.589] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[30Dec2024 05:57:50.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 has completed the challenge [Harrowing Hunger]
+[30Dec2024 05:58:02.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 has completed the challenge [Fatal Fast]
+[30Dec2024 05:58:56.793] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiri080 moved wrongly!
+[30Dec2024 05:59:25.240] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=465, y=-57, z=343}
+[30Dec2024 06:00:54.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 has reached the goal [Dark Creator]

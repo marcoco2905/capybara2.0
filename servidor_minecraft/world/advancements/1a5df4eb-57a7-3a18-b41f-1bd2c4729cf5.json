@@ -10935,5 +10935,30 @@
     },
     "done": false
   },
+  "born_in_chaos_v1:charm_collector": {
+    "criteria": {
+      "charm_collector_4": "2024-12-30 06:00:59 +0000",
+      "charm_collector_2": "2024-12-30 06:00:59 +0000"
+    },
+    "done": false
+  },
+  "born_in_chaos_v1:dark_creator": {
+    "criteria": {
+      "dark_creator_0": "2024-12-30 06:00:54 +0000"
+    },
+    "done": true
+  },
+  "cnc:wendigo_killed": {
+    "criteria": {
+      "wendigo_killed_0": "2024-12-30 05:58:02 +0000"
+    },
+    "done": true
+  },
+  "cnc:wendigoadvancement": {
+    "criteria": {
+      "wendigoadvancement_0": "2024-12-30 05:57:50 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
