@@ -10898,5 +10898,17 @@
     },
     "done": false
   },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2024-12-30 04:57:20 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2024-12-30 04:59:06 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
