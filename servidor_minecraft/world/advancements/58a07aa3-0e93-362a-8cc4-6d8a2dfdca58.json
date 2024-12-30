@@ -2966,6 +2966,7 @@
   },
   "supplementaries:recipes/candle_holders/candle_holder_black": {
     "criteria": {
+      "has_black_candle": "2024-12-30 07:37:18 +0000",
       "has_iron_ingot": "2024-12-19 05:37:36 +0000"
     },
     "done": false
@@ -9233,6 +9234,7 @@
   },
   "knightquest:recipes/misc/pirate3_helmet": {
     "criteria": {
+      "has_black_candle": "2024-12-30 07:37:18 +0000",
       "has_map": "2024-12-26 08:06:53 +0000",
       "has_glistering_melon_slice": "2024-12-29 06:57:08 +0000"
     },
@@ -11843,6 +11845,78 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-30 07:39:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-30 07:39:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-30 07:39:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-30 07:39:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-30 07:39:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-30 07:39:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-30 07:39:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-30 07:39:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-30 07:39:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-30 07:39:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-30 07:39:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-30 07:39:02 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:recipes/decorations/spruce_cabinet": {
     "criteria": {
       "has_spruce_trapdoor": "2024-12-30 07:20:58 +0000"
@@ -11852,6 +11926,12 @@
   "farmersdelight:recipes/decorations/oak_cabinet": {
     "criteria": {
       "has_oak_trapdoor": "2024-12-30 07:20:57 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/burnt/burnt/soul_soil": {
+    "criteria": {
+      "has_soul_soil": "2024-12-30 07:37:19 +0000"
     },
     "done": false
   },
