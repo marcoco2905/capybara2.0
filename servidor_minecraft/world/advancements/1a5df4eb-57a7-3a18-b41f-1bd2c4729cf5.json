@@ -2832,6 +2832,7 @@
   "knightquest:recipes/misc/wither_leggings": {
     "criteria": {
       "has_bone": "2024-12-19 04:29:32 +0000",
+      "has_wither_rose": "2024-12-30 06:34:22 +0000",
       "has_wither_skeleton_skull": "2024-12-28 07:12:20 +0000"
     },
     "done": false
@@ -2847,6 +2848,7 @@
   "knightquest:recipes/misc/wither_chestplate": {
     "criteria": {
       "has_bone": "2024-12-19 04:29:32 +0000",
+      "has_wither_rose": "2024-12-30 06:34:22 +0000",
       "has_wither_skeleton_skull": "2024-12-28 07:12:20 +0000"
     },
     "done": false
@@ -2901,6 +2903,7 @@
   "knightquest:recipes/misc/wither_helmet": {
     "criteria": {
       "has_bone": "2024-12-19 04:29:32 +0000",
+      "has_wither_rose": "2024-12-30 06:34:22 +0000",
       "has_wither_skeleton_skull": "2024-12-28 07:12:20 +0000"
     },
     "done": false
@@ -2908,6 +2911,7 @@
   "knightquest:recipes/misc/wither_boots": {
     "criteria": {
       "has_bone": "2024-12-19 04:29:32 +0000",
+      "has_wither_rose": "2024-12-30 06:34:22 +0000",
       "has_wither_skeleton_skull": "2024-12-28 07:12:20 +0000"
     },
     "done": false
@@ -5120,6 +5124,7 @@
       "has_golden_axe": "2024-12-20 20:13:32 +0000",
       "has_golden_pickaxe": "2024-12-26 03:03:41 +0000",
       "has_golden_boots": "2024-12-26 06:14:13 +0000",
+      "has_golden_hoe": "2024-12-30 06:33:50 +0000",
       "has_golden_chestplate": "2024-12-20 06:20:12 +0000"
     },
     "done": false
@@ -5132,6 +5137,7 @@
       "has_golden_axe": "2024-12-20 20:13:32 +0000",
       "has_golden_pickaxe": "2024-12-26 03:03:41 +0000",
       "has_golden_boots": "2024-12-26 06:14:13 +0000",
+      "has_golden_hoe": "2024-12-30 06:33:50 +0000",
       "has_golden_chestplate": "2024-12-20 06:20:12 +0000"
     },
     "done": false
@@ -10966,6 +10972,108 @@
     },
     "done": false
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-30 06:50:58 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-30 06:50:58 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-30 06:50:58 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-30 06:50:58 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-30 06:50:58 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-30 06:50:58 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-30 06:50:58 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-30 06:50:58 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-30 06:50:58 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-30 06:50:58 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-30 06:50:58 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-30 06:50:58 +0000"
+    },
+    "done": false
+  },
+  "wither_rework:nether/obtain_nether_star": {
+    "criteria": {
+      "requirement": "2024-12-30 06:36:09 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/burnt/burnt/nether_star": {
+    "criteria": {
+      "has_nether_star": "2024-12-30 06:36:09 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2024-12-30 06:29:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2024-12-30 06:34:22 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2024-12-30 06:36:09 +0000"
+    },
+    "done": false
+  },
   "croptopia:recipes/crema": {
     "criteria": {
       "has_salt": "2024-12-30 06:24:07 +0000"
@@ -10983,6 +11091,36 @@
       "has_salts": "2024-12-30 06:24:07 +0000"
     },
     "done": false
+  },
+  "tombstone:adventure/use_unstable_intangibility": {
+    "criteria": {
+      "has_magic_scroll": "2024-12-30 06:28:02 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/staff_of_life": {
+    "criteria": {
+      "has_item": "2024-12-30 06:36:09 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/enchantments/enchantments/owner_protection": {
+    "criteria": {
+      "has_nether_star": "2024-12-30 06:36:09 +0000"
+    },
+    "done": false
+  },
+  "aquaculture:recipes/aquaculture/nether_star_hook": {
+    "criteria": {
+      "has_items": "2024-12-30 06:36:09 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/use_purification": {
+    "criteria": {
+      "has_magic_scroll": "2024-12-30 06:28:07 +0000"
+    },
+    "done": true
   },
   "croptopia:recipes/cheese": {
     "criteria": {

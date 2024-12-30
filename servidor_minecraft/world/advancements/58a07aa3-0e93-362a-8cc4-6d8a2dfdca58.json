@@ -11696,5 +11696,71 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:big_boy": {
+    "criteria": {
+      "big_boy_0": "2024-12-30 06:42:17 +0000"
+    },
+    "done": true
+  },
+  "wither_rework:nether/obtain_nether_star": {
+    "criteria": {
+      "requirement": "2024-12-30 06:36:04 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/burnt/burnt/nether_star": {
+    "criteria": {
+      "has_nether_star": "2024-12-30 06:36:04 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2024-12-30 06:29:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2024-12-30 06:36:03 +0000"
+    },
+    "done": false
+  },
+  "enemyexpansion:vampire_slayer": {
+    "criteria": {
+      "vampire_slayer_0": "2024-12-30 06:30:47 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:uncertainty": {
+    "criteria": {
+      "items": "2024-12-30 06:37:16 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/staff_of_life": {
+    "criteria": {
+      "has_item": "2024-12-30 06:36:03 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/enchantments/enchantments/owner_protection": {
+    "criteria": {
+      "has_nether_star": "2024-12-30 06:36:04 +0000"
+    },
+    "done": false
+  },
+  "aquaculture:recipes/aquaculture/nether_star_hook": {
+    "criteria": {
+      "has_items": "2024-12-30 06:36:04 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2024-12-30 06:40:54 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
