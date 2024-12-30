@@ -11696,9 +11696,27 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:big_boy": {
+  "minecraft:nether/summon_wither": {
     "criteria": {
-      "big_boy_0": "2024-12-30 06:42:17 +0000"
+      "summoned": "2024-12-30 06:29:35 +0000"
+    },
+    "done": true
+  },
+  "enemyexpansion:vampire_slayer": {
+    "criteria": {
+      "vampire_slayer_0": "2024-12-30 06:30:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2024-12-30 06:36:03 +0000"
+    },
+    "done": false
+  },
+  "mca:recipes/misc/staff_of_life": {
+    "criteria": {
+      "has_item": "2024-12-30 06:36:03 +0000"
     },
     "done": true
   },
@@ -11714,36 +11732,6 @@
     },
     "done": false
   },
-  "minecraft:nether/summon_wither": {
-    "criteria": {
-      "summoned": "2024-12-30 06:29:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/beacon": {
-    "criteria": {
-      "has_nether_star": "2024-12-30 06:36:03 +0000"
-    },
-    "done": false
-  },
-  "enemyexpansion:vampire_slayer": {
-    "criteria": {
-      "vampire_slayer_0": "2024-12-30 06:30:47 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:uncertainty": {
-    "criteria": {
-      "items": "2024-12-30 06:37:16 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/misc/staff_of_life": {
-    "criteria": {
-      "has_item": "2024-12-30 06:36:03 +0000"
-    },
-    "done": true
-  },
   "l2complements:recipes/enchantments/enchantments/owner_protection": {
     "criteria": {
       "has_nether_star": "2024-12-30 06:36:04 +0000"
@@ -11756,11 +11744,29 @@
     },
     "done": false
   },
+  "soulsweapons:uncertainty": {
+    "criteria": {
+      "items": "2024-12-30 06:37:16 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/eat_nourishing_food": {
     "criteria": {
       "nourishment": "2024-12-30 06:40:54 +0000"
     },
     "done": true
+  },
+  "born_in_chaos_v1:big_boy": {
+    "criteria": {
+      "big_boy_0": "2024-12-30 06:42:17 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2024-12-30 06:52:57 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
