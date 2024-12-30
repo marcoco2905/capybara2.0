@@ -1520,9 +1520,10 @@
   },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
+      "has_the_recipe": "2024-12-30 08:18:17 +0000",
       "has_planks": "2024-12-19 04:04:52 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
@@ -11854,9 +11855,45 @@
     },
     "done": true
   },
+  "galosphere:recipes/misc/silver_nugget": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-30 08:06:21 +0000"
+    },
+    "done": false
+  },
+  "galosphere:recipes/decorations/combustion_table": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-30 08:06:21 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:recipes/decorations/spruce_cabinet": {
     "criteria": {
       "has_spruce_trapdoor": "2024-12-30 07:20:58 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/sign_post_oak": {
+    "criteria": {
+      "has_oak_sign": "2024-12-30 08:18:18 +0000"
+    },
+    "done": false
+  },
+  "galosphere:adventure/silver_ingot": {
+    "criteria": {
+      "silver_ingot": "2024-12-30 08:06:21 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/redstone/silver_balance": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-30 08:06:21 +0000"
+    },
+    "done": false
+  },
+  "galosphere:recipes/decorations/silver_lattice": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-30 08:06:21 +0000"
     },
     "done": false
   },
@@ -11881,6 +11918,18 @@
   "l2complements:recipes/burnt/burnt/soul_soil": {
     "criteria": {
       "has_soul_soil": "2024-12-30 07:37:19 +0000"
+    },
+    "done": false
+  },
+  "galosphere:recipes/tools/spectre_flare": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-30 08:06:21 +0000"
+    },
+    "done": false
+  },
+  "galosphere:recipes/misc/silver_block": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-30 08:06:21 +0000"
     },
     "done": false
   },

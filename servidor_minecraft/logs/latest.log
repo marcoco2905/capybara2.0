@@ -1086,3 +1086,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [30Dec2024 07:51:07.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by Skeleton
 [30Dec2024 07:51:07.730] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
 [30Dec2024 08:06:21.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [Multi-Disciplined]
+[30Dec2024 08:11:00.009] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiri080 moved wrongly!
