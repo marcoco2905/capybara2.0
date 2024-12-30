@@ -2025,6 +2025,7 @@
       "tropical_river": "2024-12-26 07:53:55 +0000",
       "magnolia_highlands": "2024-12-28 06:16:58 +0000",
       "sparse_redwoods": "2024-12-28 07:08:27 +0000",
+      "joshua_desert": "2024-12-30 06:17:33 +0000",
       "deciduous_forest": "2024-12-27 04:37:45 +0000",
       "boreal_forest": "2024-12-19 04:52:35 +0000",
       "glistering_meadow": "2024-12-29 00:37:59 +0000",
@@ -2037,7 +2038,8 @@
       "old_growth_bayou": "2024-12-29 06:08:58 +0000",
       "grassland": "2024-12-27 04:30:49 +0000",
       "prairie": "2024-12-27 18:51:52 +0000",
-      "redwoods": "2024-12-26 07:45:54 +0000"
+      "redwoods": "2024-12-26 07:45:54 +0000",
+      "rainforest": "2024-12-30 06:17:31 +0000"
     },
     "done": false
   },
@@ -2054,6 +2056,7 @@
       "tropical_river": "2024-12-26 07:53:55 +0000",
       "magnolia_highlands": "2024-12-28 06:16:58 +0000",
       "sparse_redwoods": "2024-12-28 07:08:27 +0000",
+      "joshua_desert": "2024-12-30 06:17:33 +0000",
       "deciduous_forest": "2024-12-27 04:37:45 +0000",
       "boreal_forest": "2024-12-19 04:52:35 +0000",
       "towering_cliffs": "2024-12-19 05:59:28 +0000",
@@ -2064,7 +2067,8 @@
       "old_growth_bayou": "2024-12-29 06:08:58 +0000",
       "grassland": "2024-12-27 04:30:49 +0000",
       "prairie": "2024-12-27 18:51:52 +0000",
-      "redwoods": "2024-12-26 07:45:54 +0000"
+      "redwoods": "2024-12-26 07:45:54 +0000",
+      "rainforest": "2024-12-30 06:17:31 +0000"
     },
     "done": false
   },
@@ -3098,7 +3102,8 @@
   },
   "croptopia:recipes/pork_jerky": {
     "criteria": {
-      "has_pork": "2024-12-19 04:40:58 +0000"
+      "has_pork": "2024-12-19 04:40:58 +0000",
+      "has_salt": "2024-12-30 06:24:07 +0000"
     },
     "done": false
   },
@@ -10847,7 +10852,8 @@
   },
   "croptopia:recipes/beef_jerky": {
     "criteria": {
-      "has_beef": "2024-12-29 09:09:19 +0000"
+      "has_beef": "2024-12-29 09:09:19 +0000",
+      "has_salt": "2024-12-30 06:24:07 +0000"
     },
     "done": false
   },
@@ -10935,16 +10941,9 @@
     },
     "done": false
   },
-  "born_in_chaos_v1:charm_collector": {
+  "cnc:wendigoadvancement": {
     "criteria": {
-      "charm_collector_4": "2024-12-30 06:00:59 +0000",
-      "charm_collector_2": "2024-12-30 06:00:59 +0000"
-    },
-    "done": false
-  },
-  "born_in_chaos_v1:dark_creator": {
-    "criteria": {
-      "dark_creator_0": "2024-12-30 06:00:54 +0000"
+      "wendigoadvancement_0": "2024-12-30 05:57:50 +0000"
     },
     "done": true
   },
@@ -10954,11 +10953,42 @@
     },
     "done": true
   },
-  "cnc:wendigoadvancement": {
+  "born_in_chaos_v1:dark_creator": {
     "criteria": {
-      "wendigoadvancement_0": "2024-12-30 05:57:50 +0000"
+      "dark_creator_0": "2024-12-30 06:00:54 +0000"
     },
     "done": true
+  },
+  "born_in_chaos_v1:charm_collector": {
+    "criteria": {
+      "charm_collector_4": "2024-12-30 06:00:59 +0000",
+      "charm_collector_2": "2024-12-30 06:00:59 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/crema": {
+    "criteria": {
+      "has_salt": "2024-12-30 06:24:07 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/butter": {
+    "criteria": {
+      "has_salt": "2024-12-30 06:24:07 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/misc/dead_bush": {
+    "criteria": {
+      "has_salts": "2024-12-30 06:24:07 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/cheese": {
+    "criteria": {
+      "has_salt": "2024-12-30 06:24:07 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
