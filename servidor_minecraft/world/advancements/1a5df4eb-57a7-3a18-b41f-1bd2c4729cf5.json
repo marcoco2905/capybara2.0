@@ -11142,5 +11142,11 @@
     },
     "done": false
   },
+  "irons_spellbooks:irons_spellbooks/ink_legendary": {
+    "criteria": {
+      "requirement": "2024-12-30 07:40:10 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
