@@ -4300,3 +4300,32 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [30Dec2024 05:01:41.248] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20090ms or 401 ticks behind
 [30Dec2024 05:01:47.722] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
 [30Dec2024 05:02:03.466] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[30Dec2024 05:02:23.258] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4800ms or 96 ticks behind
+[30Dec2024 05:02:41.781] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3523ms or 70 ticks behind
+[30Dec2024 05:02:46.652] [Server thread/WARN] [fathertoast.specialai.SpecialAI/]: Attempted to add door-breaking ai to entity 'creeperoverhaul:ocean_creeper' with incompatible navigator 'WaterBoundPathNavigation'
+[30Dec2024 05:08:27.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 has made the advancement [Jungle Stegosaurus Slayer]
+[30Dec2024 05:11:41.968] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[30Dec2024 05:13:03.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was killed by Apothecarist using magic
+[30Dec2024 05:13:03.880] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[30Dec2024 05:14:28.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [Spooky Scary Skeleton]
+[30Dec2024 05:15:10.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by Acolyte
+[30Dec2024 05:15:10.943] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[30Dec2024 05:18:41.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by Acolyte
+[30Dec2024 05:18:41.710] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[30Dec2024 05:19:04.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by Acolyte
+[30Dec2024 05:19:04.142] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[30Dec2024 05:19:53.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by Nightmare Stalker
+[30Dec2024 05:19:53.431] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[30Dec2024 05:21:00.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 was slain by Skeleton
+[30Dec2024 05:21:00.125] [Server thread/INFO] [tombstone/]: The player Kiri080 has successfully been saved
+[30Dec2024 05:21:29.687] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2079ms or 41 ticks behind
+[30Dec2024 05:21:56.708] [Server thread/WARN] [fathertoast.specialai.SpecialAI/]: Attempted to add door-breaking ai to entity 'minecraft:drowned' with incompatible navigator 'SemiAquaticPathNavigator'
+[30Dec2024 05:21:56.709] [Server thread/WARN] [fathertoast.specialai.SpecialAI/]: Attempted to add door-breaking ai to entity 'minecraft:drowned' with incompatible navigator 'SemiAquaticPathNavigator'
+[30Dec2024 05:21:56.709] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/38309, l='ServerLevel[world]', x=-4767.50, y=58.00, z=5466.50]
+[30Dec2024 05:22:18.480] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[30Dec2024 05:22:22.076] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=49, y=-48, z=-413}
+[30Dec2024 05:22:22.077] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=49, y=-48, z=-415}
+[30Dec2024 05:22:39.918] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of marcouwu2005) moved wrongly! 0.3356287603146484
+[30Dec2024 05:22:40.011] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of marcouwu2005) moved wrongly! 0.5151166768955591
+[30Dec2024 05:22:40.051] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Biplane (vehicle of marcouwu2005) moved wrongly! 0.6676209550059866
+[30Dec2024 05:22:41.110] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!

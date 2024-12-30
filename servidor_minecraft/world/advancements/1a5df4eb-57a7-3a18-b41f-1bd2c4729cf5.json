@@ -1095,7 +1095,8 @@
   },
   "croptopia:gather_food": {
     "criteria": {
-      "calamari": "2024-12-19 04:02:44 +0000"
+      "calamari": "2024-12-19 04:02:44 +0000",
+      "glowing_calamari": "2024-12-30 05:12:44 +0000"
     },
     "done": false
   },
@@ -5914,6 +5915,7 @@
   },
   "galosphere:recipes/tools/glow_flare": {
     "criteria": {
+      "has_glow_ink_sac": "2024-12-30 05:12:43 +0000",
       "has_copper_ingot": "2024-12-20 06:54:31 +0000"
     },
     "done": false
@@ -8514,6 +8516,7 @@
   },
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
+      "has_glow_ink_sac": "2024-12-30 05:12:43 +0000",
       "has_item_frame": "2024-12-26 08:07:35 +0000"
     },
     "done": false
@@ -10909,6 +10912,24 @@
       "cave_book": "2024-12-30 04:59:06 +0000"
     },
     "done": true
+  },
+  "divinerpg:overworld/jungle_stegosaurus_slayer": {
+    "criteria": {
+      "kill_jungle_dramcryx": "2024-12-30 05:08:27 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/cooked_calamari_from_glowing_calamari": {
+    "criteria": {
+      "has_glowing_calamari": "2024-12-30 05:12:44 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/food/cooked_calamari_from_smoking_glowing_calamari": {
+    "criteria": {
+      "has_glowing_calamari": "2024-12-30 05:12:44 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
