@@ -1834,6 +1834,7 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "mauve_hills": "2024-12-30 05:38:08 +0000",
       "shrubland": "2024-12-20 05:27:11 +0000",
       "redstone_abyss": "2024-12-28 08:10:54 +0000",
       "steppe": "2024-12-26 08:09:36 +0000",
@@ -1844,11 +1845,13 @@
       "prismachasm": "2024-12-26 08:03:49 +0000",
       "marsh": "2024-12-26 07:28:17 +0000",
       "willow_forest": "2024-12-28 06:16:08 +0000",
+      "barley_fields": "2024-12-30 05:38:09 +0000",
       "redstone_caves": "2024-12-27 18:10:57 +0000",
       "grassy_beach": "2024-12-20 21:28:59 +0000",
       "blackwood_taiga": "2024-12-19 04:28:02 +0000",
       "rocky_meadow": "2024-12-27 17:55:41 +0000",
       "mycotoxic_undergrowth": "2024-12-28 18:11:24 +0000",
+      "maple_forest": "2024-12-30 05:34:29 +0000",
       "tropical_river": "2024-12-26 07:53:55 +0000",
       "magnolia_highlands": "2024-12-27 17:56:00 +0000",
       "sparse_redwoods": "2024-12-28 07:08:28 +0000",
@@ -1873,6 +1876,7 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "mauve_hills": "2024-12-30 05:38:08 +0000",
       "shrubland": "2024-12-20 05:27:11 +0000",
       "steppe": "2024-12-26 08:09:36 +0000",
       "pine_taiga": "2024-12-30 04:52:55 +0000",
@@ -1881,9 +1885,11 @@
       "autumnal_maple_forest": "2024-12-20 22:03:54 +0000",
       "marsh": "2024-12-26 07:28:17 +0000",
       "willow_forest": "2024-12-28 06:16:08 +0000",
+      "barley_fields": "2024-12-30 05:38:09 +0000",
       "grassy_beach": "2024-12-20 21:28:59 +0000",
       "blackwood_taiga": "2024-12-19 04:28:02 +0000",
       "rocky_meadow": "2024-12-27 17:55:41 +0000",
+      "maple_forest": "2024-12-30 05:34:29 +0000",
       "tropical_river": "2024-12-26 07:53:55 +0000",
       "magnolia_highlands": "2024-12-27 17:56:00 +0000",
       "sparse_redwoods": "2024-12-28 07:08:28 +0000",
@@ -11492,6 +11498,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_disenchantment": {
+    "criteria": {
+      "coded_trigger": "2024-12-30 05:40:31 +0000"
+    },
+    "done": true
+  },
   "aquamirae:adventure/find_ice_maze": {
     "criteria": {
       "deep_frozen_ocean": "2024-12-30 05:27:13 +0000"
@@ -11510,6 +11522,12 @@
     },
     "done": false
   },
+  "cnc:black_bearadvancement": {
+    "criteria": {
+      "black_bearadvancement_0": "2024-12-30 05:35:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
       "has_wither_skeleton_skull": "2024-12-30 05:14:28 +0000"
@@ -11522,11 +11540,23 @@
     },
     "done": false
   },
+  "cnc:harmless_snakeadvancement": {
+    "criteria": {
+      "harmless_snakeadvancement_0": "2024-12-30 05:36:03 +0000"
+    },
+    "done": true
+  },
   "l2complements:recipes/burnt/burnt/cod": {
     "criteria": {
       "has_cod": "2024-12-30 05:25:58 +0000"
     },
     "done": false
+  },
+  "tombstone:adventure/consume_soul": {
+    "criteria": {
+      "coded_trigger": "2024-12-30 05:40:31 +0000"
+    },
+    "done": true
   },
   "soulsweapons:recipes/combat/withered_wabbajack": {
     "criteria": {

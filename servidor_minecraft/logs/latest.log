@@ -4361,3 +4361,47 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [30Dec2024 05:30:42.735] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=-4250, y=71, z=4933}
 [30Dec2024 05:32:16.272] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiri080 lost connection: Disconnected
 [30Dec2024 05:32:16.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 left the game
+[30Dec2024 05:33:34.948] [pool-7-thread-4/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / blue_skies:village_calming_skies], ResourceKey[minecraft:worldgen/structure / blue_skies:village_shaded_woodlands], ResourceKey[minecraft:worldgen/structure / blue_skies:village_sunset_maple_forest], ResourceKey[minecraft:worldgen/structure / blue_skies:village_crystal_dunes]] from pos BlockPos{x=-3829, y=75, z=4885}
+[30Dec2024 05:33:35.338] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kiri080[/127.184.139.169:58827] logged in with entity id 51251 at (-2325.3183102968674, -1.0, 3361.1870366516314)
+[30Dec2024 05:33:35.338] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Kiri080
+[30Dec2024 05:33:35.339] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Kiri080
+[30Dec2024 05:33:35.339] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Kiri080
+[30Dec2024 05:33:35.340] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Kiri080
+[30Dec2024 05:33:35.342] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Kiri080
+[30Dec2024 05:33:35.349] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Kiri080
+[30Dec2024 05:33:35.349] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Kiri080
+[30Dec2024 05:33:35.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 joined the game
+[30Dec2024 05:33:35.430] [Server thread/INFO] [Jade/]: Syncing config to Kiri080 (1a5df4eb-57a7-3a18-b41f-1bd2c4729cf5)
+[30Dec2024 05:33:36.249] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3829, y=75, z=4885} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[30Dec2024 05:33:36.250] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=-3829, y=75, z=4885}
+[30Dec2024 05:34:05.917] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiri080 moved too quickly! -4.889847131104034,-33.59999995231628,2.142902337191572
+[30Dec2024 05:35:46.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [Bear Necessities]
+[30Dec2024 05:36:03.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [Friend-shaped]
+[30Dec2024 05:36:07.298] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[30Dec2024 05:36:28.433] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[30Dec2024 05:36:52.946] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2354, y=8, z=3121}
+[30Dec2024 05:36:52.947] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2354, y=8, z=3121}
+[30Dec2024 05:36:52.947] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2354, y=8, z=3122}
+[30Dec2024 05:36:52.948] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2354, y=8, z=3122}
+[30Dec2024 05:36:52.948] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2354, y=8, z=3123}
+[30Dec2024 05:36:52.948] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2354, y=8, z=3123}
+[30Dec2024 05:36:52.948] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2350, y=8, z=3125}
+[30Dec2024 05:36:52.949] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2350, y=8, z=3125}
+[30Dec2024 05:36:52.949] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2351, y=8, z=3125}
+[30Dec2024 05:36:52.949] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2351, y=8, z=3125}
+[30Dec2024 05:36:52.949] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2352, y=8, z=3125}
+[30Dec2024 05:36:52.950] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2352, y=8, z=3125}
+[30Dec2024 05:36:52.950] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2354, y=8, z=3121}
+[30Dec2024 05:36:52.950] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2354, y=8, z=3122}
+[30Dec2024 05:36:52.950] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2354, y=8, z=3123}
+[30Dec2024 05:36:52.951] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2350, y=8, z=3125}
+[30Dec2024 05:36:52.951] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2351, y=8, z=3125}
+[30Dec2024 05:36:52.951] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2352, y=8, z=3125}
+[30Dec2024 05:38:30.557] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Pitsa'/58303, l='ServerLevel[world]', x=-2372.27, y=63.42, z=4827.46] died, message: 'Pitsa was slain by Wendigo'
+[30Dec2024 05:38:30.560] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Pitsa'/58303, l='ServerLevel[world]', x=-2372.27, y=63.42, z=4827.46] died: Pitsa was slain by Wendigo
+[30Dec2024 05:40:31.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [Magic Disenchantment]
+[30Dec2024 05:40:31.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [Let The Magic Happen]
+[30Dec2024 05:40:39.311] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[30Dec2024 05:41:48.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 was slain by Flusk Zombie
+[30Dec2024 05:41:48.215] [Server thread/INFO] [tombstone/]: The player Kiri080 has successfully been saved
+[30Dec2024 05:42:09.854] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AdventurerEntity['Kiri080'/62618, l='ServerLevel[world]', x=-2345.97, y=-4.69, z=3369.51] died: Kiri080 was slain by Kiri080
