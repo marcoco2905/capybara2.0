@@ -8152,3 +8152,37 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [31Dec2024 00:56:08.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by Zombie
 [31Dec2024 00:56:08.459] [Server thread/DEBUG] [tombstone/]: A new grave of the player marcouwu2005 was created at position [x:-1939, y:6, z:3448, dim:minecraft:overworld]
 [31Dec2024 00:56:08.527] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[31Dec2024 00:58:20.066] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[31Dec2024 00:58:20.317] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[31Dec2024 00:58:20.571] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[31Dec2024 00:58:20.662] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AdventurerEntity['marcouwu2005'/8226, l='ServerLevel[world]', x=-1937.53, y=3.50, z=3462.38] died: marcouwu2005 was engulfed by marcouwu2005's blazing fires
+[31Dec2024 00:58:20.816] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[31Dec2024 00:58:21.062] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[31Dec2024 00:58:21.316] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[31Dec2024 00:58:21.569] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[31Dec2024 00:58:21.812] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[31Dec2024 00:58:22.065] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[31Dec2024 00:58:22.313] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[31Dec2024 00:58:22.563] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[31Dec2024 00:58:22.818] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[31Dec2024 00:58:23.064] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[31Dec2024 00:58:23.314] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[31Dec2024 00:58:23.571] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[31Dec2024 00:58:23.820] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Smallmagicfireball.writespawndata: null
+[31Dec2024 00:59:48.642] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 00:59:48.681] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Dec2024 01:04:48.652] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 01:04:48.688] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Dec2024 01:09:48.634] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 01:09:48.667] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Dec2024 01:14:01.046] [Server thread/WARN] [fathertoast.specialai.SpecialAI/]: Attempted to add door-breaking ai to entity 'creeperoverhaul:ocean_creeper' with incompatible navigator 'WaterBoundPathNavigation'
+[31Dec2024 01:14:48.635] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 01:14:48.673] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Dec2024 01:16:04.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by Flusk Zombie
+[31Dec2024 01:16:04.369] [Server thread/DEBUG] [tombstone/]: A new grave of the player marcouwu2005 was created at position [x:-1981, y:84, z:4173, dim:minecraft:overworld]
+[31Dec2024 01:16:04.394] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[31Dec2024 01:16:41.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was doomed to fall by Flusk Zombie
+[31Dec2024 01:16:41.082] [Server thread/DEBUG] [tombstone/]: A new grave of the player marcouwu2005 was created at position [x:-1963, y:84, z:4176, dim:minecraft:overworld]
+[31Dec2024 01:16:41.091] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[31Dec2024 01:17:05.766] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AdventurerEntity['marcouwu2005'/16033, l='ServerLevel[world]', x=-1956.99, y=84.00, z=4175.57] died: marcouwu2005 was roasted by marcouwu2005's dragon breath
+[31Dec2024 01:17:19.661] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AdventurerEntity['marcouwu2005'/16039, l='ServerLevel[world]', x=-1969.89, y=84.00, z=4179.84] died: marcouwu2005 was stormed by marcouwu2005
