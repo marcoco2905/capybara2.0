@@ -12020,5 +12020,35 @@
     },
     "done": false
   },
+  "regions_unexplored:recipes/decorations/tall_yellow_bioshroom": {
+    "criteria": {
+      "has_yellow_bioshroom": "2024-12-31 17:02:36 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:recipes/building_blocks/yellow_bioshroom_block": {
+    "criteria": {
+      "has_yellow_bioshroom": "2024-12-31 17:02:36 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:recipes/misc/yellow_bioshroom_from_tall_yellow_bioshroom": {
+    "criteria": {
+      "has_tall_yellow_bioshroom": "2024-12-31 16:59:55 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:mycologist": {
+    "criteria": {
+      "yellow_bioshroom": "2024-12-31 17:02:36 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:recipes/misc/yellow_dye_from_tall_yellow_bioshroom": {
+    "criteria": {
+      "has_tall_yellow_bioshroom": "2024-12-31 16:59:55 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }
