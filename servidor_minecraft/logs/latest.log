@@ -1037,3 +1037,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [31Dec2024 00:40:15.534] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityBlueJay['Blue Jay'/2470, l='ServerLevel[world]', x=-1724.25, y=63.40, z=3370.25]
 [31Dec2024 00:40:15.805] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
 [31Dec2024 00:40:50.163] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AdventurerEntity['marcouwu2005'/2720, l='ServerLevel[world]', x=-1883.60, y=-13.00, z=3527.75] died: marcouwu2005 was roasted by marcouwu2005's dragon breath
+[31Dec2024 00:50:59.599] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: GreywolfEntity['Greywolf'/6098, l='ServerLevel[world]', x=-1826.15, y=74.00, z=3323.93]
+[31Dec2024 00:56:08.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by Zombie
+[31Dec2024 00:56:08.527] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
