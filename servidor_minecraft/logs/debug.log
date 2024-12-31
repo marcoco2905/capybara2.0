@@ -8247,3 +8247,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [31Dec2024 02:08:07.970] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
 [31Dec2024 02:08:09.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved too quickly! 1.0973742508235773,-48.20426779776025,1.953357141394008
 [31Dec2024 02:08:12.443] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AdventurerEntity['marcouwu2005'/34468, l='ServerLevel[world]', x=-1975.13, y=80.00, z=4156.97] died: marcouwu2005 fell from a high place
+[31Dec2024 02:08:33.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by marcouwu2005
+[31Dec2024 02:08:33.052] [Server thread/DEBUG] [tombstone/]: A new grave of the player marcouwu2005 was created at position [x:-1941, y:72, z:4148, dim:minecraft:overworld]
+[31Dec2024 02:08:33.154] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[31Dec2024 02:08:46.795] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 lost connection: Disconnected
+[31Dec2024 02:08:46.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 left the game
+[31Dec2024 02:09:48.551] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 02:09:48.587] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Dec2024 02:14:48.534] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 02:14:48.564] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
