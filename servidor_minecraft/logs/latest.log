@@ -1089,3 +1089,34 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [31Dec2024 02:08:33.154] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
 [31Dec2024 02:08:46.795] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 lost connection: Disconnected
 [31Dec2024 02:08:46.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 left the game
+[31Dec2024 02:22:36.172] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: marcouwu2005[/127.184.139.169:42275] logged in with entity id 34845 at (-1940.8301261226045, 72.0625, 4147.832398286841)
+[31Dec2024 02:22:36.173] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to marcouwu2005
+[31Dec2024 02:22:36.174] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to marcouwu2005
+[31Dec2024 02:22:36.174] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to marcouwu2005
+[31Dec2024 02:22:36.174] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to marcouwu2005
+[31Dec2024 02:22:36.177] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to marcouwu2005
+[31Dec2024 02:22:36.181] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to marcouwu2005
+[31Dec2024 02:22:36.182] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to marcouwu2005
+[31Dec2024 02:22:36.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 joined the game
+[31Dec2024 02:22:36.247] [Server thread/INFO] [Jade/]: Syncing config to marcouwu2005 (58a07aa3-0e93-362a-8cc4-6d8a2dfdca58)
+[31Dec2024 02:23:57.543] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[31Dec2024 02:24:53.721] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AdventurerEntity['marcouwu2005'/35207, l='ServerLevel[world]', x=-1966.74, y=84.00, z=4178.52] died: marcouwu2005 was stormed by marcouwu2005
+[31Dec2024 02:24:55.288] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kiri080[/127.184.139.169:37659] logged in with entity id 36236 at (-1937.8265552883615, 4.0625, 3479.3666267367325)
+[31Dec2024 02:24:55.289] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Kiri080
+[31Dec2024 02:24:55.289] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Kiri080
+[31Dec2024 02:24:55.290] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Kiri080
+[31Dec2024 02:24:55.290] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Kiri080
+[31Dec2024 02:24:55.293] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Kiri080
+[31Dec2024 02:24:55.295] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Kiri080
+[31Dec2024 02:24:55.295] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Kiri080
+[31Dec2024 02:24:55.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 joined the game
+[31Dec2024 02:24:55.360] [Server thread/INFO] [Jade/]: Syncing config to Kiri080 (1a5df4eb-57a7-3a18-b41f-1bd2c4729cf5)
+[31Dec2024 02:25:06.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by Flusk Zombie
+[31Dec2024 02:25:07.041] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[31Dec2024 02:25:51.445] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2055ms or 41 ticks behind
+[31Dec2024 02:25:59.174] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiri080 lost connection: Disconnected
+[31Dec2024 02:25:59.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 left the game
+[31Dec2024 02:27:07.460] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AdventurerEntity['marcouwu2005'/37178, l='ServerLevel[world]', x=-1974.65, y=83.00, z=4181.49] died: marcouwu2005 was stormed by marcouwu2005
+[31Dec2024 02:27:18.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by Miner Zombie
+[31Dec2024 02:27:18.725] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[31Dec2024 02:28:27.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [The Wind Darkening]
