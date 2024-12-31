@@ -1120,3 +1120,29 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [31Dec2024 02:27:18.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by Miner Zombie
 [31Dec2024 02:27:18.725] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
 [31Dec2024 02:28:27.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [The Wind Darkening]
+[31Dec2024 02:29:13.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by Flusk Zombie
+[31Dec2024 02:29:13.897] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[31Dec2024 02:29:46.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [A Little Hot Rod Red]
+[31Dec2024 02:29:50.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has completed the challenge [Deception!]
+[31Dec2024 02:30:23.616] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AdventurerEntity['marcouwu2005'/40803, l='ServerLevel[world]', x=-1983.23, y=84.25, z=4190.38] died: marcouwu2005 was stormed by marcouwu2005
+[31Dec2024 02:30:27.609] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AdventurerEntity['marcouwu2005'/40711, l='ServerLevel[world]', x=-1973.56, y=84.00, z=4169.49] died: marcouwu2005 was stormed by marcouwu2005
+[31Dec2024 02:30:53.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by Equestrian
+[31Dec2024 02:30:53.628] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[31Dec2024 02:33:05.926] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kiri080[/127.184.139.169:36257] logged in with entity id 43487 at (-1937.9012415672123, 4.0625, 3480.0949163878877)
+[31Dec2024 02:33:05.927] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Kiri080
+[31Dec2024 02:33:05.928] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Kiri080
+[31Dec2024 02:33:05.929] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Kiri080
+[31Dec2024 02:33:05.929] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Kiri080
+[31Dec2024 02:33:05.931] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Kiri080
+[31Dec2024 02:33:05.934] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Kiri080
+[31Dec2024 02:33:05.934] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Kiri080
+[31Dec2024 02:33:05.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 joined the game
+[31Dec2024 02:33:05.992] [Server thread/INFO] [Jade/]: Syncing config to Kiri080 (1a5df4eb-57a7-3a18-b41f-1bd2c4729cf5)
+[31Dec2024 02:33:58.849] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[31Dec2024 02:34:52.541] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[31Dec2024 02:35:10.462] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[31Dec2024 02:35:27.772] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2331ms or 46 ticks behind
+[31Dec2024 02:36:22.258] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[31Dec2024 02:36:40.148] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2908ms or 58 ticks behind
+[31Dec2024 02:36:57.199] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[31Dec2024 02:37:53.892] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
