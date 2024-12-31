@@ -1258,3 +1258,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [31Dec2024 17:17:15.191] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-74, 34], pos: BlockPos{x=-1170, y=79, z=556}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / eternal_tales:ferbalic_flower_feature_6]
 [31Dec2024 17:17:15.191] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-74, 34], pos: BlockPos{x=-1171, y=79, z=556}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / eternal_tales:ferbalic_flower_feature_6]
 [31Dec2024 17:17:15.191] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-74, 34], pos: BlockPos{x=-1169, y=79, z=557}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / eternal_tales:ferbalic_flower_feature_6]
+[31Dec2024 17:23:20.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by Giddy Blaze
+[31Dec2024 17:23:20.295] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[31Dec2024 17:27:48.843] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2394ms or 47 ticks behind

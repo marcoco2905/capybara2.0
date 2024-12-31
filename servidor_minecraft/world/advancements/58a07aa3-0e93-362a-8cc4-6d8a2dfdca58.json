@@ -10019,9 +10019,10 @@
   },
   "minecraft:recipes/misc/netherite_scrap_from_blasting": {
     "criteria": {
-      "has_ancient_debris": "2024-12-28 07:13:15 +0000"
+      "has_ancient_debris": "2024-12-28 07:13:15 +0000",
+      "has_the_recipe": "2024-12-31 17:24:56 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
@@ -12032,6 +12033,12 @@
     },
     "done": false
   },
+  "divinerpg:recipes/shaped/hellspider_pumpkin": {
+    "criteria": {
+      "has_shards": "2024-12-31 17:20:34 +0000"
+    },
+    "done": false
+  },
   "regions_unexplored:recipes/misc/yellow_bioshroom_from_tall_yellow_bioshroom": {
     "criteria": {
       "has_tall_yellow_bioshroom": "2024-12-31 16:59:55 +0000"
@@ -12041,6 +12048,12 @@
   "regions_unexplored:mycologist": {
     "criteria": {
       "yellow_bioshroom": "2024-12-31 17:02:36 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/molten_stone": {
+    "criteria": {
+      "has_shards": "2024-12-31 17:20:34 +0000"
     },
     "done": false
   },
