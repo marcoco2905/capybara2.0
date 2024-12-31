@@ -8186,3 +8186,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [31Dec2024 01:16:41.091] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
 [31Dec2024 01:17:05.766] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AdventurerEntity['marcouwu2005'/16033, l='ServerLevel[world]', x=-1956.99, y=84.00, z=4175.57] died: marcouwu2005 was roasted by marcouwu2005's dragon breath
 [31Dec2024 01:17:19.661] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AdventurerEntity['marcouwu2005'/16039, l='ServerLevel[world]', x=-1969.89, y=84.00, z=4179.84] died: marcouwu2005 was stormed by marcouwu2005
+[31Dec2024 01:17:36.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by Marine Zombie
+[31Dec2024 01:17:36.755] [Server thread/DEBUG] [tombstone/]: A new grave of the player marcouwu2005 was created at position [x:-1968, y:84, z:4172, dim:minecraft:overworld]
+[31Dec2024 01:17:36.784] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[31Dec2024 01:18:40.712] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AdventurerEntity['marcouwu2005'/16814, l='ServerLevel[world]', x=-1965.50, y=84.00, z=4172.49] died: marcouwu2005 was slain by marcouwu2005
+[31Dec2024 01:19:48.689] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 01:19:48.733] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Dec2024 01:24:48.645] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 01:24:48.678] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
