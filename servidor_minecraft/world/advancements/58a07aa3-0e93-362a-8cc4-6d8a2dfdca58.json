@@ -1658,6 +1658,7 @@
       "seasonal_forest": "2024-12-20 21:43:38 +0000",
       "volcano": "2024-12-28 07:33:48 +0000",
       "pasture": "2024-12-23 08:58:49 +0000",
+      "rocky_rainforest": "2024-12-31 17:42:09 +0000",
       "volcanic_plains": "2024-12-26 07:49:35 +0000",
       "lavender_field": "2024-12-20 21:43:12 +0000",
       "fir_clearing": "2024-12-23 09:01:58 +0000",
@@ -1707,6 +1708,7 @@
       "seasonal_forest": "2024-12-20 21:43:38 +0000",
       "volcano": "2024-12-28 07:33:48 +0000",
       "pasture": "2024-12-23 08:58:49 +0000",
+      "rocky_rainforest": "2024-12-31 17:42:09 +0000",
       "volcanic_plains": "2024-12-26 07:49:35 +0000",
       "lavender_field": "2024-12-20 21:43:12 +0000",
       "fir_clearing": "2024-12-23 09:01:58 +0000",
@@ -12021,6 +12023,18 @@
     },
     "done": false
   },
+  "regions_unexplored:recipes/misc/yellow_bioshroom_from_tall_yellow_bioshroom": {
+    "criteria": {
+      "has_tall_yellow_bioshroom": "2024-12-31 16:59:55 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:recipes/misc/yellow_dye_from_tall_yellow_bioshroom": {
+    "criteria": {
+      "has_tall_yellow_bioshroom": "2024-12-31 16:59:55 +0000"
+    },
+    "done": false
+  },
   "regions_unexplored:recipes/decorations/tall_yellow_bioshroom": {
     "criteria": {
       "has_yellow_bioshroom": "2024-12-31 17:02:36 +0000"
@@ -12033,33 +12047,21 @@
     },
     "done": false
   },
-  "divinerpg:recipes/shaped/hellspider_pumpkin": {
-    "criteria": {
-      "has_shards": "2024-12-31 17:20:34 +0000"
-    },
-    "done": false
-  },
-  "regions_unexplored:recipes/misc/yellow_bioshroom_from_tall_yellow_bioshroom": {
-    "criteria": {
-      "has_tall_yellow_bioshroom": "2024-12-31 16:59:55 +0000"
-    },
-    "done": false
-  },
   "regions_unexplored:mycologist": {
     "criteria": {
       "yellow_bioshroom": "2024-12-31 17:02:36 +0000"
     },
     "done": false
   },
-  "divinerpg:recipes/shaped/molten_stone": {
+  "divinerpg:recipes/shaped/hellspider_pumpkin": {
     "criteria": {
       "has_shards": "2024-12-31 17:20:34 +0000"
     },
     "done": false
   },
-  "regions_unexplored:recipes/misc/yellow_dye_from_tall_yellow_bioshroom": {
+  "divinerpg:recipes/shaped/molten_stone": {
     "criteria": {
-      "has_tall_yellow_bioshroom": "2024-12-31 16:59:55 +0000"
+      "has_shards": "2024-12-31 17:20:34 +0000"
     },
     "done": false
   },
