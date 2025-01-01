@@ -9846,7 +9846,8 @@
   },
   "knightquest:recipes/misc/blaze_leggings": {
     "criteria": {
-      "has_blaze_rod": "2024-12-28 05:58:02 +0000"
+      "has_blaze_rod": "2024-12-28 05:58:02 +0000",
+      "has_blaze_powder": "2025-01-01 09:10:02 +0000"
     },
     "done": false
   },
@@ -9870,7 +9871,8 @@
   },
   "knightquest:recipes/misc/blaze_helmet": {
     "criteria": {
-      "has_blaze_rod": "2024-12-28 05:58:02 +0000"
+      "has_blaze_rod": "2024-12-28 05:58:02 +0000",
+      "has_blaze_powder": "2025-01-01 09:10:02 +0000"
     },
     "done": false
   },
@@ -9882,7 +9884,8 @@
   },
   "knightquest:recipes/misc/blaze_chestplate": {
     "criteria": {
-      "has_blaze_rod": "2024-12-28 05:58:02 +0000"
+      "has_blaze_rod": "2024-12-28 05:58:02 +0000",
+      "has_blaze_powder": "2025-01-01 09:10:02 +0000"
     },
     "done": false
   },
@@ -9894,7 +9897,8 @@
   },
   "knightquest:recipes/misc/blaze_boots": {
     "criteria": {
-      "has_blaze_rod": "2024-12-28 05:58:02 +0000"
+      "has_blaze_rod": "2024-12-28 05:58:02 +0000",
+      "has_blaze_powder": "2025-01-01 09:10:02 +0000"
     },
     "done": false
   },
@@ -10327,7 +10331,8 @@
   },
   "divinerpg:recipes/shaped/inferno_sword": {
     "criteria": {
-      "has_ore": "2024-12-28 08:10:59 +0000"
+      "has_ore": "2024-12-28 08:10:59 +0000",
+      "has_powder": "2025-01-01 09:10:02 +0000"
     },
     "done": false
   },
@@ -11785,9 +11790,10 @@
   },
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
+      "has_blaze_powder": "2025-01-01 09:10:02 +0000",
       "has_the_recipe": "2024-12-30 07:02:21 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
@@ -12062,6 +12068,130 @@
   "divinerpg:recipes/shaped/molten_stone": {
     "criteria": {
       "has_shards": "2024-12-31 17:20:34 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-01 09:09:25 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-01 09:09:25 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-01 09:09:25 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-01 09:09:25 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-01 09:09:25 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-01 09:09:25 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-01 09:09:25 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-01 09:09:25 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-01 09:09:25 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2025-01-01 09:09:26 +0000",
+      "log_spam_fixer": "2025-01-01 09:09:25 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-01 09:09:25 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-01 09:09:25 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-01-01 09:10:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "!bit13": "2025-01-01 09:09:29 +0000",
+      "!bit14": "2025-01-01 09:09:29 +0000",
+      "!bit11": "2025-01-01 09:09:29 +0000",
+      "!bit12": "2025-01-01 09:09:29 +0000",
+      "not_target": "2025-01-01 09:09:29 +0000",
+      "!bit10": "2025-01-01 09:09:29 +0000",
+      "!bit9": "2025-01-01 09:09:29 +0000",
+      "!bit8": "2025-01-01 09:09:29 +0000",
+      "!bit7": "2025-01-01 09:09:29 +0000",
+      "!bit6": "2025-01-01 09:09:29 +0000",
+      "!bit5": "2025-01-01 09:09:29 +0000",
+      "!bit4": "2025-01-01 09:09:29 +0000",
+      "!bit3": "2025-01-01 09:09:29 +0000",
+      "!bit2": "2025-01-01 09:09:29 +0000",
+      "!bit1": "2025-01-01 09:09:29 +0000",
+      "!bit0": "2025-01-01 09:09:29 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/misc/craft/soul_fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-01-01 09:10:02 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/misc/craft/strong_fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-01-01 09:10:02 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/misc/craft/black_fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-01-01 09:10:02 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-01-01 09:10:02 +0000"
     },
     "done": false
   },

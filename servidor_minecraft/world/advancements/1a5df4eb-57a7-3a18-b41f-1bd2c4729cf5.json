@@ -5869,6 +5869,7 @@
     "criteria": {
       "bellpepper_seed": "2024-12-20 06:49:21 +0000",
       "blackbean_seed": "2024-12-20 07:58:29 +0000",
+      "vanilla_seeds": "2025-01-01 08:57:53 +0000",
       "yam_seed": "2024-12-26 06:34:24 +0000",
       "tea_seed": "2024-12-26 06:36:05 +0000",
       "saguaro_seed": "2024-12-28 07:23:39 +0000",
@@ -5876,8 +5877,13 @@
       "olive_seed": "2024-12-26 06:34:07 +0000",
       "kiwi_seed": "2024-12-20 07:58:29 +0000",
       "grape_seed": "2024-12-20 06:49:30 +0000",
+      "leek_seed": "2025-01-01 08:57:46 +0000",
       "asparagus_seed": "2025-01-01 08:57:23 +0000",
+      "eggplant_seed": "2025-01-01 08:57:56 +0000",
       "barley_seed": "2025-01-01 08:57:22 +0000",
+      "raspberry_seed": "2025-01-01 08:57:56 +0000",
+      "lettuce_seed": "2025-01-01 08:57:55 +0000",
+      "squash_seed": "2025-01-01 08:57:57 +0000",
       "mustard_seed": "2025-01-01 08:57:22 +0000",
       "currant_seed": "2024-12-26 06:33:55 +0000",
       "zucchini_seed": "2024-12-20 06:49:21 +0000"
@@ -5893,6 +5899,8 @@
   "croptopia:gather_savanna": {
     "criteria": {
       "yam_seed": "2024-12-26 06:34:24 +0000",
+      "leek_seed": "2025-01-01 08:57:46 +0000",
+      "squash_seed": "2025-01-01 08:57:57 +0000",
       "zucchini_seed": "2024-12-20 06:49:21 +0000",
       "kiwi_seed": "2024-12-20 07:58:29 +0000",
       "olive_seed": "2024-12-26 06:34:07 +0000"
@@ -5901,6 +5909,7 @@
   },
   "croptopia:gather_plains": {
     "criteria": {
+      "lettuce_seed": "2025-01-01 08:57:55 +0000",
       "bellpepper_seed": "2024-12-20 06:49:21 +0000",
       "mustard_seed": "2025-01-01 08:57:22 +0000",
       "barley_seed": "2025-01-01 08:57:22 +0000"
@@ -5910,15 +5919,19 @@
   "croptopia:gather_forest": {
     "criteria": {
       "blackbean_seed": "2024-12-20 07:58:29 +0000",
+      "radish_seed": "2025-01-01 08:57:46 +0000",
       "tea_seed": "2024-12-26 06:36:05 +0000",
-      "grape_seed": "2024-12-20 06:49:30 +0000"
+      "grape_seed": "2024-12-20 06:49:30 +0000",
+      "raspberry_seed": "2025-01-01 08:57:56 +0000"
     },
     "done": false
   },
   "croptopia:gather_jungle": {
     "criteria": {
       "basil_seed": "2024-12-26 06:36:18 +0000",
+      "vanilla_seeds": "2025-01-01 08:57:53 +0000",
       "pineapple_seed": "2024-12-28 07:23:39 +0000",
+      "eggplant_seed": "2025-01-01 08:57:56 +0000",
       "peanut_seed": "2024-12-20 06:49:33 +0000"
     },
     "done": false
@@ -11165,6 +11178,78 @@
   "supplementaries:recipes/sign_post_oak": {
     "criteria": {
       "has_oak_sign": "2024-12-30 08:18:48 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-01 09:09:26 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-01 09:09:26 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-01 09:09:26 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-01 09:09:26 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-01 09:09:26 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-01 09:09:26 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-01 09:09:26 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-01 09:09:26 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-01 09:09:26 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-01 09:09:26 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-01 09:09:26 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-01 09:09:26 +0000"
     },
     "done": false
   },
