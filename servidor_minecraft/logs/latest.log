@@ -1027,3 +1027,17 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Jan2025 08:23:24.619] [Server thread/INFO] [Jade/]: Syncing config to marcouwu2005 (58a07aa3-0e93-362a-8cc4-6d8a2dfdca58)
 [01Jan2025 08:23:24.653] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20256ms or 405 ticks behind
 [01Jan2025 08:24:34.260] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2064ms or 41 ticks behind
+[01Jan2025 08:32:19.736] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kiri080[/127.184.139.169:57293] logged in with entity id 7904 at (-1965.1124735593135, 84.0, 4173.567022860895)
+[01Jan2025 08:32:19.738] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Kiri080
+[01Jan2025 08:32:19.739] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Kiri080
+[01Jan2025 08:32:19.740] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Kiri080
+[01Jan2025 08:32:19.741] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Kiri080
+[01Jan2025 08:32:19.747] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Kiri080
+[01Jan2025 08:32:19.752] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Kiri080
+[01Jan2025 08:32:19.753] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Kiri080
+[01Jan2025 08:32:19.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 joined the game
+[01Jan2025 08:32:19.952] [Server thread/INFO] [Jade/]: Syncing config to Kiri080 (1a5df4eb-57a7-3a18-b41f-1bd2c4729cf5)
+[01Jan2025 08:33:48.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 has made the advancement [Ol' Betsy]
+[01Jan2025 08:34:12.028] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiri080 moved wrongly!
+[01Jan2025 08:38:05.614] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiri080 moved wrongly!
+[01Jan2025 08:38:16.890] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiri080 moved wrongly!
