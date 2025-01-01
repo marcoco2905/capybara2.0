@@ -5876,6 +5876,9 @@
       "olive_seed": "2024-12-26 06:34:07 +0000",
       "kiwi_seed": "2024-12-20 07:58:29 +0000",
       "grape_seed": "2024-12-20 06:49:30 +0000",
+      "asparagus_seed": "2025-01-01 08:57:23 +0000",
+      "barley_seed": "2025-01-01 08:57:22 +0000",
+      "mustard_seed": "2025-01-01 08:57:22 +0000",
       "currant_seed": "2024-12-26 06:33:55 +0000",
       "zucchini_seed": "2024-12-20 06:49:21 +0000"
     },
@@ -5898,7 +5901,9 @@
   },
   "croptopia:gather_plains": {
     "criteria": {
-      "bellpepper_seed": "2024-12-20 06:49:21 +0000"
+      "bellpepper_seed": "2024-12-20 06:49:21 +0000",
+      "mustard_seed": "2025-01-01 08:57:22 +0000",
+      "barley_seed": "2025-01-01 08:57:22 +0000"
     },
     "done": false
   },
@@ -8202,7 +8207,8 @@
   },
   "croptopia:gather_swamp": {
     "criteria": {
-      "currant_seed": "2024-12-26 06:33:55 +0000"
+      "currant_seed": "2024-12-26 06:33:55 +0000",
+      "asparagus_seed": "2025-01-01 08:57:23 +0000"
     },
     "done": false
   },
@@ -11171,6 +11177,18 @@
   "minecraft:adventure/ol_betsy": {
     "criteria": {
       "shot_crossbow": "2025-01-01 08:33:48 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/staff_artificer": {
+    "criteria": {
+      "requirement": "2025-01-01 08:51:38 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/staff_root": {
+    "criteria": {
+      "requirement": "2025-01-01 08:51:38 +0000"
     },
     "done": true
   },

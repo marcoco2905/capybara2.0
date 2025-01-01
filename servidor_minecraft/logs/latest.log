@@ -1049,3 +1049,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Jan2025 08:42:25.708] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -4.482048035272783,0.492160699965396,10.712866519847921
 [01Jan2025 08:42:52.474] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
 [01Jan2025 08:45:25.718] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiri080 moved wrongly!
+[01Jan2025 08:50:43.900] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[01Jan2025 08:51:38.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 has made the advancement [No Longer Short-Staffed]
+[01Jan2025 08:51:38.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 has made the advancement [Quite the Walking Stick]
