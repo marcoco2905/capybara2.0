@@ -11162,6 +11162,12 @@
     },
     "done": false
   },
+  "supplementaries:recipes/sign_post_warped": {
+    "criteria": {
+      "has_warped_sign": "2025-01-01 08:46:34 +0000"
+    },
+    "done": false
+  },
   "minecraft:adventure/ol_betsy": {
     "criteria": {
       "shot_crossbow": "2025-01-01 08:33:48 +0000"
