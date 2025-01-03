@@ -1650,6 +1650,7 @@
       "mediterranean_forest": "2024-12-26 08:16:50 +0000",
       "coniferous_forest": "2024-12-20 21:39:24 +0000",
       "spider_nest": "2024-12-26 01:51:17 +0000",
+      "forested_field": "2025-01-03 07:19:41 +0000",
       "dryland": "2024-12-26 07:55:16 +0000",
       "wasteland": "2024-12-26 08:15:59 +0000",
       "lush_desert": "2024-12-26 08:01:37 +0000",
@@ -1674,7 +1675,8 @@
       "undergrowth": "2024-12-28 08:26:27 +0000",
       "rainforest": "2024-12-28 07:09:26 +0000",
       "crag": "2024-12-20 08:33:43 +0000",
-      "snowy_maple_woods": "2024-12-26 04:22:13 +0000"
+      "snowy_maple_woods": "2024-12-26 04:22:13 +0000",
+      "ominous_woods": "2025-01-03 07:16:57 +0000"
     },
     "done": false
   },
@@ -1701,6 +1703,7 @@
       "mediterranean_forest": "2024-12-26 08:16:50 +0000",
       "coniferous_forest": "2024-12-20 21:39:24 +0000",
       "spider_nest": "2024-12-26 01:51:17 +0000",
+      "forested_field": "2025-01-03 07:19:41 +0000",
       "dryland": "2024-12-26 07:55:16 +0000",
       "wasteland": "2024-12-26 08:15:59 +0000",
       "lush_desert": "2024-12-26 08:01:37 +0000",
@@ -1725,7 +1728,8 @@
       "undergrowth": "2024-12-28 08:26:27 +0000",
       "rainforest": "2024-12-28 07:09:26 +0000",
       "crag": "2024-12-20 08:33:43 +0000",
-      "snowy_maple_woods": "2024-12-26 04:22:13 +0000"
+      "snowy_maple_woods": "2024-12-26 04:22:13 +0000",
+      "ominous_woods": "2025-01-03 07:16:57 +0000"
     },
     "done": false
   },
@@ -1863,6 +1867,7 @@
       "blackwood_taiga": "2024-12-19 04:28:02 +0000",
       "rocky_meadow": "2024-12-27 17:55:41 +0000",
       "mycotoxic_undergrowth": "2024-12-28 18:11:24 +0000",
+      "ochard": "2025-01-03 07:15:19 +0000",
       "maple_forest": "2024-12-30 05:34:29 +0000",
       "tropical_river": "2024-12-26 07:53:55 +0000",
       "magnolia_highlands": "2024-12-27 17:56:00 +0000",
@@ -1878,6 +1883,7 @@
       "bamboo_forest": "2024-12-29 07:05:21 +0000",
       "saguaro_desert": "2024-12-26 07:53:41 +0000",
       "temperate_grove": "2024-12-20 05:26:49 +0000",
+      "cold_river": "2025-01-03 07:16:46 +0000",
       "baobab_savanna": "2024-12-26 07:54:11 +0000",
       "old_growth_bayou": "2024-12-19 04:28:06 +0000",
       "grassland": "2024-12-27 04:30:49 +0000",
@@ -1904,6 +1910,7 @@
       "grassy_beach": "2024-12-20 21:28:59 +0000",
       "blackwood_taiga": "2024-12-19 04:28:02 +0000",
       "rocky_meadow": "2024-12-27 17:55:41 +0000",
+      "ochard": "2025-01-03 07:15:19 +0000",
       "maple_forest": "2024-12-30 05:34:29 +0000",
       "tropical_river": "2024-12-26 07:53:55 +0000",
       "magnolia_highlands": "2024-12-27 17:56:00 +0000",
@@ -1916,6 +1923,7 @@
       "bamboo_forest": "2024-12-29 07:05:21 +0000",
       "saguaro_desert": "2024-12-26 07:53:41 +0000",
       "temperate_grove": "2024-12-20 05:26:49 +0000",
+      "cold_river": "2025-01-03 07:16:46 +0000",
       "baobab_savanna": "2024-12-26 07:54:11 +0000",
       "old_growth_bayou": "2024-12-19 04:28:06 +0000",
       "grassland": "2024-12-27 04:30:49 +0000",
@@ -12302,6 +12310,54 @@
   "divinerpg:recipes/shaped/corrupted_stone": {
     "criteria": {
       "has_shards": "2025-01-03 06:01:54 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-03 07:22:14 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:recipes/building_blocks/mossy_stone_from_blasting_mossy_cobblestone": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-03 07:22:14 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-03 07:22:14 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:recipes/building_blocks/mossy_stone_from_smelting_mossy_cobblestone": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-03 07:22:14 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-03 07:22:14 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-03 07:22:14 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-03 07:22:14 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-03 07:22:14 +0000"
     },
     "done": false
   },

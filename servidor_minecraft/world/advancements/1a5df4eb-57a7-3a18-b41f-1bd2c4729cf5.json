@@ -351,10 +351,9 @@
   },
   "incendium:technical/using/shield": {
     "criteria": {
-      "requirement": "2025-01-03 07:05:05 +0000",
       "log_spam_fixer": "2024-12-19 03:57:53 +0000"
     },
-    "done": true
+    "done": false
   },
   "tombstone:adventure/root": {
     "criteria": {
@@ -1755,6 +1754,7 @@
       "baked_potato": "2024-12-19 04:10:31 +0000",
       "porkchop": "2024-12-29 01:26:22 +0000",
       "tropical_fish": "2024-12-19 05:00:46 +0000",
+      "beetroot_soup": "2025-01-03 07:07:30 +0000",
       "apple": "2024-12-19 04:57:51 +0000",
       "spider_eye": "2024-12-19 06:31:00 +0000",
       "cooked_cod": "2024-12-19 04:44:48 +0000",
@@ -2827,7 +2827,8 @@
   "knightquest:recipes/misc/skeleton_chestplate": {
     "criteria": {
       "has_bone": "2024-12-19 04:29:32 +0000",
-      "has_bone_meal": "2024-12-20 06:14:17 +0000"
+      "has_bone_meal": "2024-12-20 06:14:17 +0000",
+      "has_bone_block": "2025-01-03 07:05:26 +0000"
     },
     "done": false
   },
@@ -2894,7 +2895,8 @@
   "knightquest:recipes/misc/skeleton_boots": {
     "criteria": {
       "has_bone": "2024-12-19 04:29:32 +0000",
-      "has_bone_meal": "2024-12-20 06:14:17 +0000"
+      "has_bone_meal": "2024-12-20 06:14:17 +0000",
+      "has_bone_block": "2025-01-03 07:05:26 +0000"
     },
     "done": false
   },
@@ -2936,7 +2938,8 @@
   "knightquest:recipes/misc/skeleton_helmet": {
     "criteria": {
       "has_bone": "2024-12-19 04:29:32 +0000",
-      "has_bone_meal": "2024-12-20 06:14:17 +0000"
+      "has_bone_meal": "2024-12-20 06:14:17 +0000",
+      "has_bone_block": "2025-01-03 07:05:26 +0000"
     },
     "done": false
   },
@@ -2958,7 +2961,8 @@
   "knightquest:recipes/misc/skeleton_leggings": {
     "criteria": {
       "has_bone": "2024-12-19 04:29:32 +0000",
-      "has_bone_meal": "2024-12-20 06:14:17 +0000"
+      "has_bone_meal": "2024-12-20 06:14:17 +0000",
+      "has_bone_block": "2025-01-03 07:05:26 +0000"
     },
     "done": false
   },
@@ -11485,6 +11489,49 @@
     },
     "done": false
   },
+  "regions_unexplored:recipes/building_blocks/overgrown_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-01-03 07:05:26 +0000"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/soul_vulture": {
+    "criteria": {
+      "killed_by": "2025-01-03 07:05:10 +0000",
+      "killed": "2025-01-03 07:05:10 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-01-03 07:05:26 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-01-03 07:07:30 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:ash_barrens": "2025-01-03 07:20:00 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-01-03 07:07:30 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-01-03 07:07:30 +0000"
+    },
+    "done": false
+  },
   "naturescompass:natures_compass": {
     "criteria": {
       "has_recipe": "2025-01-03 06:43:36 +0000",
@@ -11492,9 +11539,45 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:dismantledto_bones": {
+    "criteria": {
+      "dismantledto_bones_0": "2025-01-03 07:17:04 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/consume_soul": {
+    "criteria": {
+      "coded_trigger": "2025-01-03 07:16:21 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/mortar_and_pestle": {
+    "criteria": {
+      "has_bowl": "2025-01-03 07:07:30 +0000"
+    },
+    "done": false
+  },
   "l2complements:recipes/burnt/burnt/soul_soil": {
     "criteria": {
       "has_soul_soil": "2025-01-03 06:53:04 +0000"
+    },
+    "done": false
+  },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:ash_barrens": "2025-01-03 07:20:00 +0000"
+    },
+    "done": false
+  },
+  "incendium:ash_barrens/root": {
+    "criteria": {
+      "requirement": "2025-01-03 07:20:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-01-03 07:07:30 +0000"
     },
     "done": false
   },
