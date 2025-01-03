@@ -2274,3 +2274,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [03Jan2025 07:18:46.244] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-184, 74], pos: BlockPos{x=-2933, y=78, z=1198}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / eternal_tales:ferbalic_flower_feature_6]
 [03Jan2025 07:20:00.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 has made the advancement [The Dust Settles]
 [03Jan2025 07:20:23.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set marcouwu2005's game mode to Survival Mode
+[03Jan2025 07:29:59.410] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2956, y=47, z=1569} BlockPos{x=-2955, y=46, z=1569}
+[03Jan2025 07:30:06.670] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
+[03Jan2025 07:31:38.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by The Dead King
+[03Jan2025 07:31:38.445] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[03Jan2025 07:31:48.526] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[03Jan2025 07:32:12.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set marcouwu2005's game mode to Creative Mode
+[03Jan2025 07:32:16.794] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13268ms or 265 ticks behind
+[03Jan2025 07:32:32.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set marcouwu2005's game mode to Survival Mode
+[03Jan2025 07:32:34.245] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2470ms or 49 ticks behind
+[03Jan2025 07:32:44.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has reached the goal [Easy Opening]
+[03Jan2025 07:32:53.509] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4283ms or 85 ticks behind
+[03Jan2025 07:34:00.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has completed the challenge [Staff of Blood]

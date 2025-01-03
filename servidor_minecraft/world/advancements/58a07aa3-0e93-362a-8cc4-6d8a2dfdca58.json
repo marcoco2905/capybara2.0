@@ -12361,5 +12361,17 @@
     },
     "done": false
   },
+  "tombstone:adventure/easy_opening": {
+    "criteria": {
+      "coded_trigger": "2025-01-03 07:32:44 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/staff_blood_staff": {
+    "criteria": {
+      "requirement": "2025-01-03 07:34:00 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
