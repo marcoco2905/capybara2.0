@@ -1848,6 +1848,7 @@
       "marsh": "2024-12-19 04:14:38 +0000",
       "old_growth_woodland": "2024-12-26 07:16:08 +0000",
       "maple_woods": "2024-12-19 04:42:50 +0000",
+      "crystalline_chasm": "2025-01-03 06:21:20 +0000",
       "orchard": "2024-12-26 07:17:21 +0000",
       "overgrown_greens": "2024-12-19 04:44:09 +0000",
       "mediterranean_forest": "2024-12-26 08:16:50 +0000",
@@ -1884,6 +1885,7 @@
       "marsh": "2024-12-19 04:14:38 +0000",
       "old_growth_woodland": "2024-12-26 07:16:08 +0000",
       "maple_woods": "2024-12-19 04:42:50 +0000",
+      "crystalline_chasm": "2025-01-03 06:21:20 +0000",
       "orchard": "2024-12-26 07:17:21 +0000",
       "overgrown_greens": "2024-12-19 04:44:09 +0000",
       "mediterranean_forest": "2024-12-26 08:16:50 +0000",
@@ -2035,6 +2037,7 @@
       "glistering_meadow": "2024-12-29 00:37:59 +0000",
       "blackstone_basin": "2024-12-28 08:08:46 +0000",
       "towering_cliffs": "2024-12-19 05:59:28 +0000",
+      "infernal_holt": "2025-01-03 06:20:36 +0000",
       "bamboo_forest": "2024-12-29 06:04:33 +0000",
       "saguaro_desert": "2024-12-26 07:53:41 +0000",
       "temperate_grove": "2024-12-19 05:39:55 +0000",
@@ -9518,10 +9521,11 @@
     "criteria": {
       "mycotoxic_undergrowth": "2024-12-29 00:36:15 +0000",
       "blackstone_basin": "2024-12-28 08:08:46 +0000",
+      "infernal_holt": "2025-01-03 06:20:36 +0000",
       "redstone_abyss": "2025-01-01 10:26:07 +0000",
       "glistering_meadow": "2024-12-29 00:37:59 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/blackstone_wall": {
     "criteria": {
@@ -11369,6 +11373,12 @@
     },
     "done": false
   },
+  "biomesoplenty:recipes/building_blocks/rose_quartz_block": {
+    "criteria": {
+      "has_rose_quartz_chunk": "2025-01-03 06:21:38 +0000"
+    },
+    "done": false
+  },
   "biomesoplenty:recipes/decorations/brimstone_bud": {
     "criteria": {
       "has_brimstone": "2025-01-03 05:49:13 +0000"
@@ -11410,6 +11420,12 @@
       "has_brimstone": "2025-01-03 05:49:13 +0000"
     },
     "done": false
+  },
+  "regions_unexplored:downer": {
+    "criteria": {
+      "dorcel": "2025-01-03 06:20:56 +0000"
+    },
+    "done": true
   },
   "biomesoplenty:recipes/decorations/brimstone_cluster_from_brimstone_stonecutting": {
     "criteria": {
