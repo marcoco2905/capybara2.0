@@ -9962,6 +9962,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-01-03 07:55:36 +0000",
       "minecraft:nether_wastes": "2024-12-29 05:15:14 +0000",
       "minecraft:soul_sand_valley": "2025-01-03 06:52:20 +0000",
       "minecraft:basalt_deltas": "2024-12-29 00:45:47 +0000"
@@ -11590,6 +11591,12 @@
   "incendium:ash_barrens/root": {
     "criteria": {
       "requirement": "2025-01-03 07:20:00 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/discreet_search": {
+    "criteria": {
+      "coded_trigger": "2025-01-03 07:56:58 +0000"
     },
     "done": true
   },

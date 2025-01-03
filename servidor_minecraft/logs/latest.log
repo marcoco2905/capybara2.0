@@ -2331,3 +2331,47 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [03Jan2025 07:49:55.444] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2718ms or 54 ticks behind
 [03Jan2025 07:50:38.261] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved too quickly! -10.497362523800348,-0.08000001311302185,1.5361751358868787
 [03Jan2025 07:50:38.296] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11471ms or 229 ticks behind
+[03Jan2025 07:50:56.827] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 lost connection: Disconnected
+[03Jan2025 07:50:56.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 left the game
+[03Jan2025 07:50:56.944] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[03Jan2025 07:52:15.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 was slain by Butcher
+[03Jan2025 07:52:15.249] [Server thread/INFO] [tombstone/]: The player Kiri080 has successfully been saved
+[03Jan2025 07:52:51.027] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: marcouwu2005[/127.184.139.169:52919] logged in with entity id 108919 at (-1961.5, 84.0, 4174.5)
+[03Jan2025 07:52:51.028] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to marcouwu2005
+[03Jan2025 07:52:51.029] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to marcouwu2005
+[03Jan2025 07:52:51.029] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to marcouwu2005
+[03Jan2025 07:52:51.029] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to marcouwu2005
+[03Jan2025 07:52:51.031] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to marcouwu2005
+[03Jan2025 07:52:51.033] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to marcouwu2005
+[03Jan2025 07:52:51.033] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to marcouwu2005
+[03Jan2025 07:52:51.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 joined the game
+[03Jan2025 07:52:51.076] [Server thread/INFO] [Jade/]: Syncing config to marcouwu2005 (58a07aa3-0e93-362a-8cc4-6d8a2dfdca58)
+[03Jan2025 07:55:59.364] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6539ms or 130 ticks behind
+[03Jan2025 07:56:20.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 was slain by Infern
+[03Jan2025 07:56:20.340] [Server thread/INFO] [tombstone/]: The player Kiri080 has successfully been saved
+[03Jan2025 07:56:58.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 has reached the goal [Discreet Search]
+[03Jan2025 07:57:46.216] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3420, y=51, z=1844} BlockPos{x=-3421, y=51, z=1845}
+[03Jan2025 07:57:55.716] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3411, y=41, z=1844} BlockPos{x=-3410, y=41, z=1844}
+[03Jan2025 07:57:56.771] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3408, y=38, z=1844} BlockPos{x=-3408, y=39, z=1844}
+[03Jan2025 07:57:56.825] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3408, y=38, z=1844} BlockPos{x=-3408, y=39, z=1844}
+[03Jan2025 07:57:56.870] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3408, y=38, z=1844} BlockPos{x=-3408, y=39, z=1844}
+[03Jan2025 07:58:20.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [One with Nature]
+[03Jan2025 07:58:27.364] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3396, y=28, z=1844} BlockPos{x=-3397, y=28, z=1844}
+[03Jan2025 07:58:27.464] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3397, y=28, z=1844} BlockPos{x=-3399, y=28, z=1844}
+[03Jan2025 07:58:27.512] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3397, y=28, z=1844} BlockPos{x=-3399, y=28, z=1844}
+[03Jan2025 07:58:27.563] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3397, y=28, z=1844} BlockPos{x=-3399, y=28, z=1844}
+[03Jan2025 07:58:31.946] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Jan2025 07:58:36.015] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 lost connection: Disconnected
+[03Jan2025 07:58:36.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 left the game
+[03Jan2025 07:59:58.880] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Jan2025 08:00:17.276] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: marcouwu2005[/127.184.139.169:35621] logged in with entity id 113428 at (-1961.1102464897508, 85.24918707874468, 4170.245578963077)
+[03Jan2025 08:00:17.277] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to marcouwu2005
+[03Jan2025 08:00:17.277] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to marcouwu2005
+[03Jan2025 08:00:17.277] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to marcouwu2005
+[03Jan2025 08:00:17.278] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to marcouwu2005
+[03Jan2025 08:00:17.280] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to marcouwu2005
+[03Jan2025 08:00:17.281] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to marcouwu2005
+[03Jan2025 08:00:17.282] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to marcouwu2005
+[03Jan2025 08:00:17.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 joined the game
+[03Jan2025 08:00:17.334] [Server thread/INFO] [Jade/]: Syncing config to marcouwu2005 (58a07aa3-0e93-362a-8cc4-6d8a2dfdca58)
+[03Jan2025 08:00:20.209] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
