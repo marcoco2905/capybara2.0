@@ -11489,9 +11489,28 @@
     },
     "done": false
   },
-  "regions_unexplored:recipes/building_blocks/overgrown_bone_block": {
+  "biomesoplenty:recipes/decorations/mahogany_hanging_sign": {
     "criteria": {
-      "has_bone_block": "2025-01-03 07:05:26 +0000"
+      "has_stripped_logs": "2025-01-03 06:42:50 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/building_blocks/stripped_mahogany_wood": {
+    "criteria": {
+      "has_log": "2025-01-03 06:42:50 +0000"
+    },
+    "done": false
+  },
+  "naturescompass:natures_compass": {
+    "criteria": {
+      "has_recipe": "2025-01-03 06:43:36 +0000",
+      "has_compass": "2025-01-03 06:43:24 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/burnt/burnt/soul_soil": {
+    "criteria": {
+      "has_soul_soil": "2025-01-03 06:53:04 +0000"
     },
     "done": false
   },
@@ -11499,6 +11518,12 @@
     "criteria": {
       "killed_by": "2025-01-03 07:05:10 +0000",
       "killed": "2025-01-03 07:05:10 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:recipes/building_blocks/overgrown_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-01-03 07:05:26 +0000"
     },
     "done": false
   },
@@ -11514,12 +11539,6 @@
     },
     "done": true
   },
-  "incendium:misc/soul_searcher": {
-    "criteria": {
-      "incendium:ash_barrens": "2025-01-03 07:20:00 +0000"
-    },
-    "done": false
-  },
   "farmersdelight:recipes/food/mixed_salad": {
     "criteria": {
       "has_bowl": "2025-01-03 07:07:30 +0000"
@@ -11532,10 +11551,21 @@
     },
     "done": false
   },
-  "naturescompass:natures_compass": {
+  "croptopia:recipes/misc/mortar_and_pestle": {
     "criteria": {
-      "has_recipe": "2025-01-03 06:43:36 +0000",
-      "has_compass": "2025-01-03 06:43:24 +0000"
+      "has_bowl": "2025-01-03 07:07:30 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-01-03 07:07:30 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/consume_soul": {
+    "criteria": {
+      "coded_trigger": "2025-01-03 07:16:21 +0000"
     },
     "done": true
   },
@@ -11545,21 +11575,9 @@
     },
     "done": true
   },
-  "tombstone:adventure/consume_soul": {
+  "incendium:misc/soul_searcher": {
     "criteria": {
-      "coded_trigger": "2025-01-03 07:16:21 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/mortar_and_pestle": {
-    "criteria": {
-      "has_bowl": "2025-01-03 07:07:30 +0000"
-    },
-    "done": false
-  },
-  "l2complements:recipes/burnt/burnt/soul_soil": {
-    "criteria": {
-      "has_soul_soil": "2025-01-03 06:53:04 +0000"
+      "incendium:ash_barrens": "2025-01-03 07:20:00 +0000"
     },
     "done": false
   },
@@ -11574,24 +11592,6 @@
       "requirement": "2025-01-03 07:20:00 +0000"
     },
     "done": true
-  },
-  "farmersdelight:recipes/food/nether_salad": {
-    "criteria": {
-      "has_bowl": "2025-01-03 07:07:30 +0000"
-    },
-    "done": false
-  },
-  "biomesoplenty:recipes/decorations/mahogany_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-01-03 06:42:50 +0000"
-    },
-    "done": false
-  },
-  "biomesoplenty:recipes/building_blocks/stripped_mahogany_wood": {
-    "criteria": {
-      "has_log": "2025-01-03 06:42:50 +0000"
-    },
-    "done": false
   },
   "DataVersion": 3465
 }
