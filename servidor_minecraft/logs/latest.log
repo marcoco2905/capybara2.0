@@ -1030,3 +1030,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [03Jan2025 23:21:05.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by Zombie
 [03Jan2025 23:21:05.698] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
 [03Jan2025 23:21:25.127] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AdventurerEntity['marcouwu2005'/7790, l='ServerLevel[world]', x=-1877.43, y=-2.07, z=3525.51] died: marcouwu2005 was slain by Zombie
+[03Jan2025 23:28:05.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by Zombie
+[03Jan2025 23:28:05.961] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[03Jan2025 23:29:13.940] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AdventurerEntity['marcouwu2005'/10144, l='ServerLevel[world]', x=-1880.02, y=-1.84, z=3520.85] died: marcouwu2005 was roasted by marcouwu2005's dragon breath
