@@ -5210,6 +5210,7 @@
   },
   "divinerpg:recipes/shapeless/green_diamond_chunk": {
     "criteria": {
+      "has_ingot": "2025-01-03 06:01:54 +0000",
       "has_diamond": "2024-12-20 20:08:28 +0000"
     },
     "done": false
@@ -12171,6 +12172,13 @@
     },
     "done": false
   },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_log": "2025-01-03 05:40:16 +0000",
+      "has_recipe": "2025-01-03 05:50:29 +0000"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass_sapling": {
     "criteria": {
       "has_recipe": "2025-01-03 05:50:29 +0000",
@@ -12185,12 +12193,208 @@
     },
     "done": true
   },
-  "naturescompass:natures_compass_log": {
+  "divinerpg:recipes/shaped/arlemite_hoe": {
     "criteria": {
-      "has_log": "2025-01-03 05:40:16 +0000",
-      "has_recipe": "2025-01-03 05:50:29 +0000"
+      "has_ingot": "2025-01-03 06:01:54 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/arlemite_shield": {
+    "criteria": {
+      "has_ingot": "2025-01-03 06:01:54 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shapeless/shadow_bar": {
+    "criteria": {
+      "has_arlemite": "2025-01-03 06:01:54 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/arlemite_minibricks": {
+    "criteria": {
+      "has_ingot": "2025-01-03 06:01:54 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/arlemite_boots": {
+    "criteria": {
+      "has_arlemite_ingot": "2025-01-03 06:01:54 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/arlemite_shovel": {
+    "criteria": {
+      "has_ingot": "2025-01-03 06:01:54 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/arlemite_axe": {
+    "criteria": {
+      "has_ingot": "2025-01-03 06:01:54 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shapeless/corrupted_bullet": {
+    "criteria": {
+      "has_shards": "2025-01-03 06:01:54 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/arlemite_stabber": {
+    "criteria": {
+      "has_arlemite_ingot": "2025-01-03 06:01:54 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/arlemite_leggings": {
+    "criteria": {
+      "has_arlemite_ingot": "2025-01-03 06:01:54 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/arlemite_bricks": {
+    "criteria": {
+      "has_ingot": "2025-01-03 06:01:54 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/arlemite_lamp": {
+    "criteria": {
+      "has_ingot": "2025-01-03 06:01:54 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shapeless/arlemite_nugget": {
+    "criteria": {
+      "has_ingot": "2025-01-03 06:01:54 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/arlemite_pickaxe": {
+    "criteria": {
+      "has_ingot": "2025-01-03 06:01:54 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/arlemite_chestplate": {
+    "criteria": {
+      "has_arlemite_ingot": "2025-01-03 06:01:54 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/arlemite_helmet": {
+    "criteria": {
+      "has_arlemite_ingot": "2025-01-03 06:01:54 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/arlemite_block": {
+    "criteria": {
+      "has_ingot": "2025-01-03 06:01:54 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/corrupted_stone": {
+    "criteria": {
+      "has_shards": "2025-01-03 06:01:54 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-03 06:17:44 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-03 06:17:44 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-03 06:17:44 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-03 06:17:44 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-03 06:17:44 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-03 06:17:44 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-03 06:17:44 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-03 06:17:44 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-03 06:17:44 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2025-01-03 06:17:50 +0000",
+      "log_spam_fixer": "2025-01-03 06:17:44 +0000"
     },
     "done": true
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-03 06:17:44 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-03 06:17:44 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "!bit13": "2025-01-03 06:17:45 +0000",
+      "direct": "2025-01-03 06:17:45 +0000",
+      "!bit14": "2025-01-03 06:17:45 +0000",
+      "!bit11": "2025-01-03 06:17:45 +0000",
+      "!bit12": "2025-01-03 06:17:45 +0000",
+      "not_target": "2025-01-03 06:17:45 +0000",
+      "!bit10": "2025-01-03 06:17:45 +0000",
+      "!bit9": "2025-01-03 06:17:45 +0000",
+      "!bit8": "2025-01-03 06:17:45 +0000",
+      "!bit7": "2025-01-03 06:17:45 +0000",
+      "!bit6": "2025-01-03 06:17:45 +0000",
+      "!bit5": "2025-01-03 06:17:45 +0000",
+      "!bit4": "2025-01-03 06:17:45 +0000",
+      "!bit3": "2025-01-03 06:17:45 +0000",
+      "!bit2": "2025-01-03 06:17:45 +0000",
+      "!bit1": "2025-01-03 06:17:45 +0000",
+      "!bit0": "2025-01-03 06:17:45 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
