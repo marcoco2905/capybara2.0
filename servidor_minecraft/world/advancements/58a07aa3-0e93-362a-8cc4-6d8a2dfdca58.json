@@ -10308,6 +10308,7 @@
   },
   "regions_unexplored:got_wood": {
     "criteria": {
+      "small_oak_log": "2025-01-03 05:45:15 +0000",
       "cobalt_log": "2024-12-28 08:10:08 +0000"
     },
     "done": false
@@ -12170,11 +12171,26 @@
     },
     "done": false
   },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_recipe": "2025-01-03 05:50:29 +0000",
+      "has_sapling": "2025-01-03 05:49:21 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass": {
+    "criteria": {
+      "has_recipe": "2025-01-03 05:50:29 +0000",
+      "has_compass": "2025-01-03 05:50:11 +0000"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass_log": {
     "criteria": {
-      "has_log": "2025-01-03 05:40:16 +0000"
+      "has_log": "2025-01-03 05:40:16 +0000",
+      "has_recipe": "2025-01-03 05:50:29 +0000"
     },
-    "done": false
+    "done": true
   },
   "DataVersion": 3465
 }
