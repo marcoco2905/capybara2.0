@@ -8151,3 +8151,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [03Jan2025 23:40:21.710] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
 [03Jan2025 23:40:31.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by Zombie
 [03Jan2025 23:40:31.081] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[03Jan2025 23:44:42.714] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 23:44:42.740] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 23:46:02.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by Equestrian
+[03Jan2025 23:46:03.431] [Server thread/DEBUG] [tombstone/]: A new grave of the player marcouwu2005 was created at position [x:-1948, y:83, z:4202, dim:minecraft:overworld]
+[03Jan2025 23:46:03.455] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[03Jan2025 23:47:27.406] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AdventurerEntity['marcouwu2005'/15758, l='ServerLevel[world]', x=-1879.55, y=-17.00, z=3526.01] died: marcouwu2005 was slain by Zombie
+[03Jan2025 23:47:27.663] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AdventurerEntity['marcouwu2005'/15788, l='ServerLevel[world]', x=-1877.60, y=-15.80, z=3528.40] died: marcouwu2005 suffocated in a wall
+[03Jan2025 23:49:42.753] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 23:49:42.786] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
