@@ -1025,3 +1025,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [03Jan2025 23:05:50.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 joined the game
 [03Jan2025 23:06:12.032] [Server thread/INFO] [Jade/]: Syncing config to marcouwu2005 (58a07aa3-0e93-362a-8cc4-6d8a2dfdca58)
 [03Jan2025 23:06:13.799] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 23282ms or 465 ticks behind
+[03Jan2025 23:14:02.847] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8180ms or 163 ticks behind
+[03Jan2025 23:19:16.819] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[03Jan2025 23:21:05.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by Zombie
+[03Jan2025 23:21:05.698] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[03Jan2025 23:21:25.127] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AdventurerEntity['marcouwu2005'/7790, l='ServerLevel[world]', x=-1877.43, y=-2.07, z=3525.51] died: marcouwu2005 was slain by Zombie
