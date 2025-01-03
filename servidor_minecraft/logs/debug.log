@@ -12035,3 +12035,29 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [03Jan2025 08:00:20.209] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
 [03Jan2025 08:00:55.053] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03Jan2025 08:00:55.090] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 08:02:43.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was doomed to fall by Butcher
+[03Jan2025 08:02:43.548] [Server thread/DEBUG] [tombstone/]: A new grave of the player marcouwu2005 was created at position [x:-3397, y:59, z:1846, dim:minecraft:the_nether]
+[03Jan2025 08:02:43.552] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[03Jan2025 08:03:19.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by Infern
+[03Jan2025 08:03:19.403] [Server thread/DEBUG] [tombstone/]: A new grave of the player marcouwu2005 was created at position [x:-3370, y:35, z:1844, dim:minecraft:the_nether]
+[03Jan2025 08:03:19.418] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[03Jan2025 08:03:27.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [I see you]
+[03Jan2025 08:03:35.310] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3342, y=16, z=1839} BlockPos{x=-3343, y=15, z=1839}
+[03Jan2025 08:03:35.357] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3342, y=16, z=1839} BlockPos{x=-3343, y=15, z=1839}
+[03Jan2025 08:04:42.780] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (-3596 | 52 | 1588).
+[03Jan2025 08:04:42.780] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[03Jan2025 08:04:42.780] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 4(0) Nodes and 4(0) Rooms
+[03Jan2025 08:04:42.780] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[03Jan2025 08:04:42.781] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 7(0) Nodes and 5(0) Rooms
+[03Jan2025 08:04:42.781] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[03Jan2025 08:04:42.781] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 11(0) Nodes and 6(0) Rooms
+[03Jan2025 08:04:42.781] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[03Jan2025 08:04:42.781] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 9(0) Nodes and 5(0) Rooms
+[03Jan2025 08:04:42.781] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[03Jan2025 08:04:42.782] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 9(0) Nodes and 6(0) Rooms
+[03Jan2025 08:04:43.665] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2289ms or 45 ticks behind
+[03Jan2025 08:04:45.412] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[03Jan2025 08:05:57.250] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 08:05:57.283] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 08:10:57.228] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 08:10:57.260] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

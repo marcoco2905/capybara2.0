@@ -5004,9 +5004,10 @@
   },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
-      "has_gunpowder": "2024-12-19 06:42:34 +0000"
+      "has_gunpowder": "2024-12-19 06:42:34 +0000",
+      "has_the_recipe": "2025-01-03 08:09:04 +0000"
     },
-    "done": false
+    "done": true
   },
   "supplementaries:recipes/flint_block": {
     "criteria": {
@@ -11599,6 +11600,12 @@
       "coded_trigger": "2025-01-03 07:56:58 +0000"
     },
     "done": true
+  },
+  "regions_unexplored:recipes/misc/green_dye_from_barrel_cactus": {
+    "criteria": {
+      "has_barrel_cactus": "2025-01-03 08:08:14 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

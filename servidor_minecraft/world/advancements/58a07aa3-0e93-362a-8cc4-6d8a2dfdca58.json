@@ -3248,9 +3248,10 @@
   },
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
+      "has_the_recipe": "2025-01-03 08:07:12 +0000",
       "has_iron_ingot": "2024-12-19 05:37:36 +0000"
     },
-    "done": false
+    "done": true
   },
   "supplementaries:recipes/goblet": {
     "criteria": {
@@ -10433,9 +10434,10 @@
   },
   "minecraft:recipes/building_blocks/magma_block": {
     "criteria": {
-      "has_magma_cream": "2024-12-28 08:15:15 +0000"
+      "has_magma_cream": "2024-12-28 08:15:15 +0000",
+      "has_the_recipe": "2025-01-03 08:07:22 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
     "criteria": {
@@ -12379,6 +12381,12 @@
   "irons_spellbooks:irons_spellbooks/spell_book_druidic": {
     "criteria": {
       "requirement": "2025-01-03 07:58:20 +0000"
+    },
+    "done": true
+  },
+  "eternal_tales:get_destroyers_eye": {
+    "criteria": {
+      "get_destroyers_eye_0": "2025-01-03 08:03:27 +0000"
     },
     "done": true
   },
