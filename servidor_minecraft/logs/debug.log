@@ -8141,3 +8141,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [03Jan2025 23:29:13.940] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AdventurerEntity['marcouwu2005'/10144, l='ServerLevel[world]', x=-1880.02, y=-1.84, z=3520.85] died: marcouwu2005 was roasted by marcouwu2005's dragon breath
 [03Jan2025 23:29:42.763] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03Jan2025 23:29:42.794] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 23:34:42.747] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 23:34:42.780] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 23:39:08.869] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[03Jan2025 23:39:42.760] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 23:39:42.792] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 23:40:21.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was doomed to fall by Zombie
+[03Jan2025 23:40:21.671] [Server thread/DEBUG] [tombstone/]: A new grave of the player marcouwu2005 was created at position [x:-1879, y:-16, z:3527, dim:minecraft:overworld]
+[03Jan2025 23:40:21.710] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[03Jan2025 23:40:31.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by Zombie
+[03Jan2025 23:40:31.081] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
