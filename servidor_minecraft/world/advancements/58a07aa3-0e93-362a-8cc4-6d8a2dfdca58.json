@@ -12393,12 +12393,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-01-04 00:59:42 +0000"
-    },
-    "done": false
-  },
   "croptopia:recipes/shaped_shepherds_pie": {
     "criteria": {
       "has_corn": "2025-01-04 00:44:14 +0000"
