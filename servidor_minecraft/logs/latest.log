@@ -1042,3 +1042,19 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [03Jan2025 23:46:03.455] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
 [03Jan2025 23:47:27.406] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AdventurerEntity['marcouwu2005'/15758, l='ServerLevel[world]', x=-1879.55, y=-17.00, z=3526.01] died: marcouwu2005 was slain by Zombie
 [03Jan2025 23:47:27.663] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AdventurerEntity['marcouwu2005'/15788, l='ServerLevel[world]', x=-1877.60, y=-15.80, z=3528.40] died: marcouwu2005 suffocated in a wall
+[03Jan2025 23:54:51.638] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 lost connection: Disconnected
+[03Jan2025 23:54:51.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 left the game
+[03Jan2025 23:54:51.684] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[03Jan2025 23:55:23.441] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: marcouwu2005[/127.184.139.169:50905] logged in with entity id 19398 at (-2027.1450824239557, 84.0, 4038.2635371428178)
+[03Jan2025 23:55:23.442] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to marcouwu2005
+[03Jan2025 23:55:23.443] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to marcouwu2005
+[03Jan2025 23:55:23.443] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to marcouwu2005
+[03Jan2025 23:55:23.444] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to marcouwu2005
+[03Jan2025 23:55:23.447] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to marcouwu2005
+[03Jan2025 23:55:23.450] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to marcouwu2005
+[03Jan2025 23:55:23.451] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to marcouwu2005
+[03Jan2025 23:55:23.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 joined the game
+[03Jan2025 23:55:23.517] [Server thread/INFO] [Jade/]: Syncing config to marcouwu2005 (58a07aa3-0e93-362a-8cc4-6d8a2dfdca58)
+[03Jan2025 23:59:29.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was doomed to fall by Flusk Zombie
+[03Jan2025 23:59:29.106] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[03Jan2025 23:59:45.291] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AdventurerEntity['marcouwu2005'/21442, l='ServerLevel[world]', x=-1974.55, y=84.00, z=4163.92] died: marcouwu2005 was roasted by marcouwu2005's dragon breath
