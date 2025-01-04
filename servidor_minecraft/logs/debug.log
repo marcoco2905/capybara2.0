@@ -8445,3 +8445,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Jan2025 00:19:42.768] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Jan2025 00:19:42.802] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [04Jan2025 00:20:17.338] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[04Jan2025 00:24:42.765] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 00:24:42.798] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jan2025 00:29:40.386] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Aslan'/35206, l='ServerLevel[world]', x=-2167.03, y=53.50, z=4110.99] died, message: 'Aslan suffocated in a wall'
+[04Jan2025 00:29:40.387] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Aslan'/35206, l='ServerLevel[world]', x=-2167.03, y=53.50, z=4110.99] died: Aslan suffocated in a wall
+[04Jan2025 00:29:42.785] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 00:29:42.818] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jan2025 00:30:10.940] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
