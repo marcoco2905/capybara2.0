@@ -12437,5 +12437,19 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sign_post_spruce": {
+    "criteria": {
+      "has_spruce_sign": "2025-01-06 00:37:32 +0000"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/murmur": {
+    "criteria": {
+      "killed_by": "2025-01-06 00:40:05 +0000",
+      "killed": "2025-01-06 00:40:06 +0000",
+      "killed_by_head": "2025-01-06 00:40:05 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }

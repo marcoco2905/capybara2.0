@@ -9809,9 +9809,10 @@
   },
   "minecraft:recipes/building_blocks/magma_block": {
     "criteria": {
-      "has_magma_cream": "2024-12-28 08:18:25 +0000"
+      "has_magma_cream": "2024-12-28 08:18:25 +0000",
+      "has_the_recipe": "2025-01-06 01:12:48 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:nether/find_bastion": {
     "criteria": {
@@ -10170,9 +10171,10 @@
   },
   "minecraft:recipes/misc/netherite_ingot": {
     "criteria": {
-      "has_netherite_scrap": "2024-12-29 01:31:25 +0000"
+      "has_netherite_scrap": "2024-12-29 01:31:25 +0000",
+      "has_the_recipe": "2025-01-06 01:11:13 +0000"
     },
-    "done": false
+    "done": true
   },
   "supplementaries:recipes/netherite_door": {
     "criteria": {
@@ -11612,6 +11614,216 @@
       "very_hot": "2025-01-03 08:29:17 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-06 01:11:14 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/blasting/torridite_ingot_from_raw_torridite": {
+    "criteria": {
+      "has_raw_torridite": "2025-01-06 00:56:55 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/netherite_scythe": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-06 01:11:14 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-06 01:11:14 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/raw_torridite_block": {
+    "criteria": {
+      "has_raw_torridite": "2025-01-06 00:56:55 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/combat/netherite_knife_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-06 01:11:14 +0000"
+    },
+    "done": false
+  },
+  "shieldexp:recipes/netherite_shield": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-06 01:11:14 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/netherite_javelin": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-06 01:11:14 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/smelting/torridite_ingot_from_raw_torridite": {
+    "criteria": {
+      "has_raw_torridite": "2025-01-06 00:56:55 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-06 01:11:14 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/netherite_throwing_axe": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-06 01:11:14 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/netherite_hammer": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-06 01:11:14 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-06 01:11:14 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/netherite_round_shield": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-06 01:11:14 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-06 01:11:14 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-06 01:11:14 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/netherite_machete": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-06 01:11:14 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/netherite_claw": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-06 01:11:14 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/netherite_spear": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-06 01:11:14 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/netherite_dagger": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-06 01:11:14 +0000"
+    },
+    "done": false
+  },
+  "galosphere:recipes/combat/sterling_chestplate_smithing": {
+    "criteria": {
+      "has_silver_ingot": "2025-01-06 01:11:14 +0000"
+    },
+    "done": false
+  },
+  "ancient_elements:crafting_in_a_higher_level": {
+    "criteria": {
+      "crafting_in_a_higher_level": "2025-01-06 01:12:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-06 01:11:14 +0000"
+    },
+    "done": false
+  },
+  "galosphere:recipes/combat/sterling_leggings_smithing": {
+    "criteria": {
+      "has_silver_ingot": "2025-01-06 01:11:14 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/netherite_plate_shield": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-06 01:11:14 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-06 01:11:14 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/safe": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-06 01:11:14 +0000"
+    },
+    "done": false
+  },
+  "galosphere:recipes/combat/sterling_boots_smithing": {
+    "criteria": {
+      "has_silver_ingot": "2025-01-06 01:11:14 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-06 01:11:14 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-06 01:11:14 +0000"
+    },
+    "done": false
+  },
+  "galosphere:recipes/combat/sterling_helmet_smithing": {
+    "criteria": {
+      "has_silver_ingot": "2025-01-06 01:11:14 +0000"
+    },
+    "done": false
+  },
+  "galosphere:recipes/combat/sterling_horse_armor_smithing": {
+    "criteria": {
+      "has_silver_ingot": "2025-01-06 01:11:14 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/netherite_nunchaku": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-06 01:11:14 +0000"
+    },
+    "done": false
+  },
+  "l2weaponry:recipes/combat/generated/upgrade/netherite_battle_axe": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-06 01:11:14 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-06 01:11:14 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
