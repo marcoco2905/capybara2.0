@@ -12393,6 +12393,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2025-01-04 00:13:49 +0000"
+    },
+    "done": false
+  },
   "croptopia:recipes/shaped_shepherds_pie": {
     "criteria": {
       "has_corn": "2025-01-04 00:44:14 +0000"
@@ -12408,12 +12414,6 @@
   "croptopia:recipes/corn_husk": {
     "criteria": {
       "has_corn": "2025-01-04 00:44:14 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/red_dye_from_tulip": {
-    "criteria": {
-      "has_red_flower": "2025-01-04 00:13:49 +0000"
     },
     "done": false
   },
