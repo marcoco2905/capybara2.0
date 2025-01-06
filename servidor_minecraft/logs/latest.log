@@ -1233,3 +1233,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06Jan2025 04:58:51.791] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to marcouwu2005
 [06Jan2025 04:58:51.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 joined the game
 [06Jan2025 04:58:51.936] [Server thread/INFO] [Jade/]: Syncing config to marcouwu2005 (58a07aa3-0e93-362a-8cc4-6d8a2dfdca58)
+[06Jan2025 05:04:01.068] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 253c6bbf: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[06Jan2025 05:04:07.042] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 253c6bbf: RandomSpreadSearchWorker succeeded with 4079 radius, 157 samples
+[06Jan2025 05:04:07.045] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2106ms or 42 ticks behind
+[06Jan2025 05:08:38.808] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved too quickly! -14.76361774123734,-2.087979941965898,-11.454161585767906
+[06Jan2025 05:08:56.806] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[06Jan2025 05:09:04.291] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[06Jan2025 05:09:26.100] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[06Jan2025 05:09:43.180] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved too quickly! -10.090760387076443,-3.342962036717637,-13.782196312966335
+[06Jan2025 05:09:46.934] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2245ms or 44 ticks behind
+[06Jan2025 05:09:48.433] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved too quickly! -10.177863592103677,-4.184049475392314,-13.762259885949788

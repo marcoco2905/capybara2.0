@@ -4852,9 +4852,10 @@
   },
   "explorerscompass:explorers_compass_cobweb": {
     "criteria": {
+      "has_recipe": "2025-01-06 05:03:51 +0000",
       "has_cobweb": "2024-12-20 08:12:02 +0000"
     },
-    "done": false
+    "done": true
   },
   "knightquest:recipes/misc/bamboo_blue_leggings": {
     "criteria": {
@@ -6803,9 +6804,10 @@
   },
   "explorerscompass:explorers_compass": {
     "criteria": {
+      "has_recipe": "2025-01-06 05:03:51 +0000",
       "has_compass": "2024-12-20 21:33:20 +0000"
     },
-    "done": false
+    "done": true
   },
   "irons_spellbooks:make_inscription_table": {
     "criteria": {
@@ -7475,9 +7477,10 @@
   },
   "explorerscompass:explorers_compass_cracked_stone_bricks": {
     "criteria": {
+      "has_recipe": "2025-01-06 05:03:51 +0000",
       "has_cracked_stone_bricks": "2024-12-23 08:41:30 +0000"
     },
-    "done": false
+    "done": true
   },
   "supplementaries:husbandry/sus_stew": {
     "criteria": {
