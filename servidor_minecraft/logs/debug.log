@@ -9003,3 +9003,14 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06Jan2025 03:03:54.316] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
 [06Jan2025 03:03:58.724] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [06Jan2025 03:03:58.757] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jan2025 03:08:58.759] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jan2025 03:08:58.796] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jan2025 03:13:58.690] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jan2025 03:13:58.724] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jan2025 03:14:32.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> zzzzzz
+[06Jan2025 03:14:34.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> ZZZZZZZZZZZ
+[06Jan2025 03:16:44.960] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [d406c497-4395-4e01-bee1-88c48dfcdda6]
+[06Jan2025 03:17:05.197] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Thorfin'/24643, l='ServerLevel[world]', x=-1977.80, y=84.88, z=4198.34] died, message: 'Thorfin was slain by Kiri080'
+[06Jan2025 03:17:05.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 has made the advancement [Neighborhood Brawl]
+[06Jan2025 03:17:05.201] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Thorfin'/24643, l='ServerLevel[world]', x=-1977.80, y=84.88, z=4198.34] died: Thorfin was slain by Kiri080
+[06Jan2025 03:17:55.123] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [147f6994-adca-4461-8c21-2f0b59cd8be0]

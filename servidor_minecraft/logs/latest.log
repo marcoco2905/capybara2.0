@@ -1114,3 +1114,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06Jan2025 03:03:29.057] [Server thread/INFO] [tombstone/]: The player Kiri080 has successfully been saved
 [06Jan2025 03:03:54.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 fell from a high place
 [06Jan2025 03:03:54.316] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[06Jan2025 03:14:32.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> zzzzzz
+[06Jan2025 03:14:34.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> ZZZZZZZZZZZ
+[06Jan2025 03:17:05.197] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Thorfin'/24643, l='ServerLevel[world]', x=-1977.80, y=84.88, z=4198.34] died, message: 'Thorfin was slain by Kiri080'
+[06Jan2025 03:17:05.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 has made the advancement [Neighborhood Brawl]
+[06Jan2025 03:17:05.201] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Thorfin'/24643, l='ServerLevel[world]', x=-1977.80, y=84.88, z=4198.34] died: Thorfin was slain by Kiri080
