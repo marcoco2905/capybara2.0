@@ -10066,3 +10066,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06Jan2025 04:31:48.351] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
 [06Jan2025 04:34:14.414] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [06Jan2025 04:34:14.444] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jan2025 04:39:14.429] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jan2025 04:39:14.462] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jan2025 04:42:04.276] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[06Jan2025 04:43:54.300] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Merab'/43247, l='ServerLevel[world]', x=-1973.00, y=84.00, z=4165.05] died, message: 'Merab (Staying) was slain by Equestrian'
+[06Jan2025 04:43:54.303] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Merab'/43247, l='ServerLevel[world]', x=-1973.00, y=84.00, z=4165.05] died: Merab (Staying) was slain by Equestrian
+[06Jan2025 04:44:14.402] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jan2025 04:44:14.432] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jan2025 04:49:14.539] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jan2025 04:49:14.589] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

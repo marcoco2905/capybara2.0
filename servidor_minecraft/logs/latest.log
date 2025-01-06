@@ -1216,3 +1216,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06Jan2025 04:31:27.589] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase Ground Battle (#17) on the server
 [06Jan2025 04:31:48.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by Ender Dragon
 [06Jan2025 04:31:48.351] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[06Jan2025 04:42:04.276] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[06Jan2025 04:43:54.300] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Merab'/43247, l='ServerLevel[world]', x=-1973.00, y=84.00, z=4165.05] died, message: 'Merab (Staying) was slain by Equestrian'
+[06Jan2025 04:43:54.303] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Merab'/43247, l='ServerLevel[world]', x=-1973.00, y=84.00, z=4165.05] died: Merab (Staying) was slain by Equestrian
