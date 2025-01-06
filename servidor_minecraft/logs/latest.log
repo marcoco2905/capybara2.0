@@ -1110,3 +1110,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06Jan2025 01:45:45.752] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AdventurerEntity['marcouwu2005'/28592, l='ServerLevel[world]', x=-1823.68, y=68.00, z=3858.13] died: marcouwu2005 was roasted by marcouwu2005's dragon breath
 [06Jan2025 01:52:53.598] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Fredrik'/28455, l='ServerLevel[world]', x=-1877.42, y=0.92, z=3825.41] died, message: 'Fredrik was slain by Adventurer Zombie'
 [06Jan2025 01:53:09.100] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[06Jan2025 02:00:54.810] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
+[06Jan2025 02:01:02.009] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
+[06Jan2025 02:01:15.651] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
+[06Jan2025 02:02:08.652] [Server thread/ERROR] [net.minecraft.world.entity.ai.village.poi.PoiSection/]: POI data mismatch: never registered at BlockPos{x=-1826, y=-25, z=3949}

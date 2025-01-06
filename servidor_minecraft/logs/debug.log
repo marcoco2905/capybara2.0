@@ -8491,3 +8491,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06Jan2025 01:50:11.709] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [06Jan2025 01:52:53.598] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Fredrik'/28455, l='ServerLevel[world]', x=-1877.42, y=0.92, z=3825.41] died, message: 'Fredrik was slain by Adventurer Zombie'
 [06Jan2025 01:53:09.100] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[06Jan2025 01:55:11.677] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jan2025 01:55:11.716] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jan2025 01:59:57.374] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [176ef04a-8268-4b3a-9a38-fec4b58a4ff5]
+[06Jan2025 02:00:11.712] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jan2025 02:00:11.751] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jan2025 02:00:30.706] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [b025f872-dda8-468b-be21-27e406a87970]
+[06Jan2025 02:00:54.810] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
+[06Jan2025 02:01:02.009] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
+[06Jan2025 02:01:15.651] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
+[06Jan2025 02:02:08.652] [Server thread/ERROR] [net.minecraft.world.entity.ai.village.poi.PoiSection/]: POI data mismatch: never registered at BlockPos{x=-1826, y=-25, z=3949}

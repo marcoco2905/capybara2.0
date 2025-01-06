@@ -10849,6 +10849,7 @@
   },
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
+      "has_chiseled_sandstone": "2025-01-06 01:52:23 +0000",
       "has_sandstone": "2024-12-29 08:55:34 +0000"
     },
     "done": false
@@ -10861,6 +10862,7 @@
   },
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
+      "has_chiseled_sandstone": "2025-01-06 01:52:23 +0000",
       "has_sandstone": "2024-12-29 08:55:34 +0000",
       "has_cut_sandstone": "2025-01-06 01:42:26 +0000"
     },
