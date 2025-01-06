@@ -8948,3 +8948,58 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06Jan2025 02:44:19.907] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [06Jan2025 02:44:37.915] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [06Jan2025 02:46:06.256] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[06Jan2025 02:46:41.342] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[06Jan2025 02:48:20.544] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiri080 moved wrongly!
+[06Jan2025 02:48:58.692] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jan2025 02:48:58.724] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jan2025 02:49:30.992] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiri080 moved wrongly!
+[06Jan2025 02:50:24.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 has completed the challenge [It Spreads]
+[06Jan2025 02:51:06.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> mescucan?
+[06Jan2025 02:51:09.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> mescuchan?
+[06Jan2025 02:51:25.845] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved wrongly! 0.30662699921650605
+[06Jan2025 02:51:35.899] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[06Jan2025 02:51:38.001] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiri080 moved wrongly!
+[06Jan2025 02:52:49.522] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[06Jan2025 02:53:57.511] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=461, y=-58, z=482}
+[06Jan2025 02:53:58.559] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=459, y=-58, z=482}
+[06Jan2025 02:53:58.560] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=460, y=-58, z=482}
+[06Jan2025 02:53:58.874] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jan2025 02:53:58.929] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jan2025 02:53:59.014] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=577, y=-58, z=482}
+[06Jan2025 02:53:59.094] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -2.538489730872243,-3.185933746108134,9.295318080513653
+[06Jan2025 02:53:59.095] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -2.7906582918055847,-3.5045291104794103,10.224764741314402
+[06Jan2025 02:53:59.096] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -3.0425458230586173,-3.8231247303956195,11.154208547138069
+[06Jan2025 02:53:59.097] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -3.29415323604735,-4.141720585804478,12.083653609934345
+[06Jan2025 02:54:02.927] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=461, y=-58, z=482}
+[06Jan2025 02:55:02.622] [Server thread/WARN] [fathertoast.specialai.SpecialAI/]: Attempted to add door-breaking ai to entity 'creeperoverhaul:ocean_creeper' with incompatible navigator 'WaterBoundPathNavigation'
+[06Jan2025 02:55:57.246] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[06Jan2025 02:55:57.742] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ari_fl08) moved too quickly! -11.193457018765912,0.004888358053520392,12.78275502332508
+[06Jan2025 02:55:57.743] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiri080 moved wrongly!
+[06Jan2025 02:55:57.743] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ari_fl08) moved too quickly! -11.174073318300316,0.0048881289891511415,12.821704013953422
+[06Jan2025 02:55:57.744] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ari_fl08) moved too quickly! -11.153727512348269,0.004887798689878764,12.85291323443198
+[06Jan2025 02:55:57.752] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ari_fl08) moved too quickly! -11.133047108030723,0.004887375099499991,12.877752522954324
+[06Jan2025 02:55:57.766] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ari_fl08) moved too quickly! -11.112462691550263,0.004886865538438201,12.8973498624282
+[06Jan2025 02:55:57.794] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ari_fl08) moved too quickly! -11.092259314219518,0.004886276752714025,12.912629494384419
+[06Jan2025 02:55:57.795] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ari_fl08) moved too quickly! -11.0726215273869,0.004885614958993756,12.924343579576089
+[06Jan2025 02:55:57.796] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ari_fl08) moved too quickly! -11.053661271506371,0.004884885886113466,12.933106484732889
+[06Jan2025 02:55:57.811] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ari_fl08) moved too quickly! -11.035438946754539,0.004884094813391471,12.939421428822243
+[06Jan2025 02:55:57.842] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of ari_fl08) moved too quickly! -11.01797862533931,0.00488324660587125,12.943702194620528
+[06Jan2025 02:56:01.292] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiri080 moved wrongly!
+[06Jan2025 02:56:01.693] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[06Jan2025 02:56:04.893] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ari_fl08 moved wrongly!
+[06Jan2025 02:58:58.803] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jan2025 02:58:58.874] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jan2025 03:01:10.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 fell from a high place
+[06Jan2025 03:01:10.619] [Server thread/DEBUG] [tombstone/]: A new grave of the player marcouwu2005 was created at position [x:-1975, y:84, z:4179, dim:minecraft:overworld]
+[06Jan2025 03:01:10.662] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[06Jan2025 03:01:14.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 fell from a high place
+[06Jan2025 03:01:14.047] [Server thread/DEBUG] [tombstone/]: A new grave of the player Kiri080 was created at position [x:-1975, y:84, z:4182, dim:minecraft:overworld]
+[06Jan2025 03:01:14.055] [Server thread/INFO] [tombstone/]: The player Kiri080 has successfully been saved
+[06Jan2025 03:03:29.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 fell from a high place
+[06Jan2025 03:03:29.054] [Server thread/DEBUG] [tombstone/]: A new grave of the player Kiri080 was created at position [x:-1979, y:84, z:4182, dim:minecraft:overworld]
+[06Jan2025 03:03:29.057] [Server thread/INFO] [tombstone/]: The player Kiri080 has successfully been saved
+[06Jan2025 03:03:54.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 fell from a high place
+[06Jan2025 03:03:54.270] [Server thread/DEBUG] [tombstone/]: A new grave of the player marcouwu2005 was created at position [x:-1993, y:84, z:4172, dim:minecraft:overworld]
+[06Jan2025 03:03:54.316] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[06Jan2025 03:03:58.724] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jan2025 03:03:58.757] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
