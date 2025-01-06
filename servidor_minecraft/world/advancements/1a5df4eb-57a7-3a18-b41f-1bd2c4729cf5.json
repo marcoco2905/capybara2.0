@@ -11622,15 +11622,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/netherite_chestplate_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-01-06 01:11:14 +0000"
-    },
-    "done": false
-  },
   "divinerpg:recipes/blasting/torridite_ingot_from_raw_torridite": {
     "criteria": {
       "has_raw_torridite": "2025-01-06 00:56:55 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/raw_torridite_block": {
+    "criteria": {
+      "has_raw_torridite": "2025-01-06 00:56:55 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/smelting/torridite_ingot_from_raw_torridite": {
+    "criteria": {
+      "has_raw_torridite": "2025-01-06 00:56:55 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-06 01:11:14 +0000"
     },
     "done": false
   },
@@ -11640,21 +11652,9 @@
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
-    "criteria": {
-      "has_cut_sandstone": "2025-01-06 01:42:26 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/combat/netherite_helmet_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-01-06 01:11:14 +0000"
-    },
-    "done": false
-  },
-  "divinerpg:recipes/shaped/raw_torridite_block": {
-    "criteria": {
-      "has_raw_torridite": "2025-01-06 00:56:55 +0000"
     },
     "done": false
   },
@@ -11673,18 +11673,6 @@
   "l2weaponry:recipes/combat/generated/upgrade/netherite_javelin": {
     "criteria": {
       "has_netherite_ingot": "2025-01-06 01:11:14 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/acacia_wood": {
-    "criteria": {
-      "has_log": "2025-01-06 01:36:23 +0000"
-    },
-    "done": false
-  },
-  "divinerpg:recipes/smelting/torridite_ingot_from_raw_torridite": {
-    "criteria": {
-      "has_raw_torridite": "2025-01-06 00:56:55 +0000"
     },
     "done": false
   },
@@ -11742,18 +11730,6 @@
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/acacia_planks": {
-    "criteria": {
-      "has_log": "2025-01-06 01:36:23 +0000"
-    },
-    "done": false
-  },
-  "regions_unexplored:recipes/decorations/acacia_branch_from_acacia_log": {
-    "criteria": {
-      "has_log": "2025-01-06 01:36:23 +0000"
-    },
-    "done": false
-  },
   "l2weaponry:recipes/combat/generated/upgrade/netherite_spear": {
     "criteria": {
       "has_netherite_ingot": "2025-01-06 01:11:14 +0000"
@@ -11771,12 +11747,6 @@
       "has_silver_ingot": "2025-01-06 01:11:14 +0000"
     },
     "done": false
-  },
-  "ancient_elements:crafting_in_a_higher_level": {
-    "criteria": {
-      "crafting_in_a_higher_level": "2025-01-06 01:12:56 +0000"
-    },
-    "done": true
   },
   "minecraft:recipes/combat/netherite_boots_smithing": {
     "criteria": {
@@ -11838,23 +11808,11 @@
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
-    "criteria": {
-      "has_cut_sandstone": "2025-01-06 01:42:26 +0000"
-    },
-    "done": false
-  },
   "l2weaponry:recipes/combat/generated/upgrade/netherite_nunchaku": {
     "criteria": {
       "has_netherite_ingot": "2025-01-06 01:11:14 +0000"
     },
     "done": false
-  },
-  "minecraft:story/cure_zombie_villager": {
-    "criteria": {
-      "cured_zombie": "2025-01-06 01:44:40 +0000"
-    },
-    "done": true
   },
   "l2weaponry:recipes/combat/generated/upgrade/netherite_battle_axe": {
     "criteria": {
@@ -11867,6 +11825,48 @@
       "has_netherite_ingot": "2025-01-06 01:11:14 +0000"
     },
     "done": false
+  },
+  "ancient_elements:crafting_in_a_higher_level": {
+    "criteria": {
+      "crafting_in_a_higher_level": "2025-01-06 01:12:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-01-06 01:36:23 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-01-06 01:36:23 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:recipes/decorations/acacia_branch_from_acacia_log": {
+    "criteria": {
+      "has_log": "2025-01-06 01:36:23 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2025-01-06 01:42:26 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2025-01-06 01:42:26 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2025-01-06 01:44:40 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

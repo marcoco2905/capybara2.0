@@ -12456,11 +12456,11 @@
     },
     "done": false
   },
-  "croptopia:recipes/sushi": {
+  "divinerpg:overworld/eye_of_evil": {
     "criteria": {
-      "has_rice": "2025-01-06 01:43:56 +0000"
+      "look_into_the_eye": "2025-01-06 01:34:40 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
     "criteria": {
@@ -12474,33 +12474,21 @@
     },
     "done": false
   },
-  "minecraft:recipes/decorations/armor_stand": {
-    "criteria": {
-      "has_stone_slab": "2025-01-06 02:09:18 +0000"
-    },
-    "done": false
-  },
-  "cnc:wechuge_killed": {
-    "criteria": {
-      "wechuge_killed_0": "2025-01-06 02:09:40 +0000"
-    },
-    "done": true
-  },
-  "divinerpg:overworld/eye_of_evil": {
-    "criteria": {
-      "look_into_the_eye": "2025-01-06 01:34:40 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
     "criteria": {
       "has_smooth_sandstone": "2025-01-06 01:43:09 +0000"
     },
     "done": false
   },
-  "supplementaries:recipes/statue": {
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
     "criteria": {
-      "has_smooth_stone_slab": "2025-01-06 02:09:18 +0000"
+      "has_smooth_sandstone": "2025-01-06 01:43:09 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/sushi": {
+    "criteria": {
+      "has_rice": "2025-01-06 01:43:56 +0000"
     },
     "done": false
   },
@@ -12516,17 +12504,29 @@
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
-    "criteria": {
-      "has_smooth_sandstone": "2025-01-06 01:43:09 +0000"
-    },
-    "done": false
-  },
   "farmersdelight:recipes/building_blocks/rice_bag": {
     "criteria": {
       "has_rice": "2025-01-06 01:43:56 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-01-06 02:09:18 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/statue": {
+    "criteria": {
+      "has_smooth_stone_slab": "2025-01-06 02:09:18 +0000"
+    },
+    "done": false
+  },
+  "cnc:wechuge_killed": {
+    "criteria": {
+      "wechuge_killed_0": "2025-01-06 02:09:40 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
