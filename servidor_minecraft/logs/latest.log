@@ -1219,3 +1219,17 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06Jan2025 04:42:04.276] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
 [06Jan2025 04:43:54.300] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Merab'/43247, l='ServerLevel[world]', x=-1973.00, y=84.00, z=4165.05] died, message: 'Merab (Staying) was slain by Equestrian'
 [06Jan2025 04:43:54.303] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Merab'/43247, l='ServerLevel[world]', x=-1973.00, y=84.00, z=4165.05] died: Merab (Staying) was slain by Equestrian
+[06Jan2025 04:49:31.692] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[06Jan2025 04:55:45.811] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 lost connection: Disconnected
+[06Jan2025 04:55:45.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 left the game
+[06Jan2025 04:55:45.870] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[06Jan2025 04:58:51.782] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: marcouwu2005[/127.184.139.169:42159] logged in with entity id 51055 at (-1971.1458298057673, 84.0, 4174.112923383371)
+[06Jan2025 04:58:51.783] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to marcouwu2005
+[06Jan2025 04:58:51.783] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to marcouwu2005
+[06Jan2025 04:58:51.784] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to marcouwu2005
+[06Jan2025 04:58:51.784] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to marcouwu2005
+[06Jan2025 04:58:51.787] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to marcouwu2005
+[06Jan2025 04:58:51.791] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to marcouwu2005
+[06Jan2025 04:58:51.791] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to marcouwu2005
+[06Jan2025 04:58:51.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 joined the game
+[06Jan2025 04:58:51.936] [Server thread/INFO] [Jade/]: Syncing config to marcouwu2005 (58a07aa3-0e93-362a-8cc4-6d8a2dfdca58)
