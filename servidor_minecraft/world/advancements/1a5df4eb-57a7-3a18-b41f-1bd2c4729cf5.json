@@ -5299,9 +5299,10 @@
   },
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
-      "has_stone_bricks": "2024-12-20 05:50:25 +0000"
+      "has_stone_bricks": "2024-12-20 05:50:25 +0000",
+      "has_the_recipe": "2025-01-06 02:06:51 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
@@ -5337,6 +5338,7 @@
   "supplementaries:recipes/pedestal": {
     "criteria": {
       "has_chiseled_stone_bricks": "2024-12-26 06:02:31 +0000",
+      "has_stone_brick_slab": "2025-01-06 02:06:52 +0000",
       "has_stone_bricks": "2024-12-20 05:50:48 +0000"
     },
     "done": false
