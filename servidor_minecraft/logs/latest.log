@@ -1039,3 +1039,35 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06Jan2025 02:29:36.165] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5347ms or 106 ticks behind
 [06Jan2025 02:34:28.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 fell from a high place
 [06Jan2025 02:34:28.749] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[06Jan2025 02:40:05.087] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 lost connection: Disconnected
+[06Jan2025 02:40:05.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 left the game
+[06Jan2025 02:40:42.589] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: marcouwu2005[/127.184.139.169:42849] logged in with entity id 6533 at (-1960.9899728424768, 84.0, 4195.936838419591)
+[06Jan2025 02:40:42.590] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to marcouwu2005
+[06Jan2025 02:40:42.591] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to marcouwu2005
+[06Jan2025 02:40:42.591] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to marcouwu2005
+[06Jan2025 02:40:42.592] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to marcouwu2005
+[06Jan2025 02:40:42.594] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to marcouwu2005
+[06Jan2025 02:40:42.598] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to marcouwu2005
+[06Jan2025 02:40:42.598] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to marcouwu2005
+[06Jan2025 02:40:42.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 joined the game
+[06Jan2025 02:40:42.766] [Server thread/INFO] [Jade/]: Syncing config to marcouwu2005 (58a07aa3-0e93-362a-8cc4-6d8a2dfdca58)
+[06Jan2025 02:41:26.171] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ari_fl08[/127.136.253.89:52691] logged in with entity id 6776 at (26.425106546719622, -25.0, 86.36520229161476)
+[06Jan2025 02:41:26.172] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ari_fl08
+[06Jan2025 02:41:26.173] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ari_fl08
+[06Jan2025 02:41:26.173] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ari_fl08
+[06Jan2025 02:41:26.174] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ari_fl08
+[06Jan2025 02:41:26.176] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ari_fl08
+[06Jan2025 02:41:26.178] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ari_fl08
+[06Jan2025 02:41:26.179] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ari_fl08
+[06Jan2025 02:41:26.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ari_fl08 joined the game
+[06Jan2025 02:41:26.306] [Server thread/INFO] [Jade/]: Syncing config to ari_fl08 (833472b2-58bd-3eaf-9250-4391b02ef640)
+[06Jan2025 02:43:28.285] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[06Jan2025 02:43:57.244] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -0.8604942981835393,1.365622515872218,-10.996080603583778
+[06Jan2025 02:43:57.244] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -0.9612696578681152,1.5610941420779767,-12.185824944664091
+[06Jan2025 02:43:57.245] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -1.062932944171962,1.7640005415374702,-13.368096866745418
+[06Jan2025 02:43:57.246] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -1.1654841184586076,1.9739799629992945,-14.543142146098035
+[06Jan2025 02:44:07.592] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -0.9452760172205217,-8.642350671550503E-5,-10.862704501772441
+[06Jan2025 02:44:07.594] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of marcouwu2005) moved too quickly! -1.0373027083676334,-9.612315302831576E-5,-11.952327959922968
+[06Jan2025 02:44:19.907] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[06Jan2025 02:44:37.915] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[06Jan2025 02:46:06.256] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
