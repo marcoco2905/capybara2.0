@@ -1204,3 +1204,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06Jan2025 04:15:04.495] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
 [06Jan2025 04:19:42.498] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
 [06Jan2025 04:22:31.457] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[06Jan2025 04:30:39.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [The End?]
+[06Jan2025 04:30:43.407] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5418ms or 108 ticks behind
+[06Jan2025 04:30:53.019] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Scanning for legacy world dragon fight...
+[06Jan2025 04:30:53.089] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Found that the dragon has not yet been killed in this world.
+[06Jan2025 04:30:54.214] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase Hover (#10) on the server
+[06Jan2025 04:30:54.216] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase HoldingPattern (#0) on the server
+[06Jan2025 04:30:54.231] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase Flying (#16) on the server
+[06Jan2025 04:31:08.266] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9877ms or 197 ticks behind
+[06Jan2025 04:31:17.273] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase Landing (#18) on the server
+[06Jan2025 04:31:27.589] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase Ground Battle (#17) on the server
+[06Jan2025 04:31:48.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by Ender Dragon
+[06Jan2025 04:31:48.351] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
