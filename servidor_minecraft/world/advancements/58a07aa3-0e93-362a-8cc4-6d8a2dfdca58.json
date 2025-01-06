@@ -6869,6 +6869,7 @@
   "supplementaries:recipes/pedestal": {
     "criteria": {
       "has_chiseled_stone_bricks": "2024-12-27 18:42:28 +0000",
+      "has_stone_brick_slab": "2025-01-06 02:11:06 +0000",
       "has_stone_bricks": "2024-12-20 21:47:50 +0000"
     },
     "done": false

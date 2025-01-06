@@ -1117,3 +1117,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06Jan2025 02:07:12.290] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [06Jan2025 02:08:00.776] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2265, y=85, z=4080} BlockPos{x=-2266, y=84, z=4080}
 [06Jan2025 02:09:40.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has completed the challenge [Metephor? Never heard of it!]
+[06Jan2025 02:19:48.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 fell from a high place
+[06Jan2025 02:19:48.574] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[06Jan2025 02:21:24.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> ZZZ
