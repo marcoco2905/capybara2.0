@@ -10215,9 +10215,10 @@
   },
   "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
     "criteria": {
-      "has_netherite_upgrade_smithing_template": "2024-12-29 01:34:42 +0000"
+      "has_netherite_upgrade_smithing_template": "2024-12-29 01:34:42 +0000",
+      "has_the_recipe": "2025-01-06 03:35:11 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/netherite_scrap_from_blasting": {
     "criteria": {
@@ -11877,12 +11878,6 @@
     },
     "done": true
   },
-  "tombstone:adventure/neighborhood_brawl": {
-    "criteria": {
-      "coded_trigger": "2025-01-06 03:17:05 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-01-06 03:10:17 +0000"
@@ -11910,6 +11905,72 @@
   "supplementaries:recipes/jar": {
     "criteria": {
       "minecraft:wooden_slabs": "2025-01-06 03:10:17 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2025-01-06 03:17:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-01-06 03:35:36 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/dragon_leggings": {
+    "criteria": {
+      "has_ender_eye": "2025-01-06 03:35:36 +0000"
+    },
+    "done": false
+  },
+  "endertrigon:recipes/tools/dragon_horn": {
+    "criteria": {
+      "has_ender_eye": "2025-01-06 03:35:36 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/dragon_boots": {
+    "criteria": {
+      "has_ender_eye": "2025-01-06 03:35:36 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/ender_lamp": {
+    "criteria": {
+      "has_eye": "2025-01-06 03:35:36 +0000"
+    },
+    "done": false
+  },
+  "l2complements:recipes/enchantments/enchantments/ender_mask": {
+    "criteria": {
+      "has_ender_eye": "2025-01-06 03:35:36 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/dragon_helmet": {
+    "criteria": {
+      "has_ender_eye": "2025-01-06 03:35:36 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-01-06 03:35:36 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/horde_horn": {
+    "criteria": {
+      "has_ender_eye": "2025-01-06 03:35:36 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/dragon_chestplate": {
+    "criteria": {
+      "has_ender_eye": "2025-01-06 03:35:36 +0000"
     },
     "done": false
   },
