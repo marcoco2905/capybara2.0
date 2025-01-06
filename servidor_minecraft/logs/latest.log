@@ -1103,3 +1103,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06Jan2025 01:39:53.605] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved too quickly! 0.0,-11.798174230684271,0.0
 [06Jan2025 01:39:55.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 fell from a high place
 [06Jan2025 01:39:55.272] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[06Jan2025 01:44:40.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 has reached the goal [Zombie Doctor]
+[06Jan2025 01:44:40.869] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
+[06Jan2025 01:45:02.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by Adventurer Zombie
+[06Jan2025 01:45:02.641] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[06Jan2025 01:45:45.752] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AdventurerEntity['marcouwu2005'/28592, l='ServerLevel[world]', x=-1823.68, y=68.00, z=3858.13] died: marcouwu2005 was roasted by marcouwu2005's dragon breath
+[06Jan2025 01:52:53.598] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Fredrik'/28455, l='ServerLevel[world]', x=-1877.42, y=0.92, z=3825.41] died, message: 'Fredrik was slain by Adventurer Zombie'
+[06Jan2025 01:53:09.100] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!

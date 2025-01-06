@@ -10861,7 +10861,8 @@
   },
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
-      "has_sandstone": "2024-12-29 08:55:34 +0000"
+      "has_sandstone": "2024-12-29 08:55:34 +0000",
+      "has_cut_sandstone": "2025-01-06 01:42:26 +0000"
     },
     "done": false
   },
@@ -11635,6 +11636,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2025-01-06 01:42:26 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/combat/netherite_helmet_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-01-06 01:11:14 +0000"
@@ -11827,11 +11834,23 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2025-01-06 01:42:26 +0000"
+    },
+    "done": false
+  },
   "l2weaponry:recipes/combat/generated/upgrade/netherite_nunchaku": {
     "criteria": {
       "has_netherite_ingot": "2025-01-06 01:11:14 +0000"
     },
     "done": false
+  },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2025-01-06 01:44:40 +0000"
+    },
+    "done": true
   },
   "l2weaponry:recipes/combat/generated/upgrade/netherite_battle_axe": {
     "criteria": {

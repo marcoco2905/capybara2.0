@@ -5596,7 +5596,8 @@
   },
   "croptopia:recipes/chicken_and_rice": {
     "criteria": {
-      "has_chicken": "2024-12-20 20:13:00 +0000"
+      "has_chicken": "2024-12-20 20:13:00 +0000",
+      "has_rice": "2025-01-06 01:43:56 +0000"
     },
     "done": false
   },
@@ -6685,7 +6686,8 @@
   "farmersdelight:main/get_fd_seed": {
     "criteria": {
       "cabbage_seeds": "2024-12-20 21:28:01 +0000",
-      "tomato_seeds": "2024-12-26 02:23:20 +0000"
+      "tomato_seeds": "2024-12-26 02:23:20 +0000",
+      "rice": "2025-01-06 01:43:56 +0000"
     },
     "done": false
   },
@@ -11714,6 +11716,7 @@
   },
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
+      "has_chiseled_sandstone": "2025-01-06 01:43:09 +0000",
       "has_sandstone": "2024-12-30 06:17:29 +0000"
     },
     "done": false
@@ -11726,6 +11729,7 @@
   },
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
+      "has_chiseled_sandstone": "2025-01-06 01:43:09 +0000",
       "has_sandstone": "2024-12-30 06:17:29 +0000"
     },
     "done": false
@@ -12451,33 +12455,21 @@
     },
     "done": false
   },
-  "incendium:technical/sentrys_wrath": {
+  "croptopia:recipes/sushi": {
     "criteria": {
-      "log_spam_fixer": "2025-01-06 01:40:11 +0000"
+      "has_rice": "2025-01-06 01:43:56 +0000"
     },
     "done": false
   },
-  "incendium:technical/on_kill": {
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
     "criteria": {
-      "log_spam_fixer": "2025-01-06 01:40:11 +0000"
+      "has_smooth_sandstone": "2025-01-06 01:43:09 +0000"
     },
     "done": false
   },
-  "incendium:technical/on_inventory_change": {
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
     "criteria": {
-      "log_spam_fixer": "2025-01-06 01:40:11 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-06 01:40:11 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-06 01:40:11 +0000"
+      "has_smooth_sandstone": "2025-01-06 01:43:09 +0000"
     },
     "done": false
   },
@@ -12487,45 +12479,33 @@
     },
     "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
     "criteria": {
-      "log_spam_fixer": "2025-01-06 01:40:11 +0000"
+      "has_smooth_sandstone": "2025-01-06 01:43:09 +0000"
     },
     "done": false
   },
-  "incendium:technical/inventory/firestorm": {
+  "croptopia:recipes/steamed_rice": {
     "criteria": {
-      "log_spam_fixer": "2025-01-06 01:40:11 +0000"
+      "has_rice": "2025-01-06 01:43:56 +0000"
     },
     "done": false
   },
-  "incendium:technical/give_ghastling": {
+  "farmersdelight:recipes/cooking/cooked_rice": {
     "criteria": {
-      "log_spam_fixer": "2025-01-06 01:40:11 +0000"
+      "has_rice": "2025-01-06 01:43:56 +0000"
     },
     "done": false
   },
-  "incendium:technical/multiplex_crossbow": {
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
     "criteria": {
-      "log_spam_fixer": "2025-01-06 01:40:11 +0000"
+      "has_smooth_sandstone": "2025-01-06 01:43:09 +0000"
     },
     "done": false
   },
-  "incendium:technical/on_player_hurt": {
+  "farmersdelight:recipes/building_blocks/rice_bag": {
     "criteria": {
-      "log_spam_fixer": "2025-01-06 01:40:11 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-06 01:40:11 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-06 01:40:11 +0000"
+      "has_rice": "2025-01-06 01:43:56 +0000"
     },
     "done": false
   },
