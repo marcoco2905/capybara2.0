@@ -1088,3 +1088,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Jan2025 23:30:13.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 joined the game
 [07Jan2025 23:30:35.137] [Server thread/INFO] [Jade/]: Syncing config to Kiri080 (1a5df4eb-57a7-3a18-b41f-1bd2c4729cf5)
 [07Jan2025 23:30:37.126] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 24357ms or 487 ticks behind
+[07Jan2025 23:39:42.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 has completed the challenge [It Spreads]
+[07Jan2025 23:40:54.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 has made the advancement [Sneak 100]
+[07Jan2025 23:41:36.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 has reached the goal [A Metropolis of Restless Souls]
