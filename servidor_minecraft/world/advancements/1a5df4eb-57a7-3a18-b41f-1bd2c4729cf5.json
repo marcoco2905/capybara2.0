@@ -12232,6 +12232,12 @@
     },
     "done": false
   },
+  "deeperdarker:recipes/misc/warden_upgrade_smithing_template": {
+    "criteria": {
+      "has_warden_upgrade_smithing_template": "2025-01-08 16:16:34 +0000"
+    },
+    "done": false
+  },
   "l2complements:recipes/misc/vanilla/renew/reinforced_deepslate": {
     "criteria": {
       "has_warden_bone_shard": "2025-01-08 16:09:53 +0000"
@@ -12244,9 +12250,21 @@
     },
     "done": false
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-01-08 16:31:50 +0000"
+    },
+    "done": false
+  },
   "deeperdarker:main/kill_warden": {
     "criteria": {
       "warden": "2025-01-08 16:09:52 +0000"
+    },
+    "done": true
+  },
+  "ancient_elements:beneath_the_bedrock": {
+    "criteria": {
+      "beneath_the_bedrock": "2025-01-08 16:29:02 +0000"
     },
     "done": true
   },

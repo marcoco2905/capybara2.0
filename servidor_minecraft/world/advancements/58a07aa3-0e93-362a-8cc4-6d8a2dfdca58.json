@@ -2367,6 +2367,7 @@
   },
   "knightquest:recipes/misc/cleaver_heavy_axe": {
     "criteria": {
+      "has_diamond_axe": "2025-01-08 16:17:50 +0000",
       "has_ink_sac": "2024-12-19 05:09:47 +0000"
     },
     "done": false
@@ -2427,6 +2428,7 @@
   },
   "knightquest:recipes/misc/cleaver": {
     "criteria": {
+      "has_diamond_axe": "2025-01-08 16:17:50 +0000",
       "has_ink_sac": "2024-12-19 05:09:47 +0000"
     },
     "done": false
@@ -12717,6 +12719,12 @@
   "minecraft:recipes/misc/ward_armor_trim_smithing_template": {
     "criteria": {
       "has_ward_armor_trim_smithing_template": "2025-01-06 07:19:35 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/misc/reinforced_echo_shard": {
+    "criteria": {
+      "has_warden_carapace": "2025-01-08 16:17:33 +0000"
     },
     "done": false
   },

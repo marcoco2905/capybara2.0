@@ -1123,3 +1123,34 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jan2025 16:12:57.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> esta op
 [08Jan2025 16:13:01.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> te hace ver moustros
 [08Jan2025 16:13:04.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> es hechizo
+[08Jan2025 16:15:58.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> ole
+[08Jan2025 16:18:44.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by Warden
+[08Jan2025 16:18:44.569] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[08Jan2025 16:18:48.000] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AdventurerEntity['marcouwu2005'/9588, l='ServerLevel[world]', x=-4441.02, y=-51.00, z=982.75] died: marcouwu2005 caught marcouwu2005 in sculk
+[08Jan2025 16:19:01.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> mas trasite zombies
+[08Jan2025 16:19:25.106] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[08Jan2025 16:19:26.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> SKJKASJJSAKS
+[08Jan2025 16:19:28.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> a
+[08Jan2025 16:23:25.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by Warden
+[08Jan2025 16:23:25.450] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[08Jan2025 16:23:37.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> uy no
+[08Jan2025 16:25:33.606] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[08Jan2025 16:29:02.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 has completed the challenge [Beneath The Bedrock]
+[08Jan2025 16:29:02.600] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiri080 moved too quickly! 4945.427078521985,14.514599404733048,-0.17510532020492064
+[08Jan2025 16:29:13.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 fell out of the world
+[08Jan2025 16:29:13.185] [Server thread/INFO] [tombstone/]: The player Kiri080 has successfully been saved
+[08Jan2025 16:29:15.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> que
+[08Jan2025 16:29:20.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> QUE
+[08Jan2025 16:29:24.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> JULIO Q MRDA HAS HECHO
+[08Jan2025 16:29:25.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> que
+[08Jan2025 16:29:32.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> no entendi
+[08Jan2025 16:29:39.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> me tepeo de la nd
+[08Jan2025 16:29:40.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> rompiste bedrock?
+[08Jan2025 16:29:51.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> no
+[08Jan2025 16:30:17.433] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[08Jan2025 16:30:17.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> se activo el efecto ese
+[08Jan2025 16:30:22.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> de tepearme aleatorio
+[08Jan2025 16:31:40.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 fell from a high place
+[08Jan2025 16:31:40.803] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[08Jan2025 16:31:43.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> a
+[08Jan2025 16:31:53.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> AJSAKJAS
