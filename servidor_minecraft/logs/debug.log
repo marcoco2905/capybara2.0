@@ -8435,3 +8435,21 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jan2025 16:51:10.031] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [08Jan2025 16:51:10.073] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [08Jan2025 16:52:28.354] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4456, y=-52, z=912} BlockPos{x=-4457, y=-52, z=909}
+[08Jan2025 16:54:21.096] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[08Jan2025 16:56:09.859] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jan2025 16:56:09.911] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jan2025 16:56:33.890] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved wrongly!
+[08Jan2025 16:57:57.331] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[08Jan2025 16:58:01.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 has reached the goal [Rock 'n' Roll]
+[08Jan2025 16:58:14.750] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2433ms or 48 ticks behind
+[08Jan2025 16:58:22.541] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiri080 moved too quickly! -0.5331439923083963,-11.760148255333341,0.2308177822867492
+[08Jan2025 16:58:37.049] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:telekinesis 1: [56fbec61-b7cb-4124-9417-f5c76fd6bc29]
+[08Jan2025 16:58:48.954] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved too quickly! 2191.061840378905,-25.985394157965317,0.026409872700241976
+[08Jan2025 16:59:19.693] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[08Jan2025 17:00:32.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set marcouwu2005's game mode to Creative Mode
+[08Jan2025 17:00:49.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> sha vuelvo
+[08Jan2025 17:00:50.502] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiri080 lost connection: Disconnected
+[08Jan2025 17:00:50.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 left the game
+[08Jan2025 17:00:57.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set marcouwu2005's game mode to Survival Mode
+[08Jan2025 17:01:16.154] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jan2025 17:01:16.186] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
