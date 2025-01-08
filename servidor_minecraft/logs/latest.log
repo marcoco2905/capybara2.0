@@ -1120,3 +1120,25 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jan2025 17:00:50.502] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiri080 lost connection: Disconnected
 [08Jan2025 17:00:50.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 left the game
 [08Jan2025 17:00:57.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set marcouwu2005's game mode to Survival Mode
+[08Jan2025 17:04:37.870] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kiri080[/127.184.139.169:33163] logged in with entity id 14892 at (-4395.407544979422, -49.0, 821.856003838723)
+[08Jan2025 17:04:37.872] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Kiri080
+[08Jan2025 17:04:37.872] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Kiri080
+[08Jan2025 17:04:37.873] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Kiri080
+[08Jan2025 17:04:37.874] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Kiri080
+[08Jan2025 17:04:37.877] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Kiri080
+[08Jan2025 17:04:37.881] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Kiri080
+[08Jan2025 17:04:37.881] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Kiri080
+[08Jan2025 17:04:37.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 joined the game
+[08Jan2025 17:04:37.975] [Server thread/INFO] [Jade/]: Syncing config to Kiri080 (1a5df4eb-57a7-3a18-b41f-1bd2c4729cf5)
+[08Jan2025 17:04:40.479] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[08Jan2025 17:04:59.852] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillagerEntityMCA['Varda'/12816, l='ServerLevel[world]', x=-2025.63, y=37.00, z=4244.98] died: Varda was slain by Vampire in Flight
+[08Jan2025 17:06:39.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 has made the advancement [Lorem Ipsum]
+[08Jan2025 17:08:55.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by Door Knight
+[08Jan2025 17:08:55.399] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[08Jan2025 17:15:54.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> heeee....
+[08Jan2025 17:17:51.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was slain by Nightmare Stalker
+[08Jan2025 17:17:51.142] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[08Jan2025 17:18:12.389] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AdventurerEntity['marcouwu2005'/24841, l='ServerLevel[world]', x=-1989.76, y=93.91, z=4177.16] died: marcouwu2005's atoms were crushed in marcouwu2005's black hole
+[08Jan2025 17:19:03.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has reached the goal [Fighting Nightmares]
+[08Jan2025 17:21:42.011] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1977, y=85, z=4173} BlockPos{x=-1976, y=83, z=4174}
+[08Jan2025 17:21:42.100] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1977, y=85, z=4173} BlockPos{x=-1976, y=83, z=4174}
