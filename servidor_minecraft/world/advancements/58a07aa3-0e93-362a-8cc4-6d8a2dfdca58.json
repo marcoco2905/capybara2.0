@@ -12728,5 +12728,11 @@
     },
     "done": false
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_netherite": {
+    "criteria": {
+      "requirement": "2025-01-08 16:50:32 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
