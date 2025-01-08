@@ -1146,3 +1146,18 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jan2025 17:31:45.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> tas bn chamito?
 [08Jan2025 17:32:25.807] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiri080 lost connection: Timed out
 [08Jan2025 17:32:25.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 left the game
+[08Jan2025 17:47:24.078] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kiri080[/127.184.139.169:36121] logged in with entity id 39358 at (-4396.074999988079, -49.0, 819.6999999880791)
+[08Jan2025 17:47:24.079] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Kiri080
+[08Jan2025 17:47:24.079] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Kiri080
+[08Jan2025 17:47:24.080] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Kiri080
+[08Jan2025 17:47:24.080] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Kiri080
+[08Jan2025 17:47:24.082] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Kiri080
+[08Jan2025 17:47:24.085] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Kiri080
+[08Jan2025 17:47:24.085] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Kiri080
+[08Jan2025 17:47:24.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 joined the game
+[08Jan2025 17:47:24.143] [Server thread/INFO] [Jade/]: Syncing config to Kiri080 (1a5df4eb-57a7-3a18-b41f-1bd2c4729cf5)
+[08Jan2025 18:02:58.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> chamito ya me woy
+[08Jan2025 18:03:00.293] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 lost connection: Disconnected
+[08Jan2025 18:03:00.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 left the game
+[08Jan2025 18:05:19.533] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiri080 lost connection: Disconnected
+[08Jan2025 18:05:19.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 left the game
