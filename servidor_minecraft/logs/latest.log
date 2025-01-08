@@ -1142,3 +1142,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jan2025 17:19:03.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has reached the goal [Fighting Nightmares]
 [08Jan2025 17:21:42.011] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1977, y=85, z=4173} BlockPos{x=-1976, y=83, z=4174}
 [08Jan2025 17:21:42.100] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1977, y=85, z=4173} BlockPos{x=-1976, y=83, z=4174}
+[08Jan2025 17:25:28.320] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[08Jan2025 17:31:45.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> tas bn chamito?
+[08Jan2025 17:32:25.807] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiri080 lost connection: Timed out
+[08Jan2025 17:32:25.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 left the game
