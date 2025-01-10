@@ -1160,3 +1160,60 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Jan2025 18:39:58.945] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 lost connection: Disconnected
 [10Jan2025 18:39:58.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 left the game
 [10Jan2025 18:50:59.873] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[10Jan2025 18:54:58.434] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: marcouwu2005[/127.200.188.28:34555] logged in with entity id 38298 at (-1965.1061811399404, 68.02370928285534, 4223.566948417003)
+[10Jan2025 18:54:58.434] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to marcouwu2005
+[10Jan2025 18:54:58.435] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to marcouwu2005
+[10Jan2025 18:54:58.435] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to marcouwu2005
+[10Jan2025 18:54:58.436] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to marcouwu2005
+[10Jan2025 18:54:58.438] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to marcouwu2005
+[10Jan2025 18:54:58.440] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to marcouwu2005
+[10Jan2025 18:54:58.441] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to marcouwu2005
+[10Jan2025 18:54:58.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 joined the game
+[10Jan2025 18:54:58.570] [Server thread/INFO] [Jade/]: Syncing config to marcouwu2005 (58a07aa3-0e93-362a-8cc4-6d8a2dfdca58)
+[10Jan2025 18:55:22.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> WUENAS
+[10Jan2025 18:55:26.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> chamo
+[10Jan2025 18:55:29.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> de casualidad
+[10Jan2025 18:55:33.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> tienes un ataque llamado
+[10Jan2025 18:55:36.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> sonic boom?
+[10Jan2025 18:55:50.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> o que ponga que haga eso
+[10Jan2025 18:55:57.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> creo q zi
+[10Jan2025 18:56:07.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> las elytras se pueden craftear con eso
+[10Jan2025 18:56:17.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> siendo especificos
+[10Jan2025 18:56:28.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> se llama estallido sonico es ese?
+[10Jan2025 18:56:28.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> matando a un pollo con ese ataque
+[10Jan2025 18:56:31.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> si
+[10Jan2025 18:56:43.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> tienes que matar a pollos con ese ataque
+[10Jan2025 18:56:46.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> mato un pollo con ese ataque?
+[10Jan2025 18:56:53.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> y deberia darte una pluma especial el pollo
+[10Jan2025 18:56:56.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> comprueba a ver
+[10Jan2025 18:57:26.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> tb no hay que dormir
+[10Jan2025 18:57:29.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> ocupamos phantoms
+[10Jan2025 18:57:39.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> TENGO membranas
+[10Jan2025 18:57:52.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> si, pero pide matar a los phantoms
+[10Jan2025 18:57:56.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> con un atq especial
+[10Jan2025 18:57:58.175] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[10Jan2025 18:58:02.760] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 moved too quickly! -3.7508927669857712,-0.18009620595312015,17.434433127050397
+[10Jan2025 18:58:02.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> A
+[10Jan2025 18:58:04.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> asi como el pollo
+[10Jan2025 18:58:13.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> primero comprueba lo del pollo
+[10Jan2025 18:58:14.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> no he visto phantom en todo lo q va del server+
+[10Jan2025 18:58:17.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> si furula tamos bn
+[10Jan2025 18:58:27.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> es que nunca pasamos mas de 4 dias sin dormir
+[10Jan2025 18:59:11.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> me diopplumas normals
+[10Jan2025 18:59:20.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> marco
+[10Jan2025 18:59:24.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> no es matarlo
+[10Jan2025 18:59:26.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> acabo de leer
+[10Jan2025 18:59:28.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> a
+[10Jan2025 18:59:30.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> es que sobreviva
+[10Jan2025 18:59:32.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> al ataque
+[10Jan2025 18:59:33.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> JSADJKA
+[10Jan2025 18:59:36.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> y como c hace eso
+[10Jan2025 18:59:47.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> supongo que tienes que hecharle defensas al pollo
+[10Jan2025 18:59:52.925] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[10Jan2025 18:59:52.925] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[10Jan2025 18:59:56.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> osea le tienes que atacar con eso
+[10Jan2025 19:00:03.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> y el pollo debe vivir luego de eso
+[10Jan2025 19:00:10.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> de q mod es?
+[10Jan2025 19:00:19.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> l2 complements
+[10Jan2025 19:00:26.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> resonant feather
+[10Jan2025 19:00:32.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> el objeto
