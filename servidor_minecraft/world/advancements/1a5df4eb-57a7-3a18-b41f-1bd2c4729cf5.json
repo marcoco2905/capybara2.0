@@ -12601,5 +12601,17 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-01-10 23:06:35 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:recipes/decorations/spruce_branch_from_spruce_log": {
+    "criteria": {
+      "has_log": "2025-01-10 23:06:35 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }
