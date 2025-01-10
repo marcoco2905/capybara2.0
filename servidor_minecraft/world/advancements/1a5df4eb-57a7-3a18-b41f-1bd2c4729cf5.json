@@ -948,6 +948,7 @@
       "minecraft:sunflower_plains": "2025-01-06 06:45:52 +0000",
       "minecraft:badlands": "2024-12-26 08:14:35 +0000",
       "minecraft:beach": "2024-12-27 04:34:04 +0000",
+      "minecraft:stony_peaks": "2025-01-10 22:09:50 +0000",
       "minecraft:river": "2024-12-19 04:02:40 +0000",
       "minecraft:lukewarm_ocean": "2024-12-26 03:53:57 +0000",
       "minecraft:stony_shore": "2025-01-06 07:37:34 +0000",
@@ -1106,6 +1107,7 @@
   },
   "croptopia:gather_food": {
     "criteria": {
+      "anchovy": "2025-01-10 22:02:34 +0000",
       "calamari": "2024-12-19 04:02:44 +0000",
       "glowing_calamari": "2024-12-30 05:12:44 +0000"
     },
@@ -1797,6 +1799,7 @@
   },
   "croptopia:recipes/fruit_smoothie": {
     "criteria": {
+      "has_milk": "2025-01-10 19:38:41 +0000",
       "has_fruit": "2024-12-19 04:10:56 +0000",
       "has_ice": "2024-12-29 06:48:28 +0000"
     },
@@ -2058,12 +2061,14 @@
       "redstone_abyss": "2025-01-01 10:26:07 +0000",
       "pine_taiga": "2025-01-06 06:42:46 +0000",
       "bayou": "2024-12-26 07:27:08 +0000",
+      "sparse_rainforest": "2025-01-10 21:13:12 +0000",
       "muddy_river": "2024-12-19 04:52:38 +0000",
       "autumnal_maple_forest": "2025-01-07 05:15:17 +0000",
       "prismachasm": "2024-12-26 08:00:25 +0000",
       "marsh": "2024-12-26 07:28:17 +0000",
       "willow_forest": "2024-12-28 06:16:09 +0000",
       "frozen_tundra": "2025-01-06 06:57:59 +0000",
+      "rocky_reef": "2025-01-10 20:51:52 +0000",
       "redstone_caves": "2024-12-26 08:00:14 +0000",
       "grassy_beach": "2024-12-26 03:53:49 +0000",
       "blackwood_taiga": "2024-12-19 04:26:19 +0000",
@@ -2082,6 +2087,7 @@
       "glistering_meadow": "2024-12-29 00:37:59 +0000",
       "blackstone_basin": "2024-12-28 08:08:46 +0000",
       "towering_cliffs": "2024-12-19 05:59:28 +0000",
+      "chalk_cliffs": "2025-01-10 21:02:19 +0000",
       "infernal_holt": "2025-01-03 06:20:36 +0000",
       "bamboo_forest": "2024-12-29 06:04:33 +0000",
       "saguaro_desert": "2024-12-26 07:53:41 +0000",
@@ -2103,11 +2109,13 @@
       "shrubland": "2024-12-19 05:40:07 +0000",
       "pine_taiga": "2025-01-06 06:42:46 +0000",
       "bayou": "2024-12-26 07:27:08 +0000",
+      "sparse_rainforest": "2025-01-10 21:13:12 +0000",
       "muddy_river": "2024-12-19 04:52:38 +0000",
       "autumnal_maple_forest": "2025-01-07 05:15:17 +0000",
       "marsh": "2024-12-26 07:28:17 +0000",
       "willow_forest": "2024-12-28 06:16:09 +0000",
       "frozen_tundra": "2025-01-06 06:57:59 +0000",
+      "rocky_reef": "2025-01-10 20:51:52 +0000",
       "grassy_beach": "2024-12-26 03:53:49 +0000",
       "blackwood_taiga": "2024-12-19 04:26:19 +0000",
       "rocky_meadow": "2024-12-28 06:12:52 +0000",
@@ -2122,6 +2130,7 @@
       "deciduous_forest": "2024-12-27 04:37:45 +0000",
       "boreal_forest": "2024-12-19 04:52:35 +0000",
       "towering_cliffs": "2024-12-19 05:59:28 +0000",
+      "chalk_cliffs": "2025-01-10 21:02:19 +0000",
       "bamboo_forest": "2024-12-29 06:04:33 +0000",
       "saguaro_desert": "2024-12-26 07:53:41 +0000",
       "temperate_grove": "2024-12-19 05:39:55 +0000",
@@ -2515,6 +2524,7 @@
   },
   "supplementaries:recipes/spring_launcher": {
     "criteria": {
+      "has_sticky_piston": "2025-01-10 20:24:41 +0000",
       "has_gunpowder": "2024-12-19 06:42:34 +0000",
       "has_iron_ingot": "2024-12-19 04:28:21 +0000"
     },
@@ -2843,7 +2853,9 @@
       "minecraft:piglin_brute": "2024-12-28 08:30:05 +0000",
       "minecraft:creeper": "2024-12-23 09:20:58 +0000",
       "minecraft:slime": "2024-12-20 05:51:50 +0000",
+      "minecraft:evoker": "2025-01-10 22:11:36 +0000",
       "minecraft:zombified_piglin": "2024-12-29 00:41:06 +0000",
+      "minecraft:witch": "2025-01-10 22:31:44 +0000",
       "minecraft:wither_skeleton": "2024-12-23 09:30:24 +0000",
       "minecraft:husk": "2024-12-29 06:58:27 +0000",
       "minecraft:cave_spider": "2024-12-20 07:46:40 +0000",
@@ -2871,7 +2883,9 @@
       "minecraft:piglin_brute": "2024-12-28 08:30:05 +0000",
       "minecraft:creeper": "2024-12-23 09:20:58 +0000",
       "minecraft:slime": "2024-12-20 05:51:50 +0000",
+      "minecraft:evoker": "2025-01-10 22:11:36 +0000",
       "minecraft:zombified_piglin": "2024-12-29 00:41:06 +0000",
+      "minecraft:witch": "2025-01-10 22:31:44 +0000",
       "minecraft:wither_skeleton": "2024-12-23 09:30:24 +0000",
       "minecraft:husk": "2024-12-29 06:58:27 +0000",
       "minecraft:cave_spider": "2024-12-20 07:46:40 +0000",
@@ -5108,7 +5122,8 @@
   "supplementaries:recipes/candy": {
     "criteria": {
       "has_sugar": "2024-12-20 21:07:14 +0000",
-      "has_paper": "2024-12-19 06:42:43 +0000"
+      "has_paper": "2024-12-19 06:42:43 +0000",
+      "has_honey_bottle": "2025-01-10 21:50:56 +0000"
     },
     "done": false
   },
@@ -6553,7 +6568,8 @@
   "supplementaries:recipes/pancake_fd": {
     "criteria": {
       "forge:eggs": "2024-12-30 07:21:07 +0000",
-      "has_sugar": "2024-12-20 21:07:14 +0000"
+      "has_sugar": "2024-12-20 21:07:14 +0000",
+      "forge:milk": "2025-01-10 19:38:41 +0000"
     },
     "done": false
   },
@@ -8283,7 +8299,8 @@
   },
   "knightquest:recipes/misc/pirate2_helmet": {
     "criteria": {
-      "has_black_carpet": "2024-12-26 06:19:55 +0000"
+      "has_black_carpet": "2024-12-26 06:19:55 +0000",
+      "has_red_carpet": "2025-01-10 22:32:23 +0000"
     },
     "done": false
   },
@@ -10003,6 +10020,7 @@
   },
   "soulsweapons:all_weapons": {
     "criteria": {
+      "soul_reaper": "2025-01-10 20:35:45 +0000",
       "guts": "2024-12-29 00:21:22 +0000",
       "darkin_blade": "2024-12-29 01:18:16 +0000",
       "nightfall": "2024-12-29 06:35:40 +0000"
@@ -10146,9 +10164,10 @@
   },
   "soulsweapons:recipes/combat/soul_reaper": {
     "criteria": {
-      "has_item": "2024-12-29 01:18:15 +0000"
+      "has_item": "2024-12-29 01:18:15 +0000",
+      "has_the_recipe": "2025-01-10 20:35:45 +0000"
     },
-    "done": false
+    "done": true
   },
   "soulsweapons:recipes/combat/leviathan_axe_left": {
     "criteria": {
@@ -10413,9 +10432,10 @@
   },
   "soulsweapons:recipes/combat/silver_bullet_iron_ingot": {
     "criteria": {
-      "has_lost_soul": "2024-12-29 06:17:42 +0000"
+      "has_lost_soul": "2024-12-29 06:17:42 +0000",
+      "has_the_recipe": "2025-01-10 19:59:18 +0000"
     },
-    "done": false
+    "done": true
   },
   "soulsweapons:recipes/misc/iron_skull": {
     "criteria": {
@@ -10437,9 +10457,10 @@
   },
   "soulsweapons:recipes/combat/hunter_cannon": {
     "criteria": {
-      "has_lost_soul": "2024-12-29 06:17:42 +0000"
+      "has_lost_soul": "2024-12-29 06:17:42 +0000",
+      "has_the_recipe": "2025-01-10 19:59:04 +0000"
     },
-    "done": false
+    "done": true
   },
   "soulsweapons:recipes/combat/gatling_gun": {
     "criteria": {
@@ -11107,12 +11128,14 @@
   },
   "croptopia:recipes/crema": {
     "criteria": {
+      "has_milk": "2025-01-10 19:38:41 +0000",
       "has_salt": "2024-12-30 06:24:07 +0000"
     },
     "done": false
   },
   "croptopia:recipes/butter": {
     "criteria": {
+      "has_milk": "2025-01-10 19:38:41 +0000",
       "has_salt": "2024-12-30 06:24:07 +0000"
     },
     "done": false
@@ -11125,6 +11148,7 @@
   },
   "croptopia:recipes/cheese": {
     "criteria": {
+      "has_milk": "2025-01-10 19:38:41 +0000",
       "has_salt": "2024-12-30 06:24:07 +0000"
     },
     "done": false
@@ -12283,6 +12307,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2025-01-10 17:53:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2025-01-10 18:11:23 +0000"
@@ -12325,15 +12355,249 @@
     },
     "done": false
   },
-  "farmersdelight:main/eat_nourishing_food": {
-    "criteria": {
-      "nourishment": "2025-01-10 17:53:39 +0000"
-    },
-    "done": true
-  },
   "croptopia:recipes/chicken_and_noodles": {
     "criteria": {
       "has_chicken": "2025-01-10 18:11:23 +0000"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/sunbird_blessing": {
+    "criteria": {
+      "all_effects": "2025-01-10 19:17:48 +0000"
+    },
+    "done": true
+  },
+  "ancient_elements:it_burns": {
+    "criteria": {
+      "it_burns": "2025-01-10 19:30:30 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/doughnut": {
+    "criteria": {
+      "has_milk": "2025-01-10 19:38:41 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/oatmeal": {
+    "criteria": {
+      "has_milk": "2025-01-10 19:38:41 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-10 19:38:41 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shaped/milky_lamp": {
+    "criteria": {
+      "has_milk": "2025-01-10 19:38:41 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/shaped_milk_bottle": {
+    "criteria": {
+      "has_milk": "2025-01-10 19:38:41 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/churros": {
+    "criteria": {
+      "has_milk": "2025-01-10 19:38:41 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/food/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2025-01-10 19:38:41 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/misc/mashed_potatoes": {
+    "criteria": {
+      "has_milk": "2025-01-10 19:38:41 +0000"
+    },
+    "done": false
+  },
+  "divinerpg:recipes/shapeless/cheese": {
+    "criteria": {
+      "has_milk_bucket": "2025-01-10 19:38:41 +0000"
+    },
+    "done": false
+  },
+  "born_in_chaos_v1:arachnophobes_nightmare": {
+    "criteria": {
+      "arachnophobes_nightmare_0": "2025-01-10 19:52:06 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:cannon": {
+    "criteria": {
+      "weapon": "2025-01-10 19:59:05 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap/piston": {
+    "criteria": {
+      "has_sticky_piston": "2025-01-10 20:24:41 +0000"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/guster": {
+    "criteria": {
+      "killed": "2025-01-10 20:49:48 +0000"
+    },
+    "done": false
+  },
+  "alexscaves:alexscaves/sugar_rush": {
+    "criteria": {
+      "all_effects": "2025-01-10 20:54:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:from_the_tree_tops": {
+    "criteria": {
+      "kapok_vines": "2025-01-10 21:12:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-10 21:20:12 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-10 21:20:12 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2025-01-10 21:20:12 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2025-01-10 21:20:12 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/decorations/sign_post_jungle": {
+    "criteria": {
+      "has_planks": "2025-01-10 21:20:12 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-10 21:20:12 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2025-01-10 21:20:12 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2025-01-10 21:20:12 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2025-01-10 21:20:12 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-10 21:20:12 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/village_defender": {
+    "criteria": {
+      "coded_trigger": "2025-01-10 21:49:38 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/food/cooked_grittle_flatfish_from_smoking_grittle_flatfish": {
+    "criteria": {
+      "has_item": "2025-01-10 21:50:56 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/mead": {
+    "criteria": {
+      "has_honey": "2025-01-10 21:50:56 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-01-10 21:50:56 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-01-10 21:50:56 +0000"
+    },
+    "done": false
+  },
+  "blue_skies:recipes/food/cooked_grittle_flatfish_from_campfire_cooking_grittle_flatfish": {
+    "criteria": {
+      "has_item": "2025-01-10 21:50:56 +0000"
+    },
+    "done": false
+  },
+  "blue_skies:recipes/food/cooked_grittle_flatfish_from_smelting_grittle_flatfish": {
+    "criteria": {
+      "has_item": "2025-01-10 21:50:56 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/food/honey_cookie": {
+    "criteria": {
+      "has_honey_bottle": "2025-01-10 21:50:56 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/misc/anchovy_pizza": {
+    "criteria": {
+      "has_anchovies": "2025-01-10 22:02:34 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/food/cooked_anchovy_from_smoking_anchovy": {
+    "criteria": {
+      "has_anchovy": "2025-01-10 22:02:34 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/food/cooked_anchovy_from_anchovy": {
+    "criteria": {
+      "has_anchovy": "2025-01-10 22:02:34 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-01-10 22:13:15 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
+    "criteria": {
+      "has_vex_armor_trim_smithing_template": "2025-01-10 22:13:15 +0000"
     },
     "done": false
   },
