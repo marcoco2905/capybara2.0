@@ -8418,3 +8418,109 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Jan2025 17:58:36.530] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [10Jan2025 17:58:36.577] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [10Jan2025 17:59:33.678] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[10Jan2025 18:01:26.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 was doomed to fall by Flusk Zombie
+[10Jan2025 18:01:26.100] [Server thread/DEBUG] [tombstone/]: A new grave of the player marcouwu2005 was created at position [x:-1965, y:84, z:4168, dim:minecraft:overworld]
+[10Jan2025 18:01:26.190] [Server thread/INFO] [tombstone/]: The player marcouwu2005 has successfully been saved
+[10Jan2025 18:01:27.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> chamo
+[10Jan2025 18:01:28.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> a
+[10Jan2025 18:01:46.397] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AdventurerEntity['marcouwu2005'/11553, l='ServerLevel[world]', x=-1970.47, y=84.00, z=4192.51] died: marcouwu2005 was slain by Kiri080
+[10Jan2025 18:02:05.674] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[10Jan2025 18:03:26.210] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kiri080 moved wrongly!
+[10Jan2025 18:03:36.619] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jan2025 18:03:36.656] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jan2025 18:06:06.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> ola
+[10Jan2025 18:06:08.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> q pasao
+[10Jan2025 18:06:18.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> te tiesaron
+[10Jan2025 18:07:42.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> OE DEJA DE HACER CRECER PLANTAS CARAJO+
+[10Jan2025 18:07:57.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> CHAMOOO
+[10Jan2025 18:08:01.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> tiro rayos
+[10Jan2025 18:08:04.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> rempalagos
+[10Jan2025 18:08:09.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> alrededor mio
+[10Jan2025 18:08:36.484] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jan2025 18:08:36.522] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jan2025 18:09:18.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> a pcoo
+[10Jan2025 18:09:20.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> a ver
+[10Jan2025 18:09:23.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> ira
+[10Jan2025 18:09:33.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> ontas
+[10Jan2025 18:09:37.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> aca
+[10Jan2025 18:10:20.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> HAAA
+[10Jan2025 18:10:23.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> ESE ES DEL
+[10Jan2025 18:10:26.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> de magia
+[10Jan2025 18:10:30.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> potente
+[10Jan2025 18:10:33.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> mira lo qq aprendi
+[10Jan2025 18:10:36.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> me lo dio la bendicion
+[10Jan2025 18:10:40.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> a ver
+[10Jan2025 18:10:58.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> q pa un pollo
+[10Jan2025 18:11:00.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> mejor nadota
+[10Jan2025 18:11:00.552] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:dirt} -1911 4251 4251 VisualFallingBlockEntity['Falling Dirt'/16361, l='ServerLevel[world]', x=-1910.50, y=66.00, z=4251.50]
+[10Jan2025 18:11:00.581] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} -1915 4253 4253 VisualFallingBlockEntity['Falling Stone'/16362, l='ServerLevel[world]', x=-1914.50, y=67.00, z=4253.50]
+[10Jan2025 18:11:07.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> esq no hay mas mobs p
+[10Jan2025 18:11:09.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> KJASDJKA
+[10Jan2025 18:11:11.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> en la noceh lo hago de nuevo
+[10Jan2025 18:11:17.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> tambien aprendo a mina
+[10Jan2025 18:11:19.508] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} -1919 4254 4254 VisualFallingBlockEntity['Falling Stone'/16499, l='ServerLevel[world]', x=-1918.50, y=62.00, z=4254.50]
+[10Jan2025 18:11:19.514] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} -1920 4253 4253 VisualFallingBlockEntity['Falling Stone'/16500, l='ServerLevel[world]', x=-1919.50, y=62.00, z=4253.50]
+[10Jan2025 18:11:21.411] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:dirt} -1926 4253 4253 VisualFallingBlockEntity['Falling Dirt'/16529, l='ServerLevel[world]', x=-1925.50, y=62.00, z=4253.50]
+[10Jan2025 18:11:23.899] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} -1934 4251 4251 VisualFallingBlockEntity['Falling Stone'/16618, l='ServerLevel[world]', x=-1933.50, y=64.00, z=4251.50]
+[10Jan2025 18:11:23.901] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} -1930 4248 4248 VisualFallingBlockEntity['Falling Stone'/16619, l='ServerLevel[world]', x=-1929.50, y=61.00, z=4248.50]
+[10Jan2025 18:11:23.903] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} -1934 4248 4248 VisualFallingBlockEntity['Falling Stone'/16620, l='ServerLevel[world]', x=-1933.50, y=61.00, z=4248.50]
+[10Jan2025 18:11:23.929] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} -1936 4250 4250 VisualFallingBlockEntity['Falling Stone'/16621, l='ServerLevel[world]', x=-1935.50, y=61.00, z=4250.50]
+[10Jan2025 18:11:32.244] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} -1920 4248 4248 VisualFallingBlockEntity['Falling Stone'/16695, l='ServerLevel[world]', x=-1919.50, y=61.00, z=4248.50]
+[10Jan2025 18:11:32.247] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} -1921 4243 4243 VisualFallingBlockEntity['Falling Stone'/16696, l='ServerLevel[world]', x=-1920.50, y=66.00, z=4243.50]
+[10Jan2025 18:11:32.253] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} -1916 4248 4248 VisualFallingBlockEntity['Falling Stone'/16697, l='ServerLevel[world]', x=-1915.50, y=65.00, z=4248.50]
+[10Jan2025 18:11:32.261] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} -1918 4247 4247 VisualFallingBlockEntity['Falling Stone'/16698, l='ServerLevel[world]', x=-1917.50, y=64.00, z=4247.50]
+[10Jan2025 18:11:32.269] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} -1918 4245 4245 VisualFallingBlockEntity['Falling Stone'/16699, l='ServerLevel[world]', x=-1917.50, y=65.00, z=4245.50]
+[10Jan2025 18:11:34.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> a la mrd
+[10Jan2025 18:11:38.760] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} -1929 4245 4245 VisualFallingBlockEntity['Falling Stone'/16779, l='ServerLevel[world]', x=-1928.50, y=61.00, z=4245.50]
+[10Jan2025 18:11:47.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> Y ESTE
+[10Jan2025 18:12:01.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> aaa
+[10Jan2025 18:12:06.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> este es el que te vi donde el warde
+[10Jan2025 18:12:10.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> zi
+[10Jan2025 18:12:14.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> antes estaba chiquito
+[10Jan2025 18:12:16.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> pero lo mejore
+[10Jan2025 18:12:26.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> potente
+[10Jan2025 18:12:35.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> HA TAMBIEN PUEDO HACERTE VOLAR
+[10Jan2025 18:12:40.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> a poco
+[10Jan2025 18:12:51.445] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:telekinesis 1: [1a5df4eb-57a7-3a18-b41f-1bd2c4729cf5]
+[10Jan2025 18:13:03.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> wtf
+[10Jan2025 18:13:24.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> a su mecha
+[10Jan2025 18:13:31.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> y aun asi sales papeado x el warden
+[10Jan2025 18:13:36.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> yo de ti me doy de baja
+[10Jan2025 18:13:36.505] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jan2025 18:13:36.557] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jan2025 18:13:38.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> jajajja
+[10Jan2025 18:13:45.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> esq recien los he mejorado
+[10Jan2025 18:13:45.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> KJSADJK
+[10Jan2025 18:13:47.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> antes no los tenia
+[10Jan2025 18:15:20.481] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[10Jan2025 18:16:15.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> chamo
+[10Jan2025 18:16:17.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> tienes
+[10Jan2025 18:16:21.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> fragmentos resonantes?
+[10Jan2025 18:16:27.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> son unas cosas del warden
+[10Jan2025 18:16:33.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> zi
+[10Jan2025 18:16:39.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> pase
+[10Jan2025 18:16:46.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> tengo 3
+[10Jan2025 18:16:49.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> te sirven?
+[10Jan2025 18:16:52.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> me faltara 1
+[10Jan2025 18:16:54.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> pase igual
+[10Jan2025 18:17:04.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> yo ni uno encontre en esa ancient city
+[10Jan2025 18:17:10.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> AJJAJAJ
+[10Jan2025 18:17:14.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> namas encontre el molde
+[10Jan2025 18:17:16.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> yo agarre todos
+[10Jan2025 18:17:18.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> de mejora warden
+[10Jan2025 18:17:19.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> a
+[10Jan2025 18:17:36.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> no baboso
+[10Jan2025 18:17:40.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> eso no
+[10Jan2025 18:17:41.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> KJSADKJ
+[10Jan2025 18:17:44.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> A
+[10Jan2025 18:17:50.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> TU DIJISTE FRAGMENTOS RESONANTES
+[10Jan2025 18:18:08.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> el que te hablo
+[10Jan2025 18:18:13.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> es un objeto del mc chamito
+[10Jan2025 18:18:19.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> buscalo
+[10Jan2025 18:18:38.582] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jan2025 18:18:38.628] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jan2025 18:18:53.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> haaa
+[10Jan2025 18:19:25.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> tengo caparazon del warden
+[10Jan2025 18:19:28.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> caparace warden
+[10Jan2025 18:19:31.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> pase
+[10Jan2025 18:19:54.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> pera
