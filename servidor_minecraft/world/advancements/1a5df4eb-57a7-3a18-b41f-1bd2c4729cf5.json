@@ -2187,9 +2187,10 @@
   },
   "ironchest:recipes/decorations/upgrades/wood_to_iron_chest_upgrade": {
     "criteria": {
+      "has_the_recipe": "2025-01-10 18:33:25 +0000",
       "has_iron_ingot": "2024-12-19 04:28:21 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
@@ -2762,9 +2763,10 @@
   },
   "ironchest:recipes/decorations/upgrades/iron_to_gold_chest_upgrade": {
     "criteria": {
+      "has_the_recipe": "2025-01-10 18:35:06 +0000",
       "has_iron_ingot": "2024-12-19 04:28:21 +0000"
     },
-    "done": false
+    "done": true
   },
   "l2weaponry:recipes/tools/generated/craft/iron_dagger_enchanted": {
     "criteria": {
@@ -5237,9 +5239,10 @@
   },
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
-      "has_iron_nugget": "2024-12-20 05:45:08 +0000"
+      "has_iron_nugget": "2024-12-20 05:45:08 +0000",
+      "has_the_recipe": "2025-01-10 18:31:08 +0000"
     },
-    "done": false
+    "done": true
   },
   "knightquest:recipes/misc/conquistador2_helmet": {
     "criteria": {

@@ -8539,3 +8539,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Jan2025 18:30:10.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <marcouwu2005> DEJA CHEKO
 [10Jan2025 18:30:27.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> no pegas
 [10Jan2025 18:30:28.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> KJSADJHSA
+[10Jan2025 18:32:02.959] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:telekinesis 1: [5540f5bc-5a87-4c56-ae8d-fdbf5729d554]
+[10Jan2025 18:33:38.503] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jan2025 18:33:38.541] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jan2025 18:34:31.766] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:sculk_tentacles 1: [9f9b92af-2c46-48df-bb51-950521b01c54]
+[10Jan2025 18:35:49.918] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:sculk_tentacles 1: [5540f5bc-5a87-4c56-ae8d-fdbf5729d554]
+[10Jan2025 18:38:38.532] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jan2025 18:38:38.572] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jan2025 18:38:54.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kiri080> zzz
+[10Jan2025 18:39:58.945] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: marcouwu2005 lost connection: Disconnected
+[10Jan2025 18:39:58.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 left the game
