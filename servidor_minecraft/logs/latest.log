@@ -1063,3 +1063,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11Jan2025 05:15:16.211] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Elza'/2383, l='ServerLevel[world]', x=1239.40, y=94.00, z=4951.21] died: Elza was slain by Assi
 [11Jan2025 05:15:39.010] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Hank'/2364, l='ServerLevel[world]', x=1230.67, y=94.00, z=4948.78] died, message: 'Hank was slain by Assi'
 [11Jan2025 05:15:39.011] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Hank'/2364, l='ServerLevel[world]', x=1230.67, y=94.00, z=4948.78] died: Hank was slain by Assi
+[11Jan2025 05:23:50.401] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Erika'/2353, l='ServerLevel[world]', x=1223.30, y=68.00, z=4932.30] died, message: 'Erika was slain by Miner Zombie'
+[11Jan2025 05:23:50.402] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Erika'/2353, l='ServerLevel[world]', x=1223.30, y=68.00, z=4932.30] died: Erika was slain by Miner Zombie
+[11Jan2025 05:24:01.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kiri080 has made the advancement [Bear Necessities]
+[11Jan2025 05:24:14.245] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Rosan'/2213, l='ServerLevel[world]', x=1225.50, y=74.00, z=4924.89] died, message: 'Rosan burned to death'
+[11Jan2025 05:24:14.246] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Rosan'/2213, l='ServerLevel[world]', x=1225.50, y=74.00, z=4924.89] died: Rosan burned to death
+[11Jan2025 05:26:10.791] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[11Jan2025 05:28:57.741] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already

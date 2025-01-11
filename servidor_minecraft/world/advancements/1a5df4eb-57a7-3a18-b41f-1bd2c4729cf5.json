@@ -12620,5 +12620,11 @@
     },
     "done": true
   },
+  "cnc:black_bearadvancement": {
+    "criteria": {
+      "black_bearadvancement_0": "2025-01-11 05:24:01 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
