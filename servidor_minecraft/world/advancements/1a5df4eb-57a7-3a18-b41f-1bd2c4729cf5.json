@@ -8657,6 +8657,7 @@
   },
   "mca:root": {
     "criteria": {
+      "village_taiga": "2025-01-11 00:30:42 +0000",
       "village_snowy": "2025-01-06 06:49:48 +0000",
       "village_desert": "2024-12-26 08:05:24 +0000",
       "village_plains": "2024-12-27 04:38:01 +0000"
@@ -12612,6 +12613,12 @@
       "has_log": "2025-01-10 23:06:35 +0000"
     },
     "done": false
+  },
+  "dungeons_arise:find_keep_kayra": {
+    "criteria": {
+      "location0": "2025-01-11 00:30:42 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
