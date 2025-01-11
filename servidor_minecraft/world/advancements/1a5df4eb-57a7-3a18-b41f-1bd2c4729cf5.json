@@ -12620,11 +12620,41 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-01-11 05:40:18 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-01-11 05:40:18 +0000"
+    },
+    "done": false
+  },
+  "cnc:squonkadvancement": {
+    "criteria": {
+      "squonkadvancement_0": "2025-01-11 05:45:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-01-11 05:40:18 +0000"
+    },
+    "done": false
+  },
   "cnc:black_bearadvancement": {
     "criteria": {
       "black_bearadvancement_0": "2025-01-11 05:24:01 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-01-11 05:40:18 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
