@@ -2957,7 +2957,8 @@
   "knightquest:recipes/misc/pirate_boots": {
     "criteria": {
       "has_clock": "2024-12-23 08:24:32 +0000",
-      "has_bone": "2024-12-19 04:29:32 +0000"
+      "has_bone": "2024-12-19 04:29:32 +0000",
+      "has_map": "2025-01-11 05:52:13 +0000"
     },
     "done": false
   },
@@ -3007,7 +3008,8 @@
   "knightquest:recipes/misc/pirate_helmet": {
     "criteria": {
       "has_clock": "2024-12-23 08:24:32 +0000",
-      "has_bone": "2024-12-19 04:29:32 +0000"
+      "has_bone": "2024-12-19 04:29:32 +0000",
+      "has_map": "2025-01-11 05:52:13 +0000"
     },
     "done": false
   },
@@ -3022,7 +3024,8 @@
   "knightquest:recipes/misc/pirate_chestplate": {
     "criteria": {
       "has_clock": "2024-12-23 08:24:32 +0000",
-      "has_bone": "2024-12-19 04:29:32 +0000"
+      "has_bone": "2024-12-19 04:29:32 +0000",
+      "has_map": "2025-01-11 05:52:13 +0000"
     },
     "done": false
   },
@@ -3045,7 +3048,8 @@
   "knightquest:recipes/misc/pirate_leggings": {
     "criteria": {
       "has_clock": "2024-12-23 08:24:32 +0000",
-      "has_bone": "2024-12-19 04:29:32 +0000"
+      "has_bone": "2024-12-19 04:29:32 +0000",
+      "has_map": "2025-01-11 05:52:13 +0000"
     },
     "done": false
   },
@@ -5159,7 +5163,8 @@
   },
   "knightquest:recipes/misc/pirate3_helmet": {
     "criteria": {
-      "has_black_candle": "2024-12-20 05:29:08 +0000"
+      "has_black_candle": "2024-12-20 05:29:08 +0000",
+      "has_map": "2025-01-11 05:52:13 +0000"
     },
     "done": false
   },
@@ -12632,6 +12637,12 @@
     },
     "done": false
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-01-11 06:07:03 +0000"
+    },
+    "done": false
+  },
   "cnc:squonkadvancement": {
     "criteria": {
       "squonkadvancement_0": "2025-01-11 05:45:45 +0000"
@@ -12644,11 +12655,29 @@
     },
     "done": false
   },
+  "supplementaries:recipes/slice_map": {
+    "criteria": {
+      "has_map": "2025-01-11 05:52:13 +0000"
+    },
+    "done": false
+  },
   "cnc:black_bearadvancement": {
     "criteria": {
       "black_bearadvancement_0": "2025-01-11 05:24:01 +0000"
     },
     "done": true
+  },
+  "knightquest:recipes/misc/khopesh": {
+    "criteria": {
+      "has_map": "2025-01-11 05:52:13 +0000"
+    },
+    "done": false
+  },
+  "knightquest:recipes/misc/khopesh_claymore": {
+    "criteria": {
+      "has_map": "2025-01-11 05:52:13 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
     "criteria": {
