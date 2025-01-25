@@ -8050,3 +8050,36 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [25Jan2025 02:24:07.437] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase Landing (#18) on the server
 [25Jan2025 02:24:11.682] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase Ground Battle (#17) on the server
 [25Jan2025 02:24:33.036] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase Flying (#16) on the server
+[25Jan2025 02:25:05.286] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase Airstrike (#19) on the server
+[25Jan2025 02:25:08.333] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase Flying (#16) on the server
+[25Jan2025 02:25:25.083] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase Airstrike (#19) on the server
+[25Jan2025 02:25:31.281] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase Flying (#16) on the server
+[25Jan2025 02:25:57.331] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase Airstrike (#19) on the server
+[25Jan2025 02:26:00.531] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase Flying (#16) on the server
+[25Jan2025 02:26:29.690] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:sculk_tentacles 1: [1e246799-2d4b-49f4-8216-58216c58b436]
+[25Jan2025 02:26:32.332] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase Landing (#18) on the server
+[25Jan2025 02:26:39.882] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase Ground Battle (#17) on the server
+[25Jan2025 02:26:41.830] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:end_stone} 24 -34 -34 VisualFallingBlockEntity['Falling End Stone'/6315, l='ServerLevel[world]', x=24.50, y=56.00, z=-33.50]
+[25Jan2025 02:26:42.631] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase Flying (#16) on the server
+[25Jan2025 02:26:59.930] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase Airstrike (#19) on the server
+[25Jan2025 02:27:06.332] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase Flying (#16) on the server
+[25Jan2025 02:27:09.682] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase Landing (#18) on the server
+[25Jan2025 02:27:15.132] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase Ground Battle (#17) on the server
+[25Jan2025 02:27:22.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has reached the goal [Triple the Danger]
+[25Jan2025 02:27:32.284] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase Flying (#16) on the server
+[25Jan2025 02:27:37.288] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jan2025 02:27:37.316] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Jan2025 02:27:47.080] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase Airstrike (#19) on the server
+[25Jan2025 02:27:51.131] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase Flying (#16) on the server
+[25Jan2025 02:28:14.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [Free the End]
+[25Jan2025 02:28:14.989] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_dragon_loot
+[25Jan2025 02:28:14.991] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase Dying (#9) on the server
+[25Jan2025 02:29:43.604] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:end_stone} 11 -2 -2 VisualFallingBlockEntity['Falling End Stone'/7252, l='ServerLevel[world]', x=11.50, y=57.00, z=-1.50]
+[25Jan2025 02:29:43.608] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:end_stone} 16 -1 -1 VisualFallingBlockEntity['Falling End Stone'/7253, l='ServerLevel[world]', x=16.50, y=53.00, z=-0.50]
+[25Jan2025 02:29:43.610] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:end_stone} 12 -3 -3 VisualFallingBlockEntity['Falling End Stone'/7254, l='ServerLevel[world]', x=12.50, y=53.00, z=-2.50]
+[25Jan2025 02:29:43.626] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:end_stone} 10 -7 -7 VisualFallingBlockEntity['Falling End Stone'/7255, l='ServerLevel[world]', x=10.50, y=56.00, z=-6.50]
+[25Jan2025 02:29:43.633] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:end_stone} 16 -6 -6 VisualFallingBlockEntity['Falling End Stone'/7256, l='ServerLevel[world]', x=16.50, y=55.00, z=-5.50]
+[25Jan2025 02:32:37.267] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Jan2025 02:32:37.294] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Jan2025 02:34:03.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [Remote Getaway]
+[25Jan2025 02:34:07.079] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3303ms or 66 ticks behind

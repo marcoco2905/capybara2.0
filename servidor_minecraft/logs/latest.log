@@ -1059,3 +1059,24 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [25Jan2025 02:24:07.437] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase Landing (#18) on the server
 [25Jan2025 02:24:11.682] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase Ground Battle (#17) on the server
 [25Jan2025 02:24:33.036] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase Flying (#16) on the server
+[25Jan2025 02:25:05.286] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase Airstrike (#19) on the server
+[25Jan2025 02:25:08.333] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase Flying (#16) on the server
+[25Jan2025 02:25:25.083] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase Airstrike (#19) on the server
+[25Jan2025 02:25:31.281] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase Flying (#16) on the server
+[25Jan2025 02:25:57.331] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase Airstrike (#19) on the server
+[25Jan2025 02:26:00.531] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase Flying (#16) on the server
+[25Jan2025 02:26:32.332] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase Landing (#18) on the server
+[25Jan2025 02:26:39.882] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase Ground Battle (#17) on the server
+[25Jan2025 02:26:42.631] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase Flying (#16) on the server
+[25Jan2025 02:26:59.930] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase Airstrike (#19) on the server
+[25Jan2025 02:27:06.332] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase Flying (#16) on the server
+[25Jan2025 02:27:09.682] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase Landing (#18) on the server
+[25Jan2025 02:27:15.132] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase Ground Battle (#17) on the server
+[25Jan2025 02:27:22.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has reached the goal [Triple the Danger]
+[25Jan2025 02:27:32.284] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase Flying (#16) on the server
+[25Jan2025 02:27:47.080] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase Airstrike (#19) on the server
+[25Jan2025 02:27:51.131] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase Flying (#16) on the server
+[25Jan2025 02:28:14.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [Free the End]
+[25Jan2025 02:28:14.991] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase Dying (#9) on the server
+[25Jan2025 02:34:03.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marcouwu2005 has made the advancement [Remote Getaway]
+[25Jan2025 02:34:07.079] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3303ms or 66 ticks behind
